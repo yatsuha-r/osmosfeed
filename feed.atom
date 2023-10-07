@@ -2,120 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T09:07:13.461Z</updated>
+    <updated>2023-10-07T09:09:06.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate from create-react-app to Vite using Jest and Browserslist]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/"/>
-        <updated>2023-10-06T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The React team no longer recommends using create-react-app (CRA) [https://github.com/facebook/create-react-app] as a bundler to create a new React application. The team and community realized that even though CRA was a jump-starter, it lacked the flexibility needed to configure or manage large and complex applications. Nowadays, the team recommends using production-grade]]></summary>
-        <author>
-            <name>Saheed Oladele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use URLs for State Management in React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/"/>
-        <updated>2023-10-06T17:50:28.000Z</updated>
-        <summary type="html"><![CDATA[For years, URLs have been synonymous with web navigation. But the tide is turning, especially with the emergence of single-page applications. In the React universe, URLs are stepping up to play a pivotal role in state management. This article will guide you through the transformative journey of URLs as state]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ethics of AI and ML]]></title>
-        <id>https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/</id>
-        <link href="https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/"/>
-        <updated>2023-10-06T15:16:06.000Z</updated>
-        <summary type="html"><![CDATA[The rapid ascent of Artificial Intelligence (AI) and Machine Learning (ML) into mainstream technology and its influence on various sectors of our society raises a series of profound ethical questions. It's not just about the technical ability of these systems but the ethical implications that could shape our future.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Browser Compatibility Testing – Best Practices for Web Developers]]></title>
-        <id>https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/</id>
-        <link href="https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/"/>
-        <updated>2023-10-05T23:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Imagine putting in a ton of work to build a web application. And then it works in the Chrome browser, but misbehaves in Mozilla, Safari, or any other browser. As a web developer, you're likely eager to create amazing web applications that reach users across the globe. But one major]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Request Location Permissions in Jetpack Compose]]></title>
-        <id>https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/</id>
-        <link href="https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/"/>
-        <updated>2023-10-05T19:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Getting a user’s location can be a bit of hassle. Over the years, the permissions required to do this and the logic associated with it have changed quite drastically.  If your application depends on getting the user’s location, you want to ensure that the user has a good experience]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Deploy an Ecommerce Site with Next.js, Tailwind CSS, Prisma, Vercel, and daisyUI]]></title>
-        <id>https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/</id>
-        <link href="https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/"/>
-        <updated>2023-10-05T15:36:56.000Z</updated>
-        <summary type="html"><![CDATA[When learning how to build a web app it can be helpful to see how everything works together, instead of learning a lot of technologies individually. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a full-stack e-commerce website with]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Arduino Handbook – Learn Microcontrollers for Embedded Systems]]></title>
-        <id>https://www.freecodecamp.org/news/the-arduino-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-arduino-handbook/"/>
-        <updated>2023-10-05T13:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Arduino is an open-source platform that combines hardware and software in designing and building electronic projects. Arduino can be applied in a variety of projects like:  * Home automation.  * Internet of Things (IoT).  * Audio and music.  * Automated and remote controlled systems.  *]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/</id>
-        <link href="https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/"/>
-        <updated>2023-10-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Lists – Ordered, Unordered and Definition List Examples]]></title>
-        <id>https://www.freecodecamp.org/news/html-lists-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/html-lists-with-examples/"/>
-        <updated>2023-10-04T16:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're creating an article with a list of recommendations or a web page with a menu of options. How do you structure this information to make it visually appealing and easy to navigate?  This is where HTML lists come to the rescue. In this article, we'll dive into]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Standardize Your Development Environment with devcontainer.json]]></title>
-        <id>https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/</id>
-        <link href="https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/"/>
-        <updated>2023-10-04T14:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Modern software development workflows are complicated, involving many tools and dependencies.  When working in a team, it's not uncommon to use several different software programs, each with its own dependencies. This can quickly become confusing, with each software requiring different configurations and management.  One solution is to use]]></summary>
-        <author>
-            <name>Hrittik Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increase Your VS Code Productivity]]></title>
-        <id>https://www.freecodecamp.org/news/increase-your-vs-code-productivity/</id>
-        <link href="https://www.freecodecamp.org/news/increase-your-vs-code-productivity/"/>
-        <updated>2023-10-04T14:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Have you watched a seasoned developer work in Visual Studio Code (VS Code) and wondered how they make it look so effortless? The freeCodeCamp YouTube channel is here to help you unlock your coding superpowers with a new course we just published about increasing your productivity in VS Code. Chris]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[(成年コミック) [40010試作型] プロトタイプティーンズ [DL版]]]></title>
         <id>https://sukebei.nyaa.si/view/3971272</id>
@@ -124,26 +14,6 @@
         <summary type="html"><![CDATA[#3971272 | (成年コミック) [40010試作型] プロトタイプティーンズ [DL版] | 275.1 MiB | Art - Manga | 342d1a4447c4676c8d126d6dd02fb715fd796192]]></summary>
         <author>
             <name>Sukebei - "40010試作型" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Problem With WordPress Is Positioning, Not Plugins]]></title>
-        <id>https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/</id>
-        <link href="https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/"/>
-        <updated>2023-10-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WaterBear: Building A Free Platform For Impactful Documentaries (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/</id>
-        <link href="https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/"/>
-        <updated>2023-10-02T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this second article of a two-part series, Adrian shares insights about building WaterBear — his first project as a lead developer — discussing the challenges his team encountered while building it and various accessibility and performance improvements they’ve made. You’ll get a peek at the inner workings of a team striving to find its groove to systematize the work.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
     <entry>
@@ -167,96 +37,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dancing Leaves And Spooky Fellows (October 2023 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/</id>
-        <link href="https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/"/>
-        <updated>2023-09-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/09/re-creating-pop-out-hover-effect-css-part1/</id>
-        <link href="https://smashingmagazine.com/2023/09/re-creating-pop-out-hover-effect-css-part1/"/>
-        <updated>2023-09-29T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is all about experimenting with modern CSS features. We will combine things like CSS masks, CSS variables, trigonometric functions, `@property`, and more to create a neat hover effect that would have been extremely difficult to do even a few years ago without the latest and greatest that CSS has to offer.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Enhanced Patterns In WordPress 6.3]]></title>
-        <id>https://smashingmagazine.com/2023/09/exploring-enhanced-patterns-system-wordpress/</id>
-        <link href="https://smashingmagazine.com/2023/09/exploring-enhanced-patterns-system-wordpress/"/>
-        <updated>2023-09-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Ganesh Dahal explains how the features have evolved since reusable blocks were officially released in WordPress 5.0 — and how the two have converged in WordPress 6.3 to form a powerful feature capable of allowing content creators to sync content and design patterns consistently in pages and posts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ganesh Dahal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With Neon Branching]]></title>
-        <id>https://smashingmagazine.com/2023/09/getting-started-with-neon-branching/</id>
-        <link href="https://smashingmagazine.com/2023/09/getting-started-with-neon-branching/"/>
-        <updated>2023-09-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Branches are a really nice (and safe) way to configure or reconfigure your database without fear of screwing up the production database. Let’s take a closer look at how branching works with [Neon](https://bit.ly/46cEgX1), and the good news is, you probably already know how it works!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 65 With Alex Older: How Do You Run A Grassroots Conference?]]></title>
-        <id>https://smashingmagazine.com/2023/09/smashing-podcast-episode-65/</id>
-        <link href="https://smashingmagazine.com/2023/09/smashing-podcast-episode-65/"/>
-        <updated>2023-09-26T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re talking about running grassroots conferences and meet-ups. What does it take to organize a small industry event for your community? Drew McLellan talks to WDC’s Alex Older to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WaterBear: Building A Free Platform For Impactful Documentaries (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/</id>
-        <link href="https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/"/>
-        <updated>2023-09-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Adrian’s kicking off a two-part series, sharing his journey as a lead developer. In the process, you will learn about the lessons and insights Adrian gained at work, including the strategies that went into the technical stack of the project and what it looks like to collaborate with a team he is leading for the first time.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Path To Awesome CSS Easing With The linear() Function]]></title>
-        <id>https://smashingmagazine.com/2023/09/path-css-easing-linear-function/</id>
-        <link href="https://smashingmagazine.com/2023/09/path-css-easing-linear-function/"/>
-        <updated>2023-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the new CSS `linear()` easing function on the horizon, the possibilities of what we can do to create natural-feeling animations and transitions in the future are greatly expanded. Jhey Tompkins looks at the current state of CSS easing in this article and demonstrates what we can expect from `linear()`, including handy tools to get your hands on it today.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facilitating Inclusive Online Workshops (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part2/</id>
-        <link href="https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part2/"/>
-        <updated>2023-09-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To help ensure the success of a workshop, Ben Shih introduces the concept of an inclusive workshop. In Part 2 of the series, you will continue to delve deeper into several key principles and guidelines that you can follow during and after the workshop to encourage an inclusive atmosphere.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ben Shih)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Smashing Magazine Uses TinaCMS To Manage An Editorial Workflow]]></title>
-        <id>https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/</id>
-        <link href="https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/"/>
-        <updated>2023-09-18T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is a peek behind the curtain of how content is managed here at Smashing Magazine. In it, you’ll get a tour of an article’s full lifecycle, from a basic outline to the sort of thing you’re reading right this second.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(C102) [しりあるヒプノ (海野りょう、大嘘)] メスイキ☆男の娘アイドル ～ノーハンド射精できてお得～ (オリジナル) [DL版]]]></title>
         <id>https://sukebei.nyaa.si/view/3960850</id>
         <link href="https://sukebei.nyaa.si/download/3960850.torrent"/>
@@ -264,36 +44,6 @@
         <summary type="html"><![CDATA[#3960850 | (C102) [しりあるヒプノ (海野りょう、大嘘)] メスイキ☆男の娘アイドル ～ノーハンド射精できてお得～ (オリジナル) [DL版] | 133.8 MiB | Art - Doujinshi | 8723040c7c68c878b8055a7ae28887b1259e5c6d]]></summary>
         <author>
             <name>Sukebei - "大嘘" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revealing Images With CSS Mask Animations]]></title>
-        <id>https://smashingmagazine.com/2023/09/revealing-images-css-mask-animations/</id>
-        <link href="https://smashingmagazine.com/2023/09/revealing-images-css-mask-animations/"/>
-        <updated>2023-09-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s play with images and experiment with CSS masks. The idea is fairly simple: take a single `` tag and harness the power of CSS to accomplish complex hover transitions. Through different demos, you will see how CSS masks combined with gradients allow us to create fancy effects — with efficient, reusable code.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facilitating Inclusive Online Workshops (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/</id>
-        <link href="https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/"/>
-        <updated>2023-09-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Running a workshop can be an effective alternative to traditional, long-standing meetings. To help ensure its success, Ben Shih introduces the concept of an inclusive workshop. In Part 1 of the series, you discover the fundamentals of inclusivity and get some solid guidance on how to plan an inclusive remote workshop.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ben Shih)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradients, Blend Modes, And A Really Cool Hover Effect]]></title>
-        <id>https://smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/</id>
-        <link href="https://smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/"/>
-        <updated>2023-09-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gradients are a powerful CSS feature. We use them for texture, depth, and even to hide parts of elements with CSS masking. This article covers another interesting way to use gradients — as a hover effect that affects the appearance of other elements around the hovered element.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
         </author>
     </entry>
     <entry>
@@ -324,16 +74,6 @@
         <summary type="html"><![CDATA[#3954625 | (同人CG集) [加瀬大輝] 密着JKさん+友達に予備の水着を借りた姉 (改) | 234.8 MiB | Art - Pictures | d8676a0b112e9d243eca542198ae518f4cd7bd8c]]></summary>
         <author>
             <name>Sukebei - "加瀬大輝" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rediscovering The Joy Of Design]]></title>
-        <id>https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/</id>
-        <link href="https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/"/>
-        <updated>2023-09-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pratik Joglekar takes a philosophical approach to remind designers about the lost joy within themselves by effectively placing massive importance on mindfulness, introspection, and forward-looking. Without joy, the work we do would feel meaningless. To prevent it from happening, check out a few ideas that would help rediscover that spark of joy.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
         </author>
     </entry>
 </feed>
