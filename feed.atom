@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T10:49:13.172Z</updated>
+    <updated>2023-10-07T10:51:32.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -156,6 +156,36 @@
         <summary type="html"><![CDATA[#1721192 | [20230904][一般コミック][矢吹健太朗] あやかしトライアングル 15 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 50.0 MiB | Literature - Raw | a70a5f7bdfc9e0f3c2a955ccc0215fa77945eecf]]></summary>
         <author>
             <name>Nyaa - "あやかしトライアングル [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230712][一般コミック][肉村Ｑ] ジャイアントお嬢様（７） [サンデーうぇぶりコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1719862</id>
+        <link href="https://nyaa.si/download/1719862.torrent"/>
+        <updated>2023-09-21T20:21:57.000Z</updated>
+        <summary type="html"><![CDATA[#1719862 | [20230712][一般コミック][肉村Ｑ] ジャイアントお嬢様（７） [サンデーうぇぶりコミックス][AVIF][DL版] - MangaRoo | 68.6 MiB | Literature - Raw | 5c409ded255216f26857652994034fd34bffb503]]></summary>
+        <author>
+            <name>Nyaa - "ジャイアントお嬢様 [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230412][一般コミック][肉村Ｑ] ジャイアントお嬢様（６） [サンデーうぇぶりコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1719861</id>
+        <link href="https://nyaa.si/download/1719861.torrent"/>
+        <updated>2023-09-21T20:21:57.000Z</updated>
+        <summary type="html"><![CDATA[#1719861 | [20230412][一般コミック][肉村Ｑ] ジャイアントお嬢様（６） [サンデーうぇぶりコミックス][AVIF][DL版] - MangaRoo | 73.5 MiB | Literature - Raw | 041bb2435d88f2081bf5e5dc3d142fd5338288de]]></summary>
+        <author>
+            <name>Nyaa - "ジャイアントお嬢様 [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20221212][一般コミック][肉村Ｑ] ジャイアントお嬢様（５） [サンデーうぇぶりコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1719860</id>
+        <link href="https://nyaa.si/download/1719860.torrent"/>
+        <updated>2023-09-21T20:21:56.000Z</updated>
+        <summary type="html"><![CDATA[#1719860 | [20221212][一般コミック][肉村Ｑ] ジャイアントお嬢様（５） [サンデーうぇぶりコミックス][AVIF][DL版] - MangaRoo | 75.0 MiB | Literature - Raw | 966ad66a96abcbec2f9449a1392d892cc38d6029]]></summary>
+        <author>
+            <name>Nyaa - "ジャイアントお嬢様 [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -1893,46 +1923,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[IrizaRaws] Inu ni Nattara Suki na Hito ni Hirowareta (BDRip 1920x1080 x264 10bit FLAC)]]></title>
-        <id>https://nyaa.si/view/1674296</id>
-        <link href="https://nyaa.si/download/1674296.torrent"/>
-        <updated>2023-05-21T19:36:26.000Z</updated>
-        <summary type="html"><![CDATA[#1674296 | [IrizaRaws] Inu ni Nattara Suki na Hito ni Hirowareta (BDRip 1920x1080 x264 10bit FLAC) | 22.1 GiB | Anime - Raw | d96a3dbdff6a476abc72d480471020e9e3a8e58b]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Moozzi2] Inu ni Nattara Suki na Hito ni Hirowareta. (BD 1920x1080 x264-10Bit Flac) - TV + SP]]></title>
-        <id>https://nyaa.si/view/1673871</id>
-        <link href="https://nyaa.si/download/1673871.torrent"/>
-        <updated>2023-05-20T21:42:29.000Z</updated>
-        <summary type="html"><![CDATA[#1673871 | [Moozzi2] Inu ni Nattara Suki na Hito ni Hirowareta. (BD 1920x1080 x264-10Bit Flac) - TV + SP | 14.3 GiB | Anime - Raw | 3e30a37b4ea898cfcb1178d196fab98b58141d8f]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[S3rNx] Inu ni Nattara Suki na Hito ni Hirowareta. (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1672403</id>
-        <link href="https://nyaa.si/download/1672403.torrent"/>
-        <updated>2023-05-16T01:10:10.000Z</updated>
-        <summary type="html"><![CDATA[#1672403 | [S3rNx] Inu ni Nattara Suki na Hito ni Hirowareta. (BDRip 1920x1080 x264 FLAC) | 17.5 GiB | Anime - Raw | 9afdadaf8488267390a5f4290ebbfcd2c8ab0953]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[7³ACG] Inu ni Nattara Suki na Hito ni Hirowareta. 犬になったら好きな人に拾われた。S1+OVA [BDRip 1080p x265 FLAC]]]></title>
-        <id>https://nyaa.si/view/1672091</id>
-        <link href="https://nyaa.si/download/1672091.torrent"/>
-        <updated>2023-05-15T07:38:18.000Z</updated>
-        <summary type="html"><![CDATA[#1672091 | [7³ACG] Inu ni Nattara Suki na Hito ni Hirowareta. 犬になったら好きな人に拾われた。S1+OVA [BDRip 1080p x265 FLAC] | 6.1 GiB | Anime - Raw | 17e1b29e7ec349ecc65ea1e3e2592f7717ef7f72]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[IrizaRaws] Uzaki-chan wa Asobitai Double (BDRip 1920x1080 x264 10bit FLAC)]]></title>
         <id>https://nyaa.si/view/1671996</id>
         <link href="https://nyaa.si/download/1671996.torrent"/>
@@ -1950,16 +1940,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#1670815 | [IrizaRaws] Kage no Jitsuryokusha ni Naritakute (BDRip 1920x1080 x264 10bit FLAC) | 53.6 GiB | Anime - Raw | cbe51c88f9659dcdeed764ec9c21e646d01a4f3c]]></summary>
         <author>
             <name>Nyaa - "BD 1080 Kage no Jitsuryokusha" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Inu ni Nattara Suki na Hito ni Hirowareta (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1670635</id>
-        <link href="https://nyaa.si/download/1670635.torrent"/>
-        <updated>2023-05-11T11:45:14.000Z</updated>
-        <summary type="html"><![CDATA[#1670635 | [ReinForce] Inu ni Nattara Suki na Hito ni Hirowareta (BDRip 1920x1080 x264 FLAC) | 10.1 GiB | Anime - Raw | 30484d497413e6992562b761862a0f08eb05fbc1]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -2063,16 +2043,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#02][BDRip][AV1][1080P]]]></title>
-        <id>https://nyaa.si/view/1665715</id>
-        <link href="https://nyaa.si/download/1665715.torrent"/>
-        <updated>2023-04-27T20:22:10.000Z</updated>
-        <summary type="html"><![CDATA[#1665715 | [RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#02][BDRip][AV1][1080P] | 352.8 MiB | Anime - Raw | 9ff1ccd6bc4da9508807d79b376fd310d6b56906]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[ReinForce] Uzaki-chan wa Asobitai! (BDRip 1920x1080 x264 FLAC) batch]]></title>
         <id>https://nyaa.si/view/1665384</id>
         <link href="https://nyaa.si/download/1665384.torrent"/>
@@ -2093,56 +2063,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[AI-Raws] Isekai Ojisan / 異世界おじさん / Uncle from Another World BDRip 1080p MKV]]></title>
-        <id>https://nyaa.si/view/1662663</id>
-        <link href="https://nyaa.si/download/1662663.torrent"/>
-        <updated>2023-04-20T01:48:17.000Z</updated>
-        <summary type="html"><![CDATA[#1662663 | [AI-Raws] Isekai Ojisan / 異世界おじさん / Uncle from Another World BDRip 1080p MKV | 22.0 GiB | Anime - Raw | 168489eefd5d2169358aaeac1b2080d89ea0eb2d]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Isekai Ojisan" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IrizaRaws] Isekai Ojisan (BDRip 1920x1080 x264 10bit FLAC)]]></title>
-        <id>https://nyaa.si/view/1661982</id>
-        <link href="https://nyaa.si/download/1661982.torrent"/>
-        <updated>2023-04-17T19:58:19.000Z</updated>
-        <summary type="html"><![CDATA[#1661982 | [IrizaRaws] Isekai Ojisan (BDRip 1920x1080 x264 10bit FLAC) | 27.7 GiB | Anime - Raw | b63c57624264f7b952ca0d37ec9a1f2ca5414d23]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Isekai Ojisan" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UCCUSS] Lycoris Recoil リコリス・リコイル 全13話 (BD 1920x1080p AVC FLACx2)]]></title>
-        <id>https://nyaa.si/view/1661639</id>
-        <link href="https://nyaa.si/download/1661639.torrent"/>
-        <updated>2023-04-16T23:22:38.000Z</updated>
-        <summary type="html"><![CDATA[#1661639 | [UCCUSS] Lycoris Recoil リコリス・リコイル 全13話 (BD 1920x1080p AVC FLACx2) | 26.8 GiB | Anime - Raw | f0b1808ad3dbe79b40ca60cf4d9d86f6af288967]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Inu ni Nattara Suki na Hito ni Hirowareta Vol 1 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1660985</id>
-        <link href="https://nyaa.si/download/1660985.torrent"/>
-        <updated>2023-04-15T18:12:32.000Z</updated>
-        <summary type="html"><![CDATA[#1660985 | [ReinForce] Inu ni Nattara Suki na Hito ni Hirowareta Vol 1 (BDRip 1920x1080 x264 FLAC) | 4.6 GiB | Anime - Raw | 4725eb5934fbb6f435462720de387691c90a0e59]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UCCUSS] Engage Kiss エンゲージ・キス 全13話 (BD 1920x1080p AVC FLAC)]]></title>
-        <id>https://nyaa.si/view/1660921</id>
-        <link href="https://nyaa.si/download/1660921.torrent"/>
-        <updated>2023-04-15T16:58:52.000Z</updated>
-        <summary type="html"><![CDATA[#1660921 | [UCCUSS] Engage Kiss エンゲージ・キス 全13話 (BD 1920x1080p AVC FLAC) | 29.7 GiB | Anime - Raw | 4b2bd91e1c9ef80c80284b714fb1adfebcfa2224]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(成年コミック) [富士やま] ないしょごと + とらのあな限定リーフレット]]></title>
         <id>https://sukebei.nyaa.si/view/3862637</id>
         <link href="https://sukebei.nyaa.si/download/3862637.torrent"/>
@@ -2150,16 +2070,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#3862637 | (成年コミック) [富士やま] ないしょごと + とらのあな限定リーフレット | 774.7 MiB | Art - Manga | 5a7ac9d08d873d628958e742d42a948213e67e31]]></summary>
         <author>
             <name>Sukebei - "富士やま" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(成年コミック) [愛上陸] ふぁみこん 第3話 (COMIC ExE (コミック エグゼ) 42)]]></title>
-        <id>https://sukebei.nyaa.si/view/3862516</id>
-        <link href="https://sukebei.nyaa.si/download/3862516.torrent"/>
-        <updated>2023-04-14T09:33:52.000Z</updated>
-        <summary type="html"><![CDATA[#3862516 | (成年コミック) [愛上陸] ふぁみこん 第3話 (COMIC ExE (コミック エグゼ) 42) | 200.4 MiB | Art - Manga | 1fe3ca5fcb7b764faf03e2886dd8723916b955da]]></summary>
-        <author>
-            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -2223,36 +2133,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Moozzi2] Engage Kiss - 13 Fixed (BD 1920x1080 x265-10Bit Flac)]]></title>
-        <id>https://nyaa.si/view/1657188</id>
-        <link href="https://nyaa.si/download/1657188.torrent"/>
-        <updated>2023-04-05T22:19:20.000Z</updated>
-        <summary type="html"><![CDATA[#1657188 | [Moozzi2] Engage Kiss - 13 Fixed (BD 1920x1080 x265-10Bit Flac) | 1.4 GiB | Anime - Raw | 5b3226dfd69993e1b9b1eab462ac08a1a8aebe96]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Moozzi2] Engage Kiss (BD 1920x1080 x265-10Bit Flac) - TV + SP]]></title>
-        <id>https://nyaa.si/view/1656902</id>
-        <link href="https://nyaa.si/download/1656902.torrent"/>
-        <updated>2023-04-04T20:57:29.000Z</updated>
-        <summary type="html"><![CDATA[#1656902 | [Moozzi2] Engage Kiss (BD 1920x1080 x265-10Bit Flac) - TV + SP | 23.4 GiB | Anime - Raw | 6d55cd42736010d1a6076a61b002aaa16d83ff82]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI-Raws] Lycoris Recoil BDRip 1080p MKV]]></title>
-        <id>https://nyaa.si/view/1655814</id>
-        <link href="https://nyaa.si/download/1655814.torrent"/>
-        <updated>2023-04-02T11:02:12.000Z</updated>
-        <summary type="html"><![CDATA[#1655814 | [AI-Raws] Lycoris Recoil BDRip 1080p MKV | 13.8 GiB | Anime - Raw | 9f1e45b5e552ee9c42f9fd8a9beb4daae96a85ab]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[ReinForce] Uzaki-chan wa Asobitai! Double Vol 2 (BDRip 1920x1080 x264 FLAC)]]></title>
         <id>https://nyaa.si/view/1655058</id>
         <link href="https://nyaa.si/download/1655058.torrent"/>
@@ -2260,16 +2140,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#1655058 | [ReinForce] Uzaki-chan wa Asobitai! Double Vol 2 (BDRip 1920x1080 x264 FLAC) | 5.9 GiB | Anime - Raw | 52a564f4d6cd573038f72dd74c7db1ecbf879d02]]></summary>
         <author>
             <name>Nyaa - "BD 1080 Uzaki-chan" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#01][BDRip][AV1][1080P]]]></title>
-        <id>https://nyaa.si/view/1654734</id>
-        <link href="https://nyaa.si/download/1654734.torrent"/>
-        <updated>2023-03-29T23:48:26.000Z</updated>
-        <summary type="html"><![CDATA[#1654734 | [RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#01][BDRip][AV1][1080P] | 399.9 MiB | Anime - Raw | aa2d3109d933163be45cd86702c7586a4438c047]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -2303,46 +2173,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[AI-Raws&Kisssub] Engage Kiss エンゲージ・キス (BDRip 1920x1080 HEVC-YUV444p10 FLAC)]]></title>
-        <id>https://nyaa.si/view/1649745</id>
-        <link href="https://nyaa.si/download/1649745.torrent"/>
-        <updated>2023-03-17T14:54:22.000Z</updated>
-        <summary type="html"><![CDATA[#1649745 | [AI-Raws&Kisssub] Engage Kiss エンゲージ・キス (BDRip 1920x1080 HEVC-YUV444p10 FLAC) | 20.5 GiB | Anime - Raw | 7563ed1aa0cf6788ea6a462792944e9632799c7f]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[S3rNx] Lycoris Recoil (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1649202</id>
-        <link href="https://nyaa.si/download/1649202.torrent"/>
-        <updated>2023-03-15T19:20:18.000Z</updated>
-        <summary type="html"><![CDATA[#1649202 | [S3rNx] Lycoris Recoil (BDRip 1920x1080 x264 FLAC) | 43.2 GiB | Anime - Raw | 58bc524051bd6486e1284e6cead0fa729f8e3e31]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Moozzi2] Lycoris Recoil (BD 1920x1080 x265-10Bit FLACx2) - TV + SP]]></title>
-        <id>https://nyaa.si/view/1648567</id>
-        <link href="https://nyaa.si/download/1648567.torrent"/>
-        <updated>2023-03-13T22:20:12.000Z</updated>
-        <summary type="html"><![CDATA[#1648567 | [Moozzi2] Lycoris Recoil (BD 1920x1080 x265-10Bit FLACx2) - TV + SP | 15.8 GiB | Anime - Raw | 5ae00605933cda425deb6ef31c105526acfd391f]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IrizaRaws] Engage Kiss (BDRip 1920x1080 x264 10bit FLAC)v2]]></title>
-        <id>https://nyaa.si/view/1646532</id>
-        <link href="https://nyaa.si/download/1646532.torrent"/>
-        <updated>2023-03-08T19:29:43.000Z</updated>
-        <summary type="html"><![CDATA[#1646532 | [IrizaRaws] Engage Kiss (BDRip 1920x1080 x264 10bit FLAC)v2 | 33.7 GiB | Anime - Raw | eb5935bb089bceaba9e9da2d2fea97cf274a8d4e]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[S3rNx] Kage no Jitsuryokusha ni Naritakute! Vol.1~2 (BDRip 1920x1080 x264 FLAC)]]></title>
         <id>https://nyaa.si/view/1643803</id>
         <link href="https://nyaa.si/download/1643803.torrent"/>
@@ -2363,16 +2193,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[IrizaRaws] Lycoris Recoil (BDRip 1920x1080 x264 10bit FLAC)]]></title>
-        <id>https://nyaa.si/view/1642108</id>
-        <link href="https://nyaa.si/download/1642108.torrent"/>
-        <updated>2023-02-25T19:52:17.000Z</updated>
-        <summary type="html"><![CDATA[#1642108 | [IrizaRaws] Lycoris Recoil (BDRip 1920x1080 x264 10bit FLAC) | 33.3 GiB | Anime - Raw | 3e68997dc0a06fd3f4d7a2e3be4e52bcb0c4574c]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[ReinForce] Uzaki-chan wa Asobitai! Double Vol 1 (BDRip 1920x1080 x264 FLAC)]]></title>
         <id>https://nyaa.si/view/1640862</id>
         <link href="https://nyaa.si/download/1640862.torrent"/>
@@ -2383,26 +2203,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[7³ACG] Engage Kiss エンゲージ・キス S1 [BDRip 1080p x265 FLAC]]]></title>
-        <id>https://nyaa.si/view/1640721</id>
-        <link href="https://nyaa.si/download/1640721.torrent"/>
-        <updated>2023-02-22T15:31:12.000Z</updated>
-        <summary type="html"><![CDATA[#1640721 | [7³ACG] Engage Kiss エンゲージ・キス S1 [BDRip 1080p x265 FLAC] | 11.3 GiB | Anime - Raw | 453be822604d87fe17ba46828769fcd40819806b]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[7³ACG] Lycoris Recoil リコリス・リコイル S1 [BDRip 1080p x265 FLAC]]]></title>
-        <id>https://nyaa.si/view/1640653</id>
-        <link href="https://nyaa.si/download/1640653.torrent"/>
-        <updated>2023-02-22T12:50:43.000Z</updated>
-        <summary type="html"><![CDATA[#1640653 | [7³ACG] Lycoris Recoil リコリス・リコイル S1 [BDRip 1080p x265 FLAC] | 10.8 GiB | Anime - Raw | 63b84824e44a5e8126c18bbf3917e3f51884cb91]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[ReinForce] Kage No Jitsuryokusha Ni Naritakute! Vol 2 (BDRip 1920x1080 x264 FLAC)]]></title>
         <id>https://nyaa.si/view/1640614</id>
         <link href="https://nyaa.si/download/1640614.torrent"/>
@@ -2410,26 +2210,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#1640614 | [ReinForce] Kage No Jitsuryokusha Ni Naritakute! Vol 2 (BDRip 1920x1080 x264 FLAC) | 11.2 GiB | Anime - Raw | 82ba6bcce95560083cf687872aa5aaf7a9b1d31d]]></summary>
         <author>
             <name>Nyaa - "BD 1080 Kage no Jitsuryokusha" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Engage Kiss (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1640608</id>
-        <link href="https://nyaa.si/download/1640608.torrent"/>
-        <updated>2023-02-22T09:18:43.000Z</updated>
-        <summary type="html"><![CDATA[#1640608 | [ReinForce] Engage Kiss (BDRip 1920x1080 x264 FLAC) | 20.5 GiB | Anime - Raw | e40edec916521bf563fc18b5a8b8729447a59925]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1640472</id>
-        <link href="https://nyaa.si/download/1640472.torrent"/>
-        <updated>2023-02-21T21:55:30.000Z</updated>
-        <summary type="html"><![CDATA[#1640472 | [ReinForce] Lycoris Recoil (BDRip 1920x1080 x264 FLAC) | 19.4 GiB | Anime - Raw | b2c36d0d2404a9ee11fde7fc4e5d6d84396574d9]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -2523,16 +2303,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(C101) [ちょこれーとらんど (kakao)] 小悪魔せつこの秘密 vol.7 (オリジナル) (抜けページ補完)]]></title>
-        <id>https://sukebei.nyaa.si/view/3824718</id>
-        <link href="https://sukebei.nyaa.si/download/3824718.torrent"/>
-        <updated>2023-02-04T14:30:23.000Z</updated>
-        <summary type="html"><![CDATA[#3824718 | (C101) [ちょこれーとらんど (kakao)] 小悪魔せつこの秘密 vol.7 (オリジナル) (抜けページ補完) | 197.0 MiB | Art - Doujinshi | 61afc74498e0b962f90f420bb05f50f4e04efbbc]]></summary>
-        <author>
-            <name>Sukebei - "kakao" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(C101) [5年目の放課後 (カントク)] 少女景色 (オリジナル)]]></title>
         <id>https://sukebei.nyaa.si/view/3822727</id>
         <link href="https://sukebei.nyaa.si/download/3822727.torrent"/>
@@ -2560,36 +2330,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#3821127 | (C101) [5年目の放課後 (カントク)] うら本 (オリジナル) | 32.7 MiB | Art - Doujinshi | 7b89c877c7b8e3651f2f9673b7a824c26fae7771]]></summary>
         <author>
             <name>Sukebei - "カントク" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UCCUSS] Lycoris Recoil リコリス・リコイル 第5巻 (BD 1920x1080p AVC FLAC)]]></title>
-        <id>https://nyaa.si/view/1629871</id>
-        <link href="https://nyaa.si/download/1629871.torrent"/>
-        <updated>2023-01-26T21:39:11.000Z</updated>
-        <summary type="html"><![CDATA[#1629871 | [UCCUSS] Lycoris Recoil リコリス・リコイル 第5巻 (BD 1920x1080p AVC FLAC) | 4.3 GiB | Anime - Raw | cb5f20d31b7aeba81059a51cf05c1fdfdfc5b81d]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil Vol 5 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1629194</id>
-        <link href="https://nyaa.si/download/1629194.torrent"/>
-        <updated>2023-01-25T09:23:32.000Z</updated>
-        <summary type="html"><![CDATA[#1629194 | [ReinForce] Lycoris Recoil Vol 5 (BDRip 1920x1080 x264 FLAC) | 2.8 GiB | Anime - Raw | 574efa4a8da522114027e5bfab0831a28ca00520]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Engage Kiss Vol 5 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1628999</id>
-        <link href="https://nyaa.si/download/1628999.torrent"/>
-        <updated>2023-01-24T17:12:04.000Z</updated>
-        <summary type="html"><![CDATA[#1628999 | [ReinForce] Engage Kiss Vol 5 (BDRip 1920x1080 x264 FLAC) | 3.2 GiB | Anime - Raw | 039cf5fbf29ce6ddde58641b0075137f63a8b632]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -2623,26 +2363,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[UCCUSS] Lycoris Recoil リコリス・リコイル 第4巻 (BD 1920x1080p AVC FLAC)]]></title>
-        <id>https://nyaa.si/view/1620013</id>
-        <link href="https://nyaa.si/download/1620013.torrent"/>
-        <updated>2023-01-03T04:16:51.000Z</updated>
-        <summary type="html"><![CDATA[#1620013 | [UCCUSS] Lycoris Recoil リコリス・リコイル 第4巻 (BD 1920x1080p AVC FLAC) | 3.6 GiB | Anime - Raw | fe35711ade6b96d33894d392545da495a6c0f914]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UCCUSS] Engage Kiss エンゲージ・キス 第4巻 (BD 1920x1080p AVC FLAC)]]></title>
-        <id>https://nyaa.si/view/1620009</id>
-        <link href="https://nyaa.si/download/1620009.torrent"/>
-        <updated>2023-01-03T03:56:12.000Z</updated>
-        <summary type="html"><![CDATA[#1620009 | [UCCUSS] Engage Kiss エンゲージ・キス 第4巻 (BD 1920x1080p AVC FLAC) | 4.6 GiB | Anime - Raw | 6b0b86883ff181089c10038fc5b2e6cff7068d0f]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(C101) [P：P (おりょう)] 私、先生の彼女ですから (ブルーアーカイブ)]]></title>
         <id>https://sukebei.nyaa.si/view/3806562</id>
         <link href="https://sukebei.nyaa.si/download/3806562.torrent"/>
@@ -2663,16 +2383,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[ReinForce] Engage Kiss Vol 4 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1618779</id>
-        <link href="https://nyaa.si/download/1618779.torrent"/>
-        <updated>2022-12-27T21:50:35.000Z</updated>
-        <summary type="html"><![CDATA[#1618779 | [ReinForce] Engage Kiss Vol 4 (BDRip 1920x1080 x264 FLAC) | 3.6 GiB | Anime - Raw | e8c6942a67053e108a6e43bd70dcb6aa8827c746]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[嘘つき屋 (大嘘)] 靴下大全 (東方Project) [DL版]]]></title>
         <id>https://sukebei.nyaa.si/view/3803616</id>
         <link href="https://sukebei.nyaa.si/download/3803616.torrent"/>
@@ -2683,26 +2393,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil Vol 4 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1616141</id>
-        <link href="https://nyaa.si/download/1616141.torrent"/>
-        <updated>2022-12-20T20:21:45.000Z</updated>
-        <summary type="html"><![CDATA[#1616141 | [ReinForce] Lycoris Recoil Vol 4 (BDRip 1920x1080 x264 FLAC) | 2.8 GiB | Anime - Raw | 11f7f9d65c419269e1266c5e6eef71f20896f80f]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UCCUSS] Engage Kiss エンゲージ・キス 第1-3巻 (BD 1920x1080p AVC FLAC)]]></title>
-        <id>https://nyaa.si/view/1614216</id>
-        <link href="https://nyaa.si/download/1614216.torrent"/>
-        <updated>2022-12-16T15:00:33.000Z</updated>
-        <summary type="html"><![CDATA[#1614216 | [UCCUSS] Engage Kiss エンゲージ・キス 第1-3巻 (BD 1920x1080p AVC FLAC) | 15.9 GiB | Anime - Raw | b6c152151ff28f7cbc88bac98d97299f41e34e75]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(C100) [5年目の放課後 (カントク)] シタギシスター (オリジナル)]]></title>
         <id>https://sukebei.nyaa.si/view/3793706</id>
         <link href="https://sukebei.nyaa.si/download/3793706.torrent"/>
@@ -2710,36 +2400,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#3793706 | (C100) [5年目の放課後 (カントク)] シタギシスター (オリジナル) | 148.1 MiB | Art - Doujinshi | 15bcac7b42c4ac2ba6a2d712de7fa5fb9238c91a]]></summary>
         <author>
             <name>Sukebei - "カントク" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Engage Kiss Vol 3 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1608124</id>
-        <link href="https://nyaa.si/download/1608124.torrent"/>
-        <updated>2022-11-29T15:37:35.000Z</updated>
-        <summary type="html"><![CDATA[#1608124 | [ReinForce] Engage Kiss Vol 3 (BDRip 1920x1080 x264 FLAC) | 2.9 GiB | Anime - Raw | fb15ae3ddf673ec1e5d1ea659f3218cad7aeb663]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UCCUSS] Lycoris Recoil リコリス・リコイル 第3巻 (BD 1920x1080p AVC FLAC)]]></title>
-        <id>https://nyaa.si/view/1606266</id>
-        <link href="https://nyaa.si/download/1606266.torrent"/>
-        <updated>2022-11-24T02:35:35.000Z</updated>
-        <summary type="html"><![CDATA[#1606266 | [UCCUSS] Lycoris Recoil リコリス・リコイル 第3巻 (BD 1920x1080p AVC FLAC) | 4.2 GiB | Anime - Raw | 6a936e23905221eeb0f93689baa535998fb96cc0]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil Vol 3 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1605756</id>
-        <link href="https://nyaa.si/download/1605756.torrent"/>
-        <updated>2022-11-22T18:16:57.000Z</updated>
-        <summary type="html"><![CDATA[#1605756 | [ReinForce] Lycoris Recoil Vol 3 (BDRip 1920x1080 x264 FLAC) | 2.7 GiB | Anime - Raw | 6cb0d54155355f272762005c8878f4658430ca43]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -2760,36 +2420,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#3769590 | (同人CG集) [いづれ] エイプリルフールでも嘘は許さないエッチ大好きな年上彼女さんとイチャラブエッチ♡ | 66.7 MiB | Art - Pictures | ab2fed4fb0d99ccb6de862ca417f6f9dcf5d462e]]></summary>
         <author>
             <name>Sukebei - "大嘘" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UCCUSS] Lycoris Recoil リコリス・リコイル TV 第1-2巻 (BD 1920x1080p AVC FLACx2)]]></title>
-        <id>https://nyaa.si/view/1597232</id>
-        <link href="https://nyaa.si/download/1597232.torrent"/>
-        <updated>2022-10-30T23:23:15.000Z</updated>
-        <summary type="html"><![CDATA[#1597232 | [UCCUSS] Lycoris Recoil リコリス・リコイル TV 第1-2巻 (BD 1920x1080p AVC FLACx2) | 10.1 GiB | Anime - Raw | 53d1ba3024fd3c0f3de9dcdc57cb7c295a3adfa8]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Engage Kiss Vol 2 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1594987</id>
-        <link href="https://nyaa.si/download/1594987.torrent"/>
-        <updated>2022-10-25T21:44:17.000Z</updated>
-        <summary type="html"><![CDATA[#1594987 | [ReinForce] Engage Kiss Vol 2 (BDRip 1920x1080 x264 FLAC) | 3.6 GiB | Anime - Raw | ca9e834b0235a57bfee1f36cc9f01067a4569b36]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil Vol 2 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1594900</id>
-        <link href="https://nyaa.si/download/1594900.torrent"/>
-        <updated>2022-10-25T18:07:41.000Z</updated>
-        <summary type="html"><![CDATA[#1594900 | [ReinForce] Lycoris Recoil Vol 2 (BDRip 1920x1080 x264 FLAC) | 3.0 GiB | Anime - Raw | d0f44c850cdc6154e6b6fbd6ddd4ee8e4ee70158]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
