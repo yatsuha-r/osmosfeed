@@ -3,9 +3,46 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://yatsuha-r.github.io/osmosfeed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
+# Sukebei | 満開開花
+  - href: https://sukebei.nyaa.si/?page=rss&q=満開開花&c=1_0&f=0
+# Sukebei | 加瀬大輝
+  - href: https://sukebei.nyaa.si/?page=rss&q=加瀬大輝&c=1_0&f=0
+# Sukebei | たかやKi
+  - href: https://sukebei.nyaa.si/?page=rss&q=たかやKi&c=1_0&f=0
+# Sukebei | みちきんぐ
+  - href: https://sukebei.nyaa.si/?page=rss&q=みちきんぐ&c=1_0&f=0
+# Sukebei | 愛上陸
+  - href: https://sukebei.nyaa.si/?page=rss&q=愛上陸&c=1_0&f=0
+# Sukebei | 桂井よしあき
+  - href: https://sukebei.nyaa.si/?page=rss&q=桂井よしあき&c=1_0&f=0
+# Sukebei | 富士やま
+  - href: https://sukebei.nyaa.si/?page=rss&q=富士やま&c=1_0&f=0
+# Sukebei | 40010試作型
+  - href: https://sukebei.nyaa.si/?page=rss&q=40010試作型&c=1_0&f=0
+# Sukebei | kakao
+  - href: https://sukebei.nyaa.si/?page=rss&q=kakao&c=1_0&f=0
+# Sukebei | なかじまゆか
+  - href: https://sukebei.nyaa.si/?page=rss&q=なかじまゆか&c=1_0&f=0
+# Sukebei | ひぐちいさみ
+  - href: https://sukebei.nyaa.si/?page=rss&q=ひぐちいさみ&c=1_0&f=0
+# Sukebei | カントク
+  - href: https://sukebei.nyaa.si/?page=rss&q=カントク&c=1_0&f=0
+# Sukebei | 大嘘
+  - href: https://sukebei.nyaa.si/?page=rss&q=大嘘&c=1_0&f=0
+# Sukebei | 牧野坂シンイチ
+  - href: https://sukebei.nyaa.si/?page=rss&q=牧野坂シンイチ&c=1_0&f=0
+# Sukebei | 石恵
+  - href: https://sukebei.nyaa.si/?page=rss&q=石恵&c=1_0&f=0
+# Sukebei | 三色網戸
+  - href: https://sukebei.nyaa.si/?page=rss&q=三色網戸&c=1_0&f=0
+# Sukebei | P：P (おりょう)
+  - href: https://sukebei.nyaa.si/?page=rss&q=P：P (おりょう)&c=1_0&f=0
+  - href: https://sukebei.nyaa.si/?page=rss&q=P%EF%BC%9AP%20(%E3%81%8A%E3%82%8A%E3%82%87%E3%81%86)&c=1_0&f=0
+# Sukebei | まっさら島
+  - href: https://sukebei.nyaa.si/?page=rss&q=まっさら島&c=1_0&f=0
