@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T10:20:31.271Z</updated>
+    <updated>2023-10-07T10:20:34.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -2314,16 +2314,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 3 0 0-
         <summary type="html"><![CDATA[#1660985 | [ReinForce] Inu ni Nattara Suki na Hito ni Hirowareta Vol 1 (BDRip 1920x1080 x264 FLAC) | 4.6 GiB | Anime - Raw | 4725eb5934fbb6f435462720de387691c90a0e59]]></summary>
         <author>
             <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[UCCUSS] Engage Kiss エンゲージ・キス 全13話 (BD 1920x1080p AVC FLAC)]]></title>
-        <id>https://nyaa.si/view/1660921</id>
-        <link href="https://nyaa.si/download/1660921.torrent"/>
-        <updated>2023-04-15T16:58:52.000Z</updated>
-        <summary type="html"><![CDATA[#1660921 | [UCCUSS] Engage Kiss エンゲージ・キス 全13話 (BD 1920x1080p AVC FLAC) | 29.7 GiB | Anime - Raw | 4b2bd91e1c9ef80c80284b714fb1adfebcfa2224]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
