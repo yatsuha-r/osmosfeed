@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T10:31:07.618Z</updated>
+    <updated>2023-10-07T10:37:21.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -156,6 +156,56 @@
         <summary type="html"><![CDATA[#1721192 | [20230904][一般コミック][矢吹健太朗] あやかしトライアングル 15 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 50.0 MiB | Literature - Raw | a70a5f7bdfc9e0f3c2a955ccc0215fa77945eecf]]></summary>
         <author>
             <name>Nyaa - "あやかしトライアングル [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230825][一般コミック][もちオーレ] 悪いが私は百合じゃない（５） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1721177</id>
+        <link href="https://nyaa.si/download/1721177.torrent"/>
+        <updated>2023-09-25T01:54:16.000Z</updated>
+        <summary type="html"><![CDATA[#1721177 | [20230825][一般コミック][もちオーレ] 悪いが私は百合じゃない（５） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo | 37.0 MiB | Literature - Raw | 542924a594038895e0839010bb8e420a3d4d6595]]></summary>
+        <author>
+            <name>Nyaa - "悪いが私は百合じゃない [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20221126][一般コミック][もちオーレ] 悪いが私は百合じゃない（４） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1721176</id>
+        <link href="https://nyaa.si/download/1721176.torrent"/>
+        <updated>2023-09-25T01:54:16.000Z</updated>
+        <summary type="html"><![CDATA[#1721176 | [20221126][一般コミック][もちオーレ] 悪いが私は百合じゃない（４） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo | 42.8 MiB | Literature - Raw | 949394f94b448fa554bfafc9f003265bf222f0be]]></summary>
+        <author>
+            <name>Nyaa - "悪いが私は百合じゃない [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20211127][一般コミック][もちオーレ] 悪いが私は百合じゃない（３） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1721175</id>
+        <link href="https://nyaa.si/download/1721175.torrent"/>
+        <updated>2023-09-25T01:54:15.000Z</updated>
+        <summary type="html"><![CDATA[#1721175 | [20211127][一般コミック][もちオーレ] 悪いが私は百合じゃない（３） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo | 38.6 MiB | Literature - Raw | cba957325f9b52653b09a91d5db33ae35c33cb21]]></summary>
+        <author>
+            <name>Nyaa - "悪いが私は百合じゃない [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20210127][一般コミック][もちオーレ] 悪いが私は百合じゃない（２） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1721174</id>
+        <link href="https://nyaa.si/download/1721174.torrent"/>
+        <updated>2023-09-25T01:54:14.000Z</updated>
+        <summary type="html"><![CDATA[#1721174 | [20210127][一般コミック][もちオーレ] 悪いが私は百合じゃない（２） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo | 40.2 MiB | Literature - Raw | 1d3cbfe40e42208af0de0906c924792bc253c501]]></summary>
+        <author>
+            <name>Nyaa - "悪いが私は百合じゃない [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20200310][一般コミック][もちオーレ] 悪いが私は百合じゃない（１） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1721173</id>
+        <link href="https://nyaa.si/download/1721173.torrent"/>
+        <updated>2023-09-25T01:54:13.000Z</updated>
+        <summary type="html"><![CDATA[#1721173 | [20200310][一般コミック][もちオーレ] 悪いが私は百合じゃない（１） [電撃コミックスNEXT][AVIF][DL版] - MangaRoo | 36.0 MiB | Literature - Raw | 76d87c340477251e7a6b1747a0ac0c1d59d2503a]]></summary>
+        <author>
+            <name>Nyaa - "悪いが私は百合じゃない [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -2537,6 +2587,16 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 3 0 0-
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[UCCUSS] Engage Kiss エンゲージ・キス 全13話 (BD 1920x1080p AVC FLAC)]]></title>
+        <id>https://nyaa.si/view/1660921</id>
+        <link href="https://nyaa.si/download/1660921.torrent"/>
+        <updated>2023-04-15T16:58:52.000Z</updated>
+        <summary type="html"><![CDATA[#1660921 | [UCCUSS] Engage Kiss エンゲージ・キス 全13話 (BD 1920x1080p AVC FLAC) | 29.7 GiB | Anime - Raw | 4b2bd91e1c9ef80c80284b714fb1adfebcfa2224]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(成年コミック) [富士やま] ないしょごと + とらのあな限定リーフレット]]></title>
         <id>https://sukebei.nyaa.si/view/3862637</id>
         <link href="https://sukebei.nyaa.si/download/3862637.torrent"/>
@@ -2574,6 +2634,1560 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 3 0 0-
         <summary type="html"><![CDATA[#3861876 | (C100) [TOZAN：BU (富士やま)] ゲーミング彼女EX (オリジナル) [DL版] | 27.8 MiB | Art - Doujinshi | fef9953fc0726dc075394d624ca91487d62521d9]]></summary>
         <author>
             <name>Sukebei - "富士やま" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Mama Katsu - 02 (ママ喝っ 〜乱れ潤うママ友のナカ♥〜) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3860296</id>
+        <link href="https://sukebei.nyaa.si/download/3860296.torrent"/>
+        <updated>2023-04-10T11:49:42.000Z</updated>
+        <summary type="html"><![CDATA[#3860296 | [SakuraCircle] Mama Katsu - 02 (ママ喝っ 〜乱れ潤うママ友のナカ♥〜) - English Softsubs | 175.4 MiB | Art - Anime | df0e5d81f5e2d58ffd9583b529c0e6d5966e851d]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Futei with... The Animation (不貞 with ... THE ANIMATION ～人妻ナンパNTR温泉 旅行先でナカよく種付けされました～) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3858644</id>
+        <link href="https://sukebei.nyaa.si/download/3858644.torrent"/>
+        <updated>2023-04-07T21:51:02.000Z</updated>
+        <summary type="html"><![CDATA[#3858644 | [SakuraCircle] Futei with... The Animation (不貞 with ... THE ANIMATION ～人妻ナンパNTR温泉 旅行先でナカよく種付けされました～) - English Softsubs | 161.2 MiB | Art - Anime | 27b1c72543021ae7592fbf2abcf8b747592377d9]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230407][ばにぃうぉ～か～]OVA母乳ちゃんは射したい。＃4セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3857734</id>
+        <link href="https://sukebei.nyaa.si/download/3857734.torrent"/>
+        <updated>2023-04-06T13:22:31.000Z</updated>
+        <summary type="html"><![CDATA[#3857734 | [230407][ばにぃうぉ～か～]OVA母乳ちゃんは射したい。＃4セル版(No Watermark).mp4 | 116.4 MiB | Art - Anime | 93773129184879818bba2b512a010013e9973e1c]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230407][ばにぃうぉ～か～]OVA母乳ちゃんは射したい。＃3セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3857733</id>
+        <link href="https://sukebei.nyaa.si/download/3857733.torrent"/>
+        <updated>2023-04-06T13:13:06.000Z</updated>
+        <summary type="html"><![CDATA[#3857733 | [230407][ばにぃうぉ～か～]OVA母乳ちゃんは射したい。＃3セル版(No Watermark).mp4 | 112.9 MiB | Art - Anime | 9549d77452ddf030a0ffda38befb89614ce92875]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Moozzi2] Engage Kiss - 13 Fixed (BD 1920x1080 x265-10Bit Flac)]]></title>
+        <id>https://nyaa.si/view/1657188</id>
+        <link href="https://nyaa.si/download/1657188.torrent"/>
+        <updated>2023-04-05T22:19:20.000Z</updated>
+        <summary type="html"><![CDATA[#1657188 | [Moozzi2] Engage Kiss - 13 Fixed (BD 1920x1080 x265-10Bit Flac) | 1.4 GiB | Anime - Raw | 5b3226dfd69993e1b9b1eab462ac08a1a8aebe96]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Goblin no Suana - 01 (ゴブリンの巣穴　第一話　巡礼者　アンヴィル) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3857329</id>
+        <link href="https://sukebei.nyaa.si/download/3857329.torrent"/>
+        <updated>2023-04-05T19:41:28.000Z</updated>
+        <summary type="html"><![CDATA[#3857329 | [SakuraCircle] Goblin no Suana - 01 (ゴブリンの巣穴　第一話　巡礼者　アンヴィル) - English Softsubs | 98.6 MiB | Art - Anime | 7c8019b605b06c728530d1e6b7646cef9345ba39]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Moozzi2] Engage Kiss (BD 1920x1080 x265-10Bit Flac) - TV + SP]]></title>
+        <id>https://nyaa.si/view/1656902</id>
+        <link href="https://nyaa.si/download/1656902.torrent"/>
+        <updated>2023-04-04T20:57:29.000Z</updated>
+        <summary type="html"><![CDATA[#1656902 | [Moozzi2] Engage Kiss (BD 1920x1080 x265-10Bit Flac) - TV + SP | 23.4 GiB | Anime - Raw | 6d55cd42736010d1a6076a61b002aaa16d83ff82]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Otogibanashi no Onigokko - 02 (おとぎばなしの鬼ごっこ　第二話　アリスの壊れた世界) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3856746</id>
+        <link href="https://sukebei.nyaa.si/download/3856746.torrent"/>
+        <updated>2023-04-04T13:08:32.000Z</updated>
+        <summary type="html"><![CDATA[#3856746 | [SakuraCircle] Otogibanashi no Onigokko - 02 (おとぎばなしの鬼ごっこ　第二話　アリスの壊れた世界) - English Softsubs | 96.8 MiB | Art - Anime | 680d33ba3a4c2c915852ff9dde4afc0c92846f83]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230331][魔人]ゴブリンの巣穴 第一話 巡礼者 アンヴィル(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3856683</id>
+        <link href="https://sukebei.nyaa.si/download/3856683.torrent"/>
+        <updated>2023-04-04T10:37:05.000Z</updated>
+        <summary type="html"><![CDATA[#3856683 | [230331][魔人]ゴブリンの巣穴 第一話 巡礼者 アンヴィル(No Watermark).mp4 | 96.5 MiB | Art - Anime | 924fd6e6abab1d9c12b5cb78318560e26f196d92]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230331][ピンクパイナップル]不貞 with ... THE ANIMATION ～人妻ナンパNTR温泉 旅行先でナカよく種付けされました～(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3856675</id>
+        <link href="https://sukebei.nyaa.si/download/3856675.torrent"/>
+        <updated>2023-04-04T10:29:43.000Z</updated>
+        <summary type="html"><![CDATA[#3856675 | [230331][ピンクパイナップル]不貞 with ... THE ANIMATION ～人妻ナンパNTR温泉 旅行先でナカよく種付けされました～(No Watermark).mp4 | 159.4 MiB | Art - Anime | 2cbc66f314e7cdb61565bccb8ff03a33124a9d03]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] エイプリルフール企画‟どこでも❤ろしゅつ”まとめ]]></title>
+        <id>https://sukebei.nyaa.si/view/3856380</id>
+        <link href="https://sukebei.nyaa.si/download/3856380.torrent"/>
+        <updated>2023-04-03T16:54:13.000Z</updated>
+        <summary type="html"><![CDATA[#3856380 | (同人CG集) [満開開花] エイプリルフール企画‟どこでも❤ろしゅつ”まとめ | 206.0 MiB | Art - Pictures | cbd9f503c6b95f24d4a02088171ac4bd5deac0ee]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] エイプリルフール企画‟どこでも❤ろしゅつ”まとめ]]></title>
+        <id>https://sukebei.nyaa.si/view/3856348</id>
+        <link href="https://sukebei.nyaa.si/download/3856348.torrent"/>
+        <updated>2023-04-03T13:59:08.000Z</updated>
+        <summary type="html"><![CDATA[#3856348 | (同人CG集) [満開開花] エイプリルフール企画‟どこでも❤ろしゅつ”まとめ | 144.2 MiB | Art - Pictures | 20cf729b03d50e144ed0494589015d8a2e0f03b1]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開全席 (満開開花)] 催眠動画で生いき生主が生イキする生放送～自宅・学校編～ [無修正]]]></title>
+        <id>https://sukebei.nyaa.si/view/3856212</id>
+        <link href="https://sukebei.nyaa.si/download/3856212.torrent"/>
+        <updated>2023-04-03T11:43:40.000Z</updated>
+        <summary type="html"><![CDATA[#3856212 | (同人CG集) [満開全席 (満開開花)] 催眠動画で生いき生主が生イキする生放送～自宅・学校編～ [無修正] | 1.2 GiB | Art - Pictures | 57255070f2367751a4704a1ef8e19ae323516566]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230331][nur]ママ喝っ ～乱れ潤うママ友のナカ～(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3856146</id>
+        <link href="https://sukebei.nyaa.si/download/3856146.torrent"/>
+        <updated>2023-04-03T10:10:07.000Z</updated>
+        <summary type="html"><![CDATA[#3856146 | [230331][nur]ママ喝っ ～乱れ潤うママ友のナカ～(No Watermark).mp4 | 170.5 MiB | Art - Anime | c62a3ff08379eeb29f67b48c7005fdd4130f5ab7]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 2 1 0-TENOKE]]></title>
+        <id>https://pcgamestorrents.com/?p=328573</id>
+        <link href="https://pcgamestorrents.com/atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-update-v1-2-1-0-tenoke.html"/>
+        <updated>2023-04-03T08:51:01.000Z</updated>
+        <summary type="html"><![CDATA[TENOKE – TORRENT – FREE DOWNLOAD – CRACKED Atelier Ryza 3: Alchemist of the End & the Secret Key – The final summer, the final secret… Ryza’s final adventure is about to begin! Game Overview   The story […]
+The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 2 1 0-TENOKE appeared first on PCGamesTorrents.]]></summary>
+        <author>
+            <name>Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] アプリ開発アンケート結果Part 1-4]]></title>
+        <id>https://sukebei.nyaa.si/view/3855908</id>
+        <link href="https://sukebei.nyaa.si/download/3855908.torrent"/>
+        <updated>2023-04-02T23:00:38.000Z</updated>
+        <summary type="html"><![CDATA[#3855908 | (同人CG集) [満開開花] アプリ開発アンケート結果Part 1-4 | 53.8 MiB | Art - Pictures | 6f59d3081211eb999c2df08cf90eb30fd3c631c5]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Shishunki no Obenkyou - 04 (思春期のお勉強 第4話 デートをしてみたいお年頃) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3855903</id>
+        <link href="https://sukebei.nyaa.si/download/3855903.torrent"/>
+        <updated>2023-04-02T22:16:29.000Z</updated>
+        <summary type="html"><![CDATA[#3855903 | [SakuraCircle] Shishunki no Obenkyou - 04 (思春期のお勉強 第4話 デートをしてみたいお年頃) - English Softsubs | 117.9 MiB | Art - Anime | 5063df2ab5993ba2d6ab0beacea04f64d1650435]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[7³ACG x Sakurato] Isekai Ojisan 異世界おじさん S1 [BDRip 1080p AV1 FLAC]]]></title>
+        <id>https://nyaa.si/view/1655977</id>
+        <link href="https://nyaa.si/download/1655977.torrent"/>
+        <updated>2023-04-02T15:03:21.000Z</updated>
+        <summary type="html"><![CDATA[#1655977 | [7³ACG x Sakurato] Isekai Ojisan 異世界おじさん S1 [BDRip 1080p AV1 FLAC] | 10.1 GiB | Anime - Raw | 1268a43b913dbd1cb096dfeb908d937c2c37dd4d]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Isekai Ojisan" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[7³ACG x Sakurato] Isekai Ojisan 異世界おじさん S1 [BDRip 1080p x265 FLAC] + [AV1]]]></title>
+        <id>https://nyaa.si/view/1655943</id>
+        <link href="https://nyaa.si/download/1655943.torrent"/>
+        <updated>2023-04-02T14:59:37.000Z</updated>
+        <summary type="html"><![CDATA[#1655943 | [7³ACG x Sakurato] Isekai Ojisan 異世界おじさん S1 [BDRip 1080p x265 FLAC] + [AV1] | 15.1 GiB | Anime - Raw | 8184758c6c40ad9fe62d34bcc0a50ef828e7236e]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Isekai Ojisan" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AI-Raws] Lycoris Recoil BDRip 1080p MKV]]></title>
+        <id>https://nyaa.si/view/1655814</id>
+        <link href="https://nyaa.si/download/1655814.torrent"/>
+        <updated>2023-04-02T11:02:12.000Z</updated>
+        <summary type="html"><![CDATA[#1655814 | [AI-Raws] Lycoris Recoil BDRip 1080p MKV | 13.8 GiB | Anime - Raw | 9f1e45b5e552ee9c42f9fd8a9beb4daae96a85ab]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230331][魔人]おとぎばなしの鬼ごっこ 第二話 アリスの壊れた世界(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3855648</id>
+        <link href="https://sukebei.nyaa.si/download/3855648.torrent"/>
+        <updated>2023-04-02T06:18:11.000Z</updated>
+        <summary type="html"><![CDATA[#3855648 | [230331][魔人]おとぎばなしの鬼ごっこ 第二話 アリスの壊れた世界(No Watermark).mp4 | 96.2 MiB | Art - Anime | 28d9ccd0a1dd9b81d44288d7573a4481cfceaa9c]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Ikumonogakari The Animation - 01 (いくものがかり The Animation 上巻) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3855163</id>
+        <link href="https://sukebei.nyaa.si/download/3855163.torrent"/>
+        <updated>2023-04-01T11:34:18.000Z</updated>
+        <summary type="html"><![CDATA[#3855163 | [SakuraCircle] Ikumonogakari The Animation - 01 (いくものがかり The Animation 上巻) - English Softsubs | 653.1 MiB | Art - Anime | 90488b57f4acd1c5a489c95700e5d733ea4d8753]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230331][ショーテン]いくものがかり The Animation 上巻(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3854565</id>
+        <link href="https://sukebei.nyaa.si/download/3854565.torrent"/>
+        <updated>2023-03-31T12:45:04.000Z</updated>
+        <summary type="html"><![CDATA[#3854565 | [230331][ショーテン]いくものがかり The Animation 上巻(No Watermark).mp4 | 123.4 MiB | Art - Anime | 7ea200db7e67b653325aff801b567a90579d5d8a]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230317][メリー・ジェーン]思春期のお勉強 第4話デートをしてみたいお年頃(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3854562</id>
+        <link href="https://sukebei.nyaa.si/download/3854562.torrent"/>
+        <updated>2023-03-31T12:29:22.000Z</updated>
+        <summary type="html"><![CDATA[#3854562 | [230317][メリー・ジェーン]思春期のお勉強 第4話デートをしてみたいお年頃(No Watermark).mp4 | 108.3 MiB | Art - Anime | dbe6f50c2dccb80a3715536bde1e0c1e9cbc76dc]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] あやのエロプリおすそ分け]]></title>
+        <id>https://sukebei.nyaa.si/view/3854031</id>
+        <link href="https://sukebei.nyaa.si/download/3854031.torrent"/>
+        <updated>2023-03-30T23:57:37.000Z</updated>
+        <summary type="html"><![CDATA[#3854031 | (同人CG集) [満開開花] あやのエロプリおすそ分け | 121.8 MiB | Art - Pictures | 15d39b1cc99e28163e65a10bbd49cd990a167ec9]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 1 0 0-TENOKE]]></title>
+        <id>https://pcgamestorrents.com/?p=328016</id>
+        <link href="https://pcgamestorrents.com/atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-update-v1-1-0-0-tenoke.html"/>
+        <updated>2023-03-30T15:30:32.000Z</updated>
+        <summary type="html"><![CDATA[TENOKE – TORRENT – FREE DOWNLOAD – CRACKED Atelier Ryza 3: Alchemist of the End & the Secret Key – The final summer, the final secret… Ryza’s final adventure is about to begin! Game Overview   The story […]
+The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 1 0 0-TENOKE appeared first on PCGamesTorrents.]]></summary>
+        <author>
+            <name>Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#01][BDRip][AV1][1080P]]]></title>
+        <id>https://nyaa.si/view/1654734</id>
+        <link href="https://nyaa.si/download/1654734.torrent"/>
+        <updated>2023-03-29T23:48:26.000Z</updated>
+        <summary type="html"><![CDATA[#1654734 | [RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#01][BDRip][AV1][1080P] | 399.9 MiB | Anime - Raw | aa2d3109d933163be45cd86702c7586a4438c047]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[S3rNx] Isekai Ojisan (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1654714</id>
+        <link href="https://nyaa.si/download/1654714.torrent"/>
+        <updated>2023-03-29T21:55:10.000Z</updated>
+        <summary type="html"><![CDATA[#1654714 | [S3rNx] Isekai Ojisan (BDRip 1920x1080 x264 FLAC) | 37.7 GiB | Anime - Raw | c83de3422724ab6a0a22227c482c74d831e6439d]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Isekai Ojisan" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Moozzi2] Isekai Ojisan (BD 1920x1080 x265-10Bit FLACx2) - TV + SP]]></title>
+        <id>https://nyaa.si/view/1654140</id>
+        <link href="https://nyaa.si/download/1654140.torrent"/>
+        <updated>2023-03-27T22:13:16.000Z</updated>
+        <summary type="html"><![CDATA[#1654140 | [Moozzi2] Isekai Ojisan (BD 1920x1080 x265-10Bit FLACx2) - TV + SP | 25.4 GiB | Anime - Raw | 8d6684fe41e9cb8e0c66c0bcc9edc470518d1ad3]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Isekai Ojisan" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 樫本文と『露出デート』の課外活動Part2 ～エロプリ撮影編～]]></title>
+        <id>https://sukebei.nyaa.si/view/3851202</id>
+        <link href="https://sukebei.nyaa.si/download/3851202.torrent"/>
+        <updated>2023-03-25T08:06:19.000Z</updated>
+        <summary type="html"><![CDATA[#3851202 | (同人CG集) [満開開花] 樫本文と『露出デート』の課外活動Part2 ～エロプリ撮影編～ | 1.2 GiB | Art - Pictures | 7e603d60291e1d1d54046b5022efd2fc99aef95c]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atelier Ryza 3: Alchemist of the End & the Secret Key Free Download (v1.6.0.0)]]></title>
+        <id>https://igg-games.com/?p=416817</id>
+        <link href="https://igg-games.com/atelier-ryza-3-alchemist-of-the-end-750811075-the-secret-key-free-download.html"/>
+        <updated>2023-03-24T03:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Atelier Ryza 3: Alchemist of the End & the Secret Key Free Download PC Game Cracked in Direct Link and Torrent. Atelier Ryza 3: Alchemist of the End & the Secret Key – The final summer, the final […]
+The post Atelier Ryza 3: Alchemist of the End & the Secret Key Free Download (v1.6.0.0) appeared first on Install Guide Games.]]></summary>
+        <author>
+            <name>Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atelier Ryza 3 Alchemist of the End and the Secret Key-TENOKE]]></title>
+        <id>https://pcgamestorrents.com/?p=327019</id>
+        <link href="https://pcgamestorrents.com/atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-tenoke.html"/>
+        <updated>2023-03-24T02:17:25.000Z</updated>
+        <summary type="html"><![CDATA[TENOKE – TORRENT – FREE DOWNLOAD – CRACKED Atelier Ryza 3: Alchemist of the End & the Secret Key – The final summer, the final secret… Ryza’s final adventure is about to begin! Game Overview   The story […]
+The post Atelier Ryza 3 Alchemist of the End and the Secret Key-TENOKE appeared first on PCGamesTorrents.]]></summary>
+        <author>
+            <name>Admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 樫本文と『露出デート』の課外活動Part1]]></title>
+        <id>https://sukebei.nyaa.si/view/3846761</id>
+        <link href="https://sukebei.nyaa.si/download/3846761.torrent"/>
+        <updated>2023-03-17T23:55:02.000Z</updated>
+        <summary type="html"><![CDATA[#3846761 | (同人CG集) [満開開花] 樫本文と『露出デート』の課外活動Part1 | 1.1 GiB | Art - Pictures | 52dd02e0ec9159e3cfc128c6f2b0422b882cbb86]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AI-Raws&Kisssub] Engage Kiss エンゲージ・キス (BDRip 1920x1080 HEVC-YUV444p10 FLAC)]]></title>
+        <id>https://nyaa.si/view/1649745</id>
+        <link href="https://nyaa.si/download/1649745.torrent"/>
+        <updated>2023-03-17T14:54:22.000Z</updated>
+        <summary type="html"><![CDATA[#1649745 | [AI-Raws&Kisssub] Engage Kiss エンゲージ・キス (BDRip 1920x1080 HEVC-YUV444p10 FLAC) | 20.5 GiB | Anime - Raw | 7563ed1aa0cf6788ea6a462792944e9632799c7f]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[S3rNx] Lycoris Recoil (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1649202</id>
+        <link href="https://nyaa.si/download/1649202.torrent"/>
+        <updated>2023-03-15T19:20:18.000Z</updated>
+        <summary type="html"><![CDATA[#1649202 | [S3rNx] Lycoris Recoil (BDRip 1920x1080 x264 FLAC) | 43.2 GiB | Anime - Raw | 58bc524051bd6486e1284e6cead0fa729f8e3e31]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[白金压制] To LOVE-Ru Darkness OVA／To LOVEる -とらぶる- ダークネス OVA／出包王女 Darkness OVA [BD 1920x1080 HEVC FLAC]]]></title>
+        <id>https://nyaa.si/view/1649000</id>
+        <link href="https://nyaa.si/download/1649000.torrent"/>
+        <updated>2023-03-15T12:55:51.000Z</updated>
+        <summary type="html"><![CDATA[#1649000 | [白金压制] To LOVE-Ru Darkness OVA／To LOVEる -とらぶる- ダークネス OVA／出包王女 Darkness OVA [BD 1920x1080 HEVC FLAC] | 18.5 GiB | Anime - Raw | 25f09b65eb5794863e3e162afd98d8028c51f866]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 To Love-Ru" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Moozzi2] Lycoris Recoil (BD 1920x1080 x265-10Bit FLACx2) - TV + SP]]></title>
+        <id>https://nyaa.si/view/1648567</id>
+        <link href="https://nyaa.si/download/1648567.torrent"/>
+        <updated>2023-03-13T22:20:12.000Z</updated>
+        <summary type="html"><![CDATA[#1648567 | [Moozzi2] Lycoris Recoil (BD 1920x1080 x265-10Bit FLACx2) - TV + SP | 15.8 GiB | Anime - Raw | 5ae00605933cda425deb6ef31c105526acfd391f]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[S3rNx] Renai Flops Vol.1 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1648537</id>
+        <link href="https://nyaa.si/download/1648537.torrent"/>
+        <updated>2023-03-13T21:10:39.000Z</updated>
+        <summary type="html"><![CDATA[#1648537 | [S3rNx] Renai Flops Vol.1 (BDRip 1920x1080 x264 FLAC) | 14.2 GiB | Anime - Raw | 28cd2a6fe428bd8a45f8895b18c8826d6b5e0ff0]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Renai Flops" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Tsugunai - 03 (ツグナヒ　褐色ビチギャル・茗子〜鬼棒の轍♥〜) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3842209</id>
+        <link href="https://sukebei.nyaa.si/download/3842209.torrent"/>
+        <updated>2023-03-10T09:04:47.000Z</updated>
+        <summary type="html"><![CDATA[#3842209 | [SakuraCircle] Tsugunai - 03 (ツグナヒ　褐色ビチギャル・茗子〜鬼棒の轍♥〜) - English Softsubs | 126.9 MiB | Art - Anime | 433f38d226aa9df34edb1889d335e0bfbfe112ea]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IrizaRaws] Engage Kiss (BDRip 1920x1080 x264 10bit FLAC)v2]]></title>
+        <id>https://nyaa.si/view/1646532</id>
+        <link href="https://nyaa.si/download/1646532.torrent"/>
+        <updated>2023-03-08T19:29:43.000Z</updated>
+        <summary type="html"><![CDATA[#1646532 | [IrizaRaws] Engage Kiss (BDRip 1920x1080 x264 10bit FLAC)v2 | 33.7 GiB | Anime - Raw | eb5935bb089bceaba9e9da2d2fea97cf274a8d4e]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Bonyuu-chan wa Dashitai. - 01-02 (OVA母乳ちゃんは射したい。＃１-２) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3841003</id>
+        <link href="https://sukebei.nyaa.si/download/3841003.torrent"/>
+        <updated>2023-03-08T03:48:22.000Z</updated>
+        <summary type="html"><![CDATA[#3841003 | [SakuraCircle] Bonyuu-chan wa Dashitai. - 01-02 (OVA母乳ちゃんは射したい。＃１-２) - English Softsubs | 1.3 GiB | Art - Anime | 5714bae0ee3f3084ff5689b54711418152a0e92b]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 修学旅行の男子部屋でオナっちゃう生主マナちゃん]]></title>
+        <id>https://sukebei.nyaa.si/view/3840248</id>
+        <link href="https://sukebei.nyaa.si/download/3840248.torrent"/>
+        <updated>2023-03-06T08:31:38.000Z</updated>
+        <summary type="html"><![CDATA[#3840248 | (同人CG集) [満開開花] 修学旅行の男子部屋でオナっちゃう生主マナちゃん | 218.7 MiB | Art - Pictures | 1b01d6b572e086ae13d2d5d96f1fcaf7914a6077]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Class de Otoko wa Boku Hitori!? (OVAクラスで男は僕一人！？) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3839121</id>
+        <link href="https://sukebei.nyaa.si/download/3839121.torrent"/>
+        <updated>2023-03-04T06:58:28.000Z</updated>
+        <summary type="html"><![CDATA[#3839121 | [SakuraCircle] Class de Otoko wa Boku Hitori!? (OVAクラスで男は僕一人！？) - English Softsubs | 541.2 MiB | Art - Anime | 092151a586a388454b2a8c28291952c8ced9fd8c]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Soshite Watashi wa Sensei ni... - 03 (そしてわたしはセンセイに…… 〜めげないブルマ♥〜) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3838135</id>
+        <link href="https://sukebei.nyaa.si/download/3838135.torrent"/>
+        <updated>2023-03-02T23:19:10.000Z</updated>
+        <summary type="html"><![CDATA[#3838135 | [SakuraCircle] Soshite Watashi wa Sensei ni... - 03 (そしてわたしはセンセイに…… 〜めげないブルマ♥〜) - English Softsubs | 181.6 MiB | Art - Anime | 9d9b73be1e3abef225c4c988c4aa834fab7c0248]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230303][ばにぃうぉ～か～]OVA母乳ちゃんは射したい。＃2セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3838122</id>
+        <link href="https://sukebei.nyaa.si/download/3838122.torrent"/>
+        <updated>2023-03-02T15:26:31.000Z</updated>
+        <summary type="html"><![CDATA[#3838122 | [230303][ばにぃうぉ～か～]OVA母乳ちゃんは射したい。＃2セル版(No Watermark).mp4 | 119.1 MiB | Art - Anime | 168dae034ed7b9350187b4efcef96da0289a28f3]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230303][ばにぃうぉ～か～]OVA母乳ちゃんは射したい。＃1セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3838119</id>
+        <link href="https://sukebei.nyaa.si/download/3838119.torrent"/>
+        <updated>2023-03-02T15:18:10.000Z</updated>
+        <summary type="html"><![CDATA[#3838119 | [230303][ばにぃうぉ～か～]OVA母乳ちゃんは射したい。＃1セル版(No Watermark).mp4 | 116.4 MiB | Art - Anime | 2062e1306225ef484e4d3a44f068566a43c8aef3]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230303][ばにぃうぉ～か～]OVAクラスで男は僕一人！？ ＃1セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3838115</id>
+        <link href="https://sukebei.nyaa.si/download/3838115.torrent"/>
+        <updated>2023-03-02T15:07:39.000Z</updated>
+        <summary type="html"><![CDATA[#3838115 | [230303][ばにぃうぉ～か～]OVAクラスで男は僕一人！？ ＃1セル版(No Watermark).mp4 | 90.5 MiB | Art - Anime | bc43e43dd8b72c14c55f4efed007c5945de13ba2]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Majo wa Kekkyoku Sono Kyaku to... The Animation - 01 (魔女は結局その客と。。。THE ANIMATION 第1巻) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3837441</id>
+        <link href="https://sukebei.nyaa.si/download/3837441.torrent"/>
+        <updated>2023-02-28T19:20:41.000Z</updated>
+        <summary type="html"><![CDATA[#3837441 | [SakuraCircle] Majo wa Kekkyoku Sono Kyaku to... The Animation - 01 (魔女は結局その客と。。。THE ANIMATION 第1巻) - English Softsubs | 152.9 MiB | Art - Anime | 532fffdc18b1974c1a82ed6ef657061a27200f42]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 写メ日記014『どきどき❤公園で縄跳びしてみたよ!』]]></title>
+        <id>https://sukebei.nyaa.si/view/3836896</id>
+        <link href="https://sukebei.nyaa.si/download/3836896.torrent"/>
+        <updated>2023-02-27T14:47:13.000Z</updated>
+        <summary type="html"><![CDATA[#3836896 | (同人CG集) [満開開花] 写メ日記014『どきどき❤公園で縄跳びしてみたよ!』 | 524.9 MiB | Art - Pictures | d99ae297b7311ccc9b40a0c218f701af0cc7b396]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Roshutsu-kei Mahou Joshidaisei Crystear - 02 (露出系魔法女子大生クリスティア　第二話　感じちゃって魔力増幅！？　魔法女子大生のエッチな戦い) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3835870</id>
+        <link href="https://sukebei.nyaa.si/download/3835870.torrent"/>
+        <updated>2023-02-26T00:35:13.000Z</updated>
+        <summary type="html"><![CDATA[#3835870 | [SakuraCircle] Roshutsu-kei Mahou Joshidaisei Crystear - 02 (露出系魔法女子大生クリスティア　第二話　感じちゃって魔力増幅！？　魔法女子大生のエッチな戦い) - English Softsubs | 98.4 MiB | Art - Anime | 46b4cb28416f801aa0be27dace4751767947c0d6]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IrizaRaws] Lycoris Recoil (BDRip 1920x1080 x264 10bit FLAC)]]></title>
+        <id>https://nyaa.si/view/1642108</id>
+        <link href="https://nyaa.si/download/1642108.torrent"/>
+        <updated>2023-02-25T19:52:17.000Z</updated>
+        <summary type="html"><![CDATA[#1642108 | [IrizaRaws] Lycoris Recoil (BDRip 1920x1080 x264 10bit FLAC) | 33.3 GiB | Anime - Raw | 3e68997dc0a06fd3f4d7a2e3be4e52bcb0c4574c]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230224][ピンクパイナップル]魔女は結局その客と。。。THE ANIMATION 第1巻(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3835566</id>
+        <link href="https://sukebei.nyaa.si/download/3835566.torrent"/>
+        <updated>2023-02-25T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[#3835566 | [230224][ピンクパイナップル]魔女は結局その客と。。。THE ANIMATION 第1巻(No Watermark).mp4 | 151.9 MiB | Art - Anime | 6defa93492e4187d4d3d734948f654eee7105cea]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230224][nur]そしてわたしはセンセイに…… ～めげないブルマ～(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3835563</id>
+        <link href="https://sukebei.nyaa.si/download/3835563.torrent"/>
+        <updated>2023-02-25T11:30:10.000Z</updated>
+        <summary type="html"><![CDATA[#3835563 | [230224][nur]そしてわたしはセンセイに…… ～めげないブルマ～(No Watermark).mp4 | 178.7 MiB | Art - Anime | b693b46df46a92394bebaaa2dd30fa873c5e1639]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230224][PoRO]ツグナヒ 褐色ビチギャル・茗子～鬼棒の轍～(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3835562</id>
+        <link href="https://sukebei.nyaa.si/download/3835562.torrent"/>
+        <updated>2023-02-25T11:18:00.000Z</updated>
+        <summary type="html"><![CDATA[#3835562 | [230224][PoRO]ツグナヒ 褐色ビチギャル・茗子～鬼棒の轍～(No Watermark).mp4 | 126.2 MiB | Art - Anime | df26b0d80d2a3c3b5d2364bedc678ed4d47989c7]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230224][魔人]露出系魔法女子大生クリスティア 第二話 感じちゃって魔力増幅！？ 魔法女子大生のエッチな戦い(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3835556</id>
+        <link href="https://sukebei.nyaa.si/download/3835556.torrent"/>
+        <updated>2023-02-25T10:48:48.000Z</updated>
+        <summary type="html"><![CDATA[#3835556 | [230224][魔人]露出系魔法女子大生クリスティア 第二話 感じちゃって魔力増幅！？ 魔法女子大生のエッチな戦い(No Watermark).mp4 | 97.4 MiB | Art - Anime | 28bbfaa03e2e51416413b99807d510b2e8a78dfd]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Aoharu Snatch - 01 (アオハルスナッチ1) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3834974</id>
+        <link href="https://sukebei.nyaa.si/download/3834974.torrent"/>
+        <updated>2023-02-24T12:45:53.000Z</updated>
+        <summary type="html"><![CDATA[#3834974 | [SakuraCircle] Aoharu Snatch - 01 (アオハルスナッチ1) - English Softsubs | 118.6 MiB | Art - Anime | 1a504f5db640bfa504af7144c6fd9027d45a51f6]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230217][Queen Bee]アオハルスナッチ1(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3834143</id>
+        <link href="https://sukebei.nyaa.si/download/3834143.torrent"/>
+        <updated>2023-02-23T09:03:20.000Z</updated>
+        <summary type="html"><![CDATA[#3834143 | [230217][Queen Bee]アオハルスナッチ1(No Watermark).mp4 | 116.5 MiB | Art - Anime | 3eb9c452fe3b3e7ffb4b276c38606514d3d61c7f]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[7³ACG] Engage Kiss エンゲージ・キス S1 [BDRip 1080p x265 FLAC]]]></title>
+        <id>https://nyaa.si/view/1640721</id>
+        <link href="https://nyaa.si/download/1640721.torrent"/>
+        <updated>2023-02-22T15:31:12.000Z</updated>
+        <summary type="html"><![CDATA[#1640721 | [7³ACG] Engage Kiss エンゲージ・キス S1 [BDRip 1080p x265 FLAC] | 11.3 GiB | Anime - Raw | 453be822604d87fe17ba46828769fcd40819806b]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[7³ACG] Lycoris Recoil リコリス・リコイル S1 [BDRip 1080p x265 FLAC]]]></title>
+        <id>https://nyaa.si/view/1640653</id>
+        <link href="https://nyaa.si/download/1640653.torrent"/>
+        <updated>2023-02-22T12:50:43.000Z</updated>
+        <summary type="html"><![CDATA[#1640653 | [7³ACG] Lycoris Recoil リコリス・リコイル S1 [BDRip 1080p x265 FLAC] | 10.8 GiB | Anime - Raw | 63b84824e44a5e8126c18bbf3917e3f51884cb91]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Engage Kiss (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1640608</id>
+        <link href="https://nyaa.si/download/1640608.torrent"/>
+        <updated>2023-02-22T09:18:43.000Z</updated>
+        <summary type="html"><![CDATA[#1640608 | [ReinForce] Engage Kiss (BDRip 1920x1080 x264 FLAC) | 20.5 GiB | Anime - Raw | e40edec916521bf563fc18b5a8b8729447a59925]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1640472</id>
+        <link href="https://nyaa.si/download/1640472.torrent"/>
+        <updated>2023-02-21T21:55:30.000Z</updated>
+        <summary type="html"><![CDATA[#1640472 | [ReinForce] Lycoris Recoil (BDRip 1920x1080 x264 FLAC) | 19.4 GiB | Anime - Raw | b2c36d0d2404a9ee11fde7fc4e5d6d84396574d9]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[S3rNx] Isekai Ojisan Vol.1~2 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1640165</id>
+        <link href="https://nyaa.si/download/1640165.torrent"/>
+        <updated>2023-02-20T22:21:27.000Z</updated>
+        <summary type="html"><![CDATA[#1640165 | [S3rNx] Isekai Ojisan Vol.1~2 (BDRip 1920x1080 x264 FLAC) | 23.9 GiB | Anime - Raw | 1121e3091fcce7d3c26982b553b5218640895c23]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Isekai Ojisan" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 修学旅行の男子部屋でオナっちゃう生主マナちゃん]]></title>
+        <id>https://sukebei.nyaa.si/view/3831412</id>
+        <link href="https://sukebei.nyaa.si/download/3831412.torrent"/>
+        <updated>2023-02-18T08:12:05.000Z</updated>
+        <summary type="html"><![CDATA[#3831412 | (同人CG集) [満開開花] 修学旅行の男子部屋でオナっちゃう生主マナちゃん | 1.0 GiB | Art - Pictures | f643960c097b3e1e5c0b16aacedbb87938d26133]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Yari Agari - 01 (ヤリ上がり 〜スレ違いのイジワル♥〜) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3829145</id>
+        <link href="https://sukebei.nyaa.si/download/3829145.torrent"/>
+        <updated>2023-02-14T08:30:13.000Z</updated>
+        <summary type="html"><![CDATA[#3829145 | [SakuraCircle] Yari Agari - 01 (ヤリ上がり 〜スレ違いのイジワル♥〜) - English Softsubs | 139.0 MiB | Art - Anime | e8c8c6b115d575775537bf1196192464968944d9]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] 3 Piece The Animation (スリーピース THE ANIMATION) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3827841</id>
+        <link href="https://sukebei.nyaa.si/download/3827841.torrent"/>
+        <updated>2023-02-11T08:16:17.000Z</updated>
+        <summary type="html"><![CDATA[#3827841 | [SakuraCircle] 3 Piece The Animation (スリーピース THE ANIMATION) - English Softsubs | 113.3 MiB | Art - Anime | cfa82504f2c0be29f78b9c2d06c99cb22e7bfe01]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 『男子トイレでオナニー配信』バッドエンドイラスト]]></title>
+        <id>https://sukebei.nyaa.si/view/3827434</id>
+        <link href="https://sukebei.nyaa.si/download/3827434.torrent"/>
+        <updated>2023-02-10T12:59:45.000Z</updated>
+        <summary type="html"><![CDATA[#3827434 | (同人CG集) [満開開花] 『男子トイレでオナニー配信』バッドエンドイラスト | 61.9 MiB | Art - Pictures | 52953009d382cc546b9be394c1863ff77a190a53]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Harem Cult - 03 (ハーレム・カルト 3 side HAREM) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3826903</id>
+        <link href="https://sukebei.nyaa.si/download/3826903.torrent"/>
+        <updated>2023-02-09T16:13:13.000Z</updated>
+        <summary type="html"><![CDATA[#3826903 | [SakuraCircle] Harem Cult - 03 (ハーレム・カルト 3 side HAREM) - English Softsubs | 153.2 MiB | Art - Anime | 130ef9607a404e48efa07bcabae84bb399d1128e]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Moozzi2] To LOVE-Ru Darkness OVA (BD-BOX) (BD 1920x1080 x265 10bit FLAC) - OAD + SP]]></title>
+        <id>https://nyaa.si/view/1635256</id>
+        <link href="https://nyaa.si/download/1635256.torrent"/>
+        <updated>2023-02-08T22:15:21.000Z</updated>
+        <summary type="html"><![CDATA[#1635256 | [Moozzi2] To LOVE-Ru Darkness OVA (BD-BOX) (BD 1920x1080 x265 10bit FLAC) - OAD + SP | 15.1 GiB | Anime - Raw | a157c74f9c6951ddc3386dc50c29bf9b8f5534a1]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 To Love-Ru" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Moozzi2] To LOVE-Ru Darkness 2nd & Specials (BD 1920x1080 x265 10bit FLAC) - TV + SP + Tokuten DVD]]></title>
+        <id>https://nyaa.si/view/1635255</id>
+        <link href="https://nyaa.si/download/1635255.torrent"/>
+        <updated>2023-02-08T22:15:20.000Z</updated>
+        <summary type="html"><![CDATA[#1635255 | [Moozzi2] To LOVE-Ru Darkness 2nd & Specials (BD 1920x1080 x265 10bit FLAC) - TV + SP + Tokuten DVD | 17.6 GiB | Anime - Raw | f017e44e470f892bc3d52750f5604ed66ca8ee56]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 To Love-Ru" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Moozzi2] To LOVE-Ru Darkness (BD 1920x1080 x265 10bit FLAC) - TV + SP]]></title>
+        <id>https://nyaa.si/view/1635254</id>
+        <link href="https://nyaa.si/download/1635254.torrent"/>
+        <updated>2023-02-08T22:15:18.000Z</updated>
+        <summary type="html"><![CDATA[#1635254 | [Moozzi2] To LOVE-Ru Darkness (BD 1920x1080 x265 10bit FLAC) - TV + SP | 16.2 GiB | Anime - Raw | ed07c63952ef8bcf1593e5035a625d0df9e1656e]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 To Love-Ru" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Moozzi2] Motto To LOVE-Ru (BD 1920x1080 x265 10bit FLAC) - TV + SP]]></title>
+        <id>https://nyaa.si/view/1635253</id>
+        <link href="https://nyaa.si/download/1635253.torrent"/>
+        <updated>2023-02-08T22:15:17.000Z</updated>
+        <summary type="html"><![CDATA[#1635253 | [Moozzi2] Motto To LOVE-Ru (BD 1920x1080 x265 10bit FLAC) - TV + SP | 9.3 GiB | Anime - Raw | 7735784500af35b8483e4e884a256e94f1858195]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 To Love-Ru" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Moozzi2] To LOVE-Ru & OVA (BD 1920x1080 x265 10bit FLAC) - TV + OVA]]></title>
+        <id>https://nyaa.si/view/1635252</id>
+        <link href="https://nyaa.si/download/1635252.torrent"/>
+        <updated>2023-02-08T22:15:16.000Z</updated>
+        <summary type="html"><![CDATA[#1635252 | [Moozzi2] To LOVE-Ru & OVA (BD 1920x1080 x265 10bit FLAC) - TV + OVA | 28.8 GiB | Anime - Raw | f037bedcf5250c9629abfba29bac0f9b6c92817b]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 To Love-Ru" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Imouto wa Gal Kawaii - 01 (いもうとはGALかわいい 第1話 属性違いの妹) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3825600</id>
+        <link href="https://sukebei.nyaa.si/download/3825600.torrent"/>
+        <updated>2023-02-06T14:33:28.000Z</updated>
+        <summary type="html"><![CDATA[#3825600 | [SakuraCircle] Imouto wa Gal Kawaii - 01 (いもうとはGALかわいい 第1話 属性違いの妹) - English Softsubs | 70.7 MiB | Art - Anime | 23274097a81cb2e9821adef9ad37bdb8683c80df]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UCCUSS] To Love-Ru -Trouble-／To LOVEる -とらぶる- OVA「Multiplication～前から後ろから～」(BD 1920x1080p AVC FLAC)]]></title>
+        <id>https://nyaa.si/view/1634170</id>
+        <link href="https://nyaa.si/download/1634170.torrent"/>
+        <updated>2023-02-05T20:19:37.000Z</updated>
+        <summary type="html"><![CDATA[#1634170 | [UCCUSS] To Love-Ru -Trouble-／To LOVEる -とらぶる- OVA「Multiplication～前から後ろから～」(BD 1920x1080p AVC FLAC) | 1.3 GiB | Anime - Raw | 10486e013ef9304373cb5bba0a0e593dd7c52f72]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 To Love-Ru" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UCCUSS] To Love-Ru -Trouble- Darkness／To LOVEる -とらぶる- ダークネス OVA 全9話 (BD 1920x1080p AVC FLAC)]]></title>
+        <id>https://nyaa.si/view/1634169</id>
+        <link href="https://nyaa.si/download/1634169.torrent"/>
+        <updated>2023-02-05T20:18:29.000Z</updated>
+        <summary type="html"><![CDATA[#1634169 | [UCCUSS] To Love-Ru -Trouble- Darkness／To LOVEる -とらぶる- ダークネス OVA 全9話 (BD 1920x1080p AVC FLAC) | 29.0 GiB | Anime - Raw | a5c913f2ebe964ec52ea15b005b66a717d0bd852]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 To Love-Ru" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Boku ni Sefure ga Dekita Riyuu - 05-06 (OVA僕にセフレが出来た理由 ＃５-６) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3825122</id>
+        <link href="https://sukebei.nyaa.si/download/3825122.torrent"/>
+        <updated>2023-02-05T11:46:01.000Z</updated>
+        <summary type="html"><![CDATA[#3825122 | [SakuraCircle] Boku ni Sefure ga Dekita Riyuu - 05-06 (OVA僕にセフレが出来た理由 ＃５-６) - English Softsubs | 644.4 MiB | Art - Anime | 0fddf714905fe223e4f2999add1d62c8e830f0cb]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230203][メリー・ジェーン]いもうとはGALかわいい 第1話属性違いの妹(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3824678</id>
+        <link href="https://sukebei.nyaa.si/download/3824678.torrent"/>
+        <updated>2023-02-04T10:55:01.000Z</updated>
+        <summary type="html"><![CDATA[#3824678 | [230203][メリー・ジェーン]いもうとはGALかわいい 第1話属性違いの妹(No Watermark).mp4 | 69.9 MiB | Art - Anime | 3191076b2c3cadcb3b17919fe093f6b0defccd96]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Otogibanashi no Onigokko - 01 (おとぎばなしの鬼ごっこ　第一話　赤ずきんとケダモノたち) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3823768</id>
+        <link href="https://sukebei.nyaa.si/download/3823768.torrent"/>
+        <updated>2023-02-02T18:03:13.000Z</updated>
+        <summary type="html"><![CDATA[#3823768 | [SakuraCircle] Otogibanashi no Onigokko - 01 (おとぎばなしの鬼ごっこ　第一話　赤ずきんとケダモノたち) - English Softsubs | 103.8 MiB | Art - Anime | 5c7f128131b6ae12fc09c3486c26d6aef083dfb5]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Enjo Kouhai - 08 (○○交配 第八話 夜遊びざかりの不良な彼女は竜の長) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3823454</id>
+        <link href="https://sukebei.nyaa.si/download/3823454.torrent"/>
+        <updated>2023-02-02T04:29:50.000Z</updated>
+        <summary type="html"><![CDATA[#3823454 | [SakuraCircle] Enjo Kouhai - 08 (○○交配 第八話 夜遊びざかりの不良な彼女は竜の長) - English Softsubs | 90.0 MiB | Art - Anime | ee89dd24bf461679c1e61aedd1eae225ccbab264]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230203][ばにぃうぉ～か～]OVA僕にセフレが出来た理由 ＃6 セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3822780</id>
+        <link href="https://sukebei.nyaa.si/download/3822780.torrent"/>
+        <updated>2023-01-31T11:22:48.000Z</updated>
+        <summary type="html"><![CDATA[#3822780 | [230203][ばにぃうぉ～か～]OVA僕にセフレが出来た理由 ＃6 セル版(No Watermark).mp4 | 88.1 MiB | Art - Anime | 97ff073ddbb727939749cc0f7273726b8fc775fc]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230203][ばにぃうぉ～か～]OVA僕にセフレが出来た理由 ＃5 セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3822777</id>
+        <link href="https://sukebei.nyaa.si/download/3822777.torrent"/>
+        <updated>2023-01-31T11:11:18.000Z</updated>
+        <summary type="html"><![CDATA[#3822777 | [230203][ばにぃうぉ～か～]OVA僕にセフレが出来た理由 ＃5 セル版(No Watermark).mp4 | 115.0 MiB | Art - Anime | f3088257a722dde070615b4c52df8d8b9e774daf]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230127][魔人]おとぎばなしの鬼ごっこ 第一話 赤ずきんとケダモノたち(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3822774</id>
+        <link href="https://sukebei.nyaa.si/download/3822774.torrent"/>
+        <updated>2023-01-31T10:57:06.000Z</updated>
+        <summary type="html"><![CDATA[#3822774 | [230127][魔人]おとぎばなしの鬼ごっこ 第一話 赤ずきんとケダモノたち(No Watermark).mp4 | 103.2 MiB | Art - Anime | d76bb45e7ede55689e88599a0d449052d4642b98]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230127][ピンクパイナップル]スリーピース THE ANIMATION(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3822766</id>
+        <link href="https://sukebei.nyaa.si/download/3822766.torrent"/>
+        <updated>2023-01-31T10:43:04.000Z</updated>
+        <summary type="html"><![CDATA[#3822766 | [230127][ピンクパイナップル]スリーピース THE ANIMATION(No Watermark).mp4 | 112.4 MiB | Art - Anime | c5ceb583df83fea24efafbc48e82324a3b57a4e9]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230127][Queen Bee]ハーレム・カルト 3 side HAREM(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3822726</id>
+        <link href="https://sukebei.nyaa.si/download/3822726.torrent"/>
+        <updated>2023-01-31T10:31:49.000Z</updated>
+        <summary type="html"><![CDATA[#3822726 | [230127][Queen Bee]ハーレム・カルト 3 side HAREM(No Watermark).mp4 | 152.9 MiB | Art - Anime | 396386aa58ea0d51a92291748fd0bec9e0d21dec]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230127][魔人]○○交配 第八話 夜遊びざかりの不良な彼女は竜の長(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3822725</id>
+        <link href="https://sukebei.nyaa.si/download/3822725.torrent"/>
+        <updated>2023-01-31T10:22:39.000Z</updated>
+        <summary type="html"><![CDATA[#3822725 | [230127][魔人]○○交配 第八話 夜遊びざかりの不良な彼女は竜の長(No Watermark).mp4 | 82.4 MiB | Art - Anime | e2d387363ded94bb6efde54c8616b47e5b0dcf94]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230127][nur]ヤリ上がり ～スレ違いのイジワル～(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3822721</id>
+        <link href="https://sukebei.nyaa.si/download/3822721.torrent"/>
+        <updated>2023-01-31T10:08:57.000Z</updated>
+        <summary type="html"><![CDATA[#3822721 | [230127][nur]ヤリ上がり ～スレ違いのイジワル～(No Watermark).mp4 | 138.7 MiB | Art - Anime | 1ab166e394e6fe1e7c294bc36b9ab546d9438161]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230127][ショーテン]メスダチ The Animation 千紗編(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3822718</id>
+        <link href="https://sukebei.nyaa.si/download/3822718.torrent"/>
+        <updated>2023-01-31T09:59:55.000Z</updated>
+        <summary type="html"><![CDATA[#3822718 | [230127][ショーテン]メスダチ The Animation 千紗編(No Watermark).mp4 | 91.3 MiB | Art - Anime | 28302d1f5145940f35e0976f3e5f32514b877c22]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 登録者数の為なら えっちな配信も頑張る Vtuberコース part2]]></title>
+        <id>https://sukebei.nyaa.si/view/3822494</id>
+        <link href="https://sukebei.nyaa.si/download/3822494.torrent"/>
+        <updated>2023-01-31T03:04:43.000Z</updated>
+        <summary type="html"><![CDATA[#3822494 | (同人CG集) [満開開花] 登録者数の為なら えっちな配信も頑張る Vtuberコース part2 | 1.1 GiB | Art - Pictures | da026f3a472117e24b5a0707cae9509cffaf4d1e]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Mesudachi The Animation - 02 (メスダチ The Animation 千紗編) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3821496</id>
+        <link href="https://sukebei.nyaa.si/download/3821496.torrent"/>
+        <updated>2023-01-28T09:20:32.000Z</updated>
+        <summary type="html"><![CDATA[#3821496 | [SakuraCircle] Mesudachi The Animation - 02 (メスダチ The Animation 千紗編) - English Softsubs | 477.4 MiB | Art - Anime | 66e3584d837952038c28344fa86afcac121661ef]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20220304][一般コミック][増田ちひろ 裏地ろくろ] ゾンビのあふれた世界で俺だけが襲われない 2 [COMICらぐちゅう][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1630268</id>
+        <link href="https://nyaa.si/download/1630268.torrent"/>
+        <updated>2023-01-27T23:12:55.000Z</updated>
+        <summary type="html"><![CDATA[#1630268 | [20220304][一般コミック][増田ちひろ 裏地ろくろ] ゾンビのあふれた世界で俺だけが襲われない 2 [COMICらぐちゅう][AVIF][DL版] - MangaRoo | 35.9 MiB | Literature - Raw | 7355fa950cebdeb00f831d1813cce52adca9c18d]]></summary>
+        <author>
+            <name>Nyaa - "ゾンビのあふれた世界で俺だけが襲われない [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20220304][一般コミック][増田ちひろ 裏地ろくろ] ゾンビのあふれた世界で俺だけが襲われない 1 [COMICらぐちゅう][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1630267</id>
+        <link href="https://nyaa.si/download/1630267.torrent"/>
+        <updated>2023-01-27T23:12:53.000Z</updated>
+        <summary type="html"><![CDATA[#1630267 | [20220304][一般コミック][増田ちひろ 裏地ろくろ] ゾンビのあふれた世界で俺だけが襲われない 1 [COMICらぐちゅう][AVIF][DL版] - MangaRoo | 35.4 MiB | Literature - Raw | cd21ddb97712ce3d229c841bb3b07c827fe25b19]]></summary>
+        <author>
+            <name>Nyaa - "ゾンビのあふれた世界で俺だけが襲われない [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UCCUSS] Lycoris Recoil リコリス・リコイル 第5巻 (BD 1920x1080p AVC FLAC)]]></title>
+        <id>https://nyaa.si/view/1629871</id>
+        <link href="https://nyaa.si/download/1629871.torrent"/>
+        <updated>2023-01-26T21:39:11.000Z</updated>
+        <summary type="html"><![CDATA[#1629871 | [UCCUSS] Lycoris Recoil リコリス・リコイル 第5巻 (BD 1920x1080p AVC FLAC) | 4.3 GiB | Anime - Raw | cb5f20d31b7aeba81059a51cf05c1fdfdfc5b81d]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil Vol 5 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1629194</id>
+        <link href="https://nyaa.si/download/1629194.torrent"/>
+        <updated>2023-01-25T09:23:32.000Z</updated>
+        <summary type="html"><![CDATA[#1629194 | [ReinForce] Lycoris Recoil Vol 5 (BDRip 1920x1080 x264 FLAC) | 2.8 GiB | Anime - Raw | 574efa4a8da522114027e5bfab0831a28ca00520]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Engage Kiss Vol 5 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1628999</id>
+        <link href="https://nyaa.si/download/1628999.torrent"/>
+        <updated>2023-01-24T17:12:04.000Z</updated>
+        <summary type="html"><![CDATA[#1628999 | [ReinForce] Engage Kiss Vol 5 (BDRip 1920x1080 x264 FLAC) | 3.2 GiB | Anime - Raw | 039cf5fbf29ce6ddde58641b0075137f63a8b632]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 登録者数の為なら えっちな配信も頑張る Vtuberコース part1]]></title>
+        <id>https://sukebei.nyaa.si/view/3819048</id>
+        <link href="https://sukebei.nyaa.si/download/3819048.torrent"/>
+        <updated>2023-01-22T06:42:22.000Z</updated>
+        <summary type="html"><![CDATA[#3819048 | (同人CG集) [満開開花] 登録者数の為なら えっちな配信も頑張る Vtuberコース part1 | 1.2 GiB | Art - Pictures | f3242216ac914cd8fe6af3bcdf6215e5de9f26dc]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C101) [じぇのばけーき (たかやKi)] 黒猫はお年頃 (ブルーアーカイブ)]]></title>
+        <id>https://sukebei.nyaa.si/view/3817116</id>
+        <link href="https://sukebei.nyaa.si/download/3817116.torrent"/>
+        <updated>2023-01-18T19:03:08.000Z</updated>
+        <summary type="html"><![CDATA[#3817116 | (C101) [じぇのばけーき (たかやKi)] 黒猫はお年頃 (ブルーアーカイブ) | 78.3 MiB | Art - Doujinshi | 5c22a334f06372cfd12ddde7aa11a2eac6d26455]]></summary>
+        <author>
+            <name>Sukebei - "たかやKi" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(成年コミック) [みちきんぐ] 姉体験女学寮]]></title>
+        <id>https://sukebei.nyaa.si/view/3816650</id>
+        <link href="https://sukebei.nyaa.si/download/3816650.torrent"/>
+        <updated>2023-01-18T00:38:24.000Z</updated>
+        <summary type="html"><![CDATA[#3816650 | (成年コミック) [みちきんぐ] 姉体験女学寮 | 832.6 MiB | Art - Manga | 6be172bc28516ae2735da1ffad2802be030e5d5d]]></summary>
+        <author>
+            <name>Sukebei - "みちきんぐ" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C101) [みくろぺえじ (黒本君)] C101つぐちゃんのおまけ付き (鳩羽つぐ) [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/3816274</id>
+        <link href="https://sukebei.nyaa.si/download/3816274.torrent"/>
+        <updated>2023-01-17T05:29:17.000Z</updated>
+        <summary type="html"><![CDATA[#3816274 | (C101) [みくろぺえじ (黒本君)] C101つぐちゃんのおまけ付き (鳩羽つぐ) [DL版] | 4.0 MiB | Art - Doujinshi | 2c6fd4ccaddbd45b9b367a72bb2700d326fff096]]></summary>
+        <author>
+            <name>Sukebei - "みちきんぐ" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C101) [40010壱号 (40010試作型)] S.N.S.H2022W. (オリジナル)]]></title>
+        <id>https://sukebei.nyaa.si/view/3814838</id>
+        <link href="https://sukebei.nyaa.si/download/3814838.torrent"/>
+        <updated>2023-01-14T08:00:34.000Z</updated>
+        <summary type="html"><![CDATA[#3814838 | (C101) [40010壱号 (40010試作型)] S.N.S.H2022W. (オリジナル) | 67.1 MiB | Art - Doujinshi | a8031d02060ef464cddc3768d95f7b4feda84443]]></summary>
+        <author>
+            <name>Sukebei - "40010試作型" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C97) [40010壱号 (40010試作型)] O.I.I.H.2019W. (よろず)]]></title>
+        <id>https://sukebei.nyaa.si/view/3813904</id>
+        <link href="https://sukebei.nyaa.si/download/3813904.torrent"/>
+        <updated>2023-01-13T02:12:55.000Z</updated>
+        <summary type="html"><![CDATA[#3813904 | (C97) [40010壱号 (40010試作型)] O.I.I.H.2019W. (よろず) | 71.3 MiB | Art - Doujinshi | fded421d8e805996fc5b609d2beadd553c6f8fb1]]></summary>
+        <author>
+            <name>Sukebei - "40010試作型" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C96) [40010壱号 (40010試作型)] O.M.Y.H.2019S. (To LOVEる -とらぶる-)]]></title>
+        <id>https://sukebei.nyaa.si/view/3813903</id>
+        <link href="https://sukebei.nyaa.si/download/3813903.torrent"/>
+        <updated>2023-01-13T02:12:33.000Z</updated>
+        <summary type="html"><![CDATA[#3813903 | (C96) [40010壱号 (40010試作型)] O.M.Y.H.2019S. (To LOVEる -とらぶる-) | 58.3 MiB | Art - Doujinshi | b09af854cb1b1124e4d11188e6e5e7660037f703]]></summary>
+        <author>
+            <name>Sukebei - "40010試作型" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C93) [40010壱号 (40010試作型)] O.T.L.L.2017W. (To LOVEる -とらぶる-)]]></title>
+        <id>https://sukebei.nyaa.si/view/3813902</id>
+        <link href="https://sukebei.nyaa.si/download/3813902.torrent"/>
+        <updated>2023-01-13T02:12:25.000Z</updated>
+        <summary type="html"><![CDATA[#3813902 | (C93) [40010壱号 (40010試作型)] O.T.L.L.2017W. (To LOVEる -とらぶる-) | 28.6 MiB | Art - Doujinshi | 02148aa32ff6b50cddc3e0a84a485621a2b49fef]]></summary>
+        <author>
+            <name>Sukebei - "40010試作型" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C100) [40010壱号 (40010試作型)] O.I.I.H.2022S. (よろず)]]></title>
+        <id>https://sukebei.nyaa.si/view/3813755</id>
+        <link href="https://sukebei.nyaa.si/download/3813755.torrent"/>
+        <updated>2023-01-12T15:04:49.000Z</updated>
+        <summary type="html"><![CDATA[#3813755 | (C100) [40010壱号 (40010試作型)] O.I.I.H.2022S. (よろず) | 65.7 MiB | Art - Doujinshi | d1474e8cce4c541b7e2bbb9ea545897e3a55acf6]]></summary>
+        <author>
+            <name>Sukebei - "40010試作型" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 新人Vtuber“バツ山ペケ美”の中の人は誰？調べてみました。]]></title>
+        <id>https://sukebei.nyaa.si/view/3812503</id>
+        <link href="https://sukebei.nyaa.si/download/3812503.torrent"/>
+        <updated>2023-01-10T07:26:00.000Z</updated>
+        <summary type="html"><![CDATA[#3812503 | (同人CG集) [満開開花] 新人Vtuber“バツ山ペケ美”の中の人は誰？調べてみました。 | 589.0 MiB | Art - Pictures | 9106179f9a58174e65c471a97c365051c6c71df2]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C101) [50on! (愛上陸)] 濁音 5 (ぼっち・ざ・ろっく!) [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/3812223</id>
+        <link href="https://sukebei.nyaa.si/download/3812223.torrent"/>
+        <updated>2023-01-09T18:52:45.000Z</updated>
+        <summary type="html"><![CDATA[#3812223 | (C101) [50on! (愛上陸)] 濁音 5 (ぼっち・ざ・ろっく!) [DL版] | 15.6 MiB | Art - Doujinshi | 877ac4c8c1b8576e93acffa5802340535d177b68]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C101) [TOZAN：BU (富士やま)] 催淫コミケ (オリジナル) [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/3812003</id>
+        <link href="https://sukebei.nyaa.si/download/3812003.torrent"/>
+        <updated>2023-01-09T08:11:42.000Z</updated>
+        <summary type="html"><![CDATA[#3812003 | (C101) [TOZAN：BU (富士やま)] 催淫コミケ (オリジナル) [DL版] | 286.7 MiB | Art - Doujinshi | ce4b244d8e78e0430e8e3d9fd4890b7313b807ae]]></summary>
+        <author>
+            <name>Sukebei - "富士やま" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation - 01-02 (異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION 第1-2巻) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3811424</id>
+        <link href="https://sukebei.nyaa.si/download/3811424.torrent"/>
+        <updated>2023-01-08T03:18:08.000Z</updated>
+        <summary type="html"><![CDATA[#3811424 | [SakuraCircle] Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation - 01-02 (異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION 第1-2巻) - English Softsubs | 243.3 MiB | Art - Anime | a33333142df4bba1d337d634dde1f1ba18c9a10e]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 初夢福袋企画まとめ]]></title>
+        <id>https://sukebei.nyaa.si/view/3809406</id>
+        <link href="https://sukebei.nyaa.si/download/3809406.torrent"/>
+        <updated>2023-01-05T03:17:48.000Z</updated>
+        <summary type="html"><![CDATA[#3809406 | (同人CG集) [満開開花] 初夢福袋企画まとめ | 37.3 MiB | Art - Pictures | b4bd1b36bca4d59f8523ad13df8adec0311710dd]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Mako-chan Kaihatsu Nikki (OVAまこちゃん開発日記) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3808618</id>
+        <link href="https://sukebei.nyaa.si/download/3808618.torrent"/>
+        <updated>2023-01-03T16:15:11.000Z</updated>
+        <summary type="html"><![CDATA[#3808618 | [SakuraCircle] Mako-chan Kaihatsu Nikki (OVAまこちゃん開発日記) - English Softsubs | 1.4 GiB | Art - Anime | 9537fa5a64614d1b0cc4403aa50f83ee20f875ed]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UCCUSS] Lycoris Recoil リコリス・リコイル 第4巻 (BD 1920x1080p AVC FLAC)]]></title>
+        <id>https://nyaa.si/view/1620013</id>
+        <link href="https://nyaa.si/download/1620013.torrent"/>
+        <updated>2023-01-03T04:16:51.000Z</updated>
+        <summary type="html"><![CDATA[#1620013 | [UCCUSS] Lycoris Recoil リコリス・リコイル 第4巻 (BD 1920x1080p AVC FLAC) | 3.6 GiB | Anime - Raw | fe35711ade6b96d33894d392545da495a6c0f914]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UCCUSS] Engage Kiss エンゲージ・キス 第4巻 (BD 1920x1080p AVC FLAC)]]></title>
+        <id>https://nyaa.si/view/1620009</id>
+        <link href="https://nyaa.si/download/1620009.torrent"/>
+        <updated>2023-01-03T03:56:12.000Z</updated>
+        <summary type="html"><![CDATA[#1620009 | [UCCUSS] Engage Kiss エンゲージ・キス 第4巻 (BD 1920x1080p AVC FLAC) | 4.6 GiB | Anime - Raw | 6b0b86883ff181089c10038fc5b2e6cff7068d0f]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Eroriman 2 - 02 (エロリーマン2　エロ輩姉妹・真冬&愛菜〜卑少女たちの羞恥♥〜) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3807406</id>
+        <link href="https://sukebei.nyaa.si/download/3807406.torrent"/>
+        <updated>2023-01-01T17:58:38.000Z</updated>
+        <summary type="html"><![CDATA[#3807406 | [SakuraCircle] Eroriman 2 - 02 (エロリーマン2　エロ輩姉妹・真冬&愛菜〜卑少女たちの羞恥♥〜) - English Softsubs | 133.5 MiB | Art - Anime | 2a4a35802bbf579cae8ce5b4eb8aa76d6f092e7b]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C101) [50on! (愛上陸)] 催眠性指導 補習 倉敷母娘の場合 (オリジナル)]]></title>
+        <id>https://sukebei.nyaa.si/view/3806855</id>
+        <link href="https://sukebei.nyaa.si/download/3806855.torrent"/>
+        <updated>2023-01-01T01:33:34.000Z</updated>
+        <summary type="html"><![CDATA[#3806855 | (C101) [50on! (愛上陸)] 催眠性指導 補習 倉敷母娘の場合 (オリジナル) | 41.5 MiB | Art - Doujinshi | 5b1a1457d363365e36f7c35be4deb0d497c1bc04]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C101) [50on! (愛上陸)] 濁音 5 (ぼっち・ざ・ろっく!)]]></title>
+        <id>https://sukebei.nyaa.si/view/3806832</id>
+        <link href="https://sukebei.nyaa.si/download/3806832.torrent"/>
+        <updated>2022-12-31T23:28:56.000Z</updated>
+        <summary type="html"><![CDATA[#3806832 | (C101) [50on! (愛上陸)] 濁音 5 (ぼっち・ざ・ろっく!) | 104.7 MiB | Art - Doujinshi | c40458fe5f3e83cb227c96c82bc8ee830c6a06a7]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C101) [バス停シャワー (桂井よしあき)] 天使学園の学園長 メス豚涼華 作業過程 (オリジナル)]]></title>
+        <id>https://sukebei.nyaa.si/view/3806717</id>
+        <link href="https://sukebei.nyaa.si/download/3806717.torrent"/>
+        <updated>2022-12-31T16:41:01.000Z</updated>
+        <summary type="html"><![CDATA[#3806717 | (C101) [バス停シャワー (桂井よしあき)] 天使学園の学園長 メス豚涼華 作業過程 (オリジナル) | 47.7 MiB | Art - Doujinshi | 91ff73e8ab14b7e22aacf00d47cc13a56fb39fb1]]></summary>
+        <author>
+            <name>Sukebei - "桂井よしあき" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] バスの中で丸出しオナニー配信 part2]]></title>
+        <id>https://sukebei.nyaa.si/view/3806262</id>
+        <link href="https://sukebei.nyaa.si/download/3806262.torrent"/>
+        <updated>2022-12-31T04:35:01.000Z</updated>
+        <summary type="html"><![CDATA[#3806262 | (同人CG集) [満開開花] バスの中で丸出しオナニー配信 part2 | 651.3 MiB | Art - Pictures | ab6cba1318944677103d04192b625dfd62e54e3b]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Roshutsu-kei Mahou Joshidaisei Crystear - 01 (露出系魔法女子大生クリスティア　第一話　変身魔法は公開露出！？　魔法女子大生クリスティア爆誕！！) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3806026</id>
+        <link href="https://sukebei.nyaa.si/download/3806026.torrent"/>
+        <updated>2022-12-30T22:11:46.000Z</updated>
+        <summary type="html"><![CDATA[#3806026 | [SakuraCircle] Roshutsu-kei Mahou Joshidaisei Crystear - 01 (露出系魔法女子大生クリスティア　第一話　変身魔法は公開露出！？　魔法女子大生クリスティア爆誕！！) - English Softsubs | 89.3 MiB | Art - Anime | ec57f188653d59f645fa551843068bc087918f8e]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [愛上陸] むかつくギャルに催眠をかける話]]></title>
+        <id>https://sukebei.nyaa.si/view/3805684</id>
+        <link href="https://sukebei.nyaa.si/download/3805684.torrent"/>
+        <updated>2022-12-30T11:55:55.000Z</updated>
+        <summary type="html"><![CDATA[#3805684 | (同人CG集) [愛上陸] むかつくギャルに催眠をかける話 | 78.6 MiB | Art - Pictures | 5d020b2b2911d0f31c8c9a23fabe91853da1a232]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Mama Katsu - 01 (ママ喝っ 〜熟れ羞じらうゴゴママ♥〜) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3804951</id>
+        <link href="https://sukebei.nyaa.si/download/3804951.torrent"/>
+        <updated>2022-12-29T15:50:55.000Z</updated>
+        <summary type="html"><![CDATA[#3804951 | [SakuraCircle] Mama Katsu - 01 (ママ喝っ 〜熟れ羞じらうゴゴママ♥〜) - English Softsubs | 134.1 MiB | Art - Anime | 713f21a453cb7e7d3e41c6f065fc57ac33b532d3]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[230101][ばにぃうぉ～か～]OVAまこちゃん開発日記 ＃4 セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/3804773</id>
+        <link href="https://sukebei.nyaa.si/download/3804773.torrent"/>
+        <updated>2022-12-29T10:08:51.000Z</updated>
+        <summary type="html"><![CDATA[#3804773 | [230101][ばにぃうぉ～か～]OVAまこちゃん開発日記 ＃4 セル版(No Watermark).mp4 | 116.1 MiB | Art - Anime | db69f619da042370818e8eb57ba3d08496f9c59c]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [愛上陸] むかつくギャルに催眠をかける話 (尊厳破壊ルート 2)]]></title>
+        <id>https://sukebei.nyaa.si/view/3804427</id>
+        <link href="https://sukebei.nyaa.si/download/3804427.torrent"/>
+        <updated>2022-12-28T19:12:38.000Z</updated>
+        <summary type="html"><![CDATA[#3804427 | (同人CG集) [愛上陸] むかつくギャルに催眠をかける話 (尊厳破壊ルート 2) | 14.5 MiB | Art - Pictures | 5d45e4cb99e22a3c61b86729a5afdba549b90c09]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [愛上陸] むかつくギャルに催眠をかける話 (尊厳破壊ルート 2)]]></title>
+        <id>https://sukebei.nyaa.si/view/3804315</id>
+        <link href="https://sukebei.nyaa.si/download/3804315.torrent"/>
+        <updated>2022-12-28T16:36:36.000Z</updated>
+        <summary type="html"><![CDATA[#3804315 | (同人CG集) [愛上陸] むかつくギャルに催眠をかける話 (尊厳破壊ルート 2) | 15.6 MiB | Art - Pictures | b77b66f69a57d4908d3a261f78d42ce2cb5543b9]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [愛上陸] むかつくギャルに催眠をかける話 (尊厳破壊ルート 1)]]></title>
+        <id>https://sukebei.nyaa.si/view/3804311</id>
+        <link href="https://sukebei.nyaa.si/download/3804311.torrent"/>
+        <updated>2022-12-28T16:35:45.000Z</updated>
+        <summary type="html"><![CDATA[#3804311 | (同人CG集) [愛上陸] むかつくギャルに催眠をかける話 (尊厳破壊ルート 1) | 22.5 MiB | Art - Pictures | 261d2f333c15c5972bcb056019d07c764c4e0e35]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(C100) [50on! (愛上陸)] 濁音4 (アイドルマスター シャイニーカラーズ) [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/3804305</id>
+        <link href="https://sukebei.nyaa.si/download/3804305.torrent"/>
+        <updated>2022-12-28T16:26:33.000Z</updated>
+        <summary type="html"><![CDATA[#3804305 | (C100) [50on! (愛上陸)] 濁音4 (アイドルマスター シャイニーカラーズ) [DL版] | 12.1 MiB | Art - Doujinshi | 1fdb2b2daf996b0a4bd11f5260dcb0533faaee8d]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Engage Kiss Vol 4 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1618779</id>
+        <link href="https://nyaa.si/download/1618779.torrent"/>
+        <updated>2022-12-27T21:50:35.000Z</updated>
+        <summary type="html"><![CDATA[#1618779 | [ReinForce] Engage Kiss Vol 4 (BDRip 1920x1080 x264 FLAC) | 3.6 GiB | Anime - Raw | e8c6942a67053e108a6e43bd70dcb6aa8827c746]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] バスの中で丸出しオナニー配信 part1]]></title>
+        <id>https://sukebei.nyaa.si/view/3802028</id>
+        <link href="https://sukebei.nyaa.si/download/3802028.torrent"/>
+        <updated>2022-12-25T06:03:13.000Z</updated>
+        <summary type="html"><![CDATA[#3802028 | (同人CG集) [満開開花] バスの中で丸出しオナニー配信 part1 | 652.1 MiB | Art - Pictures | b7d6bbf75bd2698e6f9cdb40d5a2372b3c11a56e]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Raikou Shinki Igis Magia: Pandra Saga 3rd Ignition The Animation - 02 (雷光神姫アイギスマギア ―PANDRA saga 3rd ignition― The Animation 下巻) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3801649</id>
+        <link href="https://sukebei.nyaa.si/download/3801649.torrent"/>
+        <updated>2022-12-24T16:19:31.000Z</updated>
+        <summary type="html"><![CDATA[#3801649 | [SakuraCircle] Raikou Shinki Igis Magia: Pandra Saga 3rd Ignition The Animation - 02 (雷光神姫アイギスマギア ―PANDRA saga 3rd ignition― The Animation 下巻) - English Softsubs | 560.7 MiB | Art - Anime | 7481add620028b31c533952ab1c6e9cab8744420]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil Vol 4 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1616141</id>
+        <link href="https://nyaa.si/download/1616141.torrent"/>
+        <updated>2022-12-20T20:21:45.000Z</updated>
+        <summary type="html"><![CDATA[#1616141 | [ReinForce] Lycoris Recoil Vol 4 (BDRip 1920x1080 x264 FLAC) | 2.8 GiB | Anime - Raw | 11f7f9d65c419269e1266c5e6eef71f20896f80f]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UCCUSS] Engage Kiss エンゲージ・キス 第1-3巻 (BD 1920x1080p AVC FLAC)]]></title>
+        <id>https://nyaa.si/view/1614216</id>
+        <link href="https://nyaa.si/download/1614216.torrent"/>
+        <updated>2022-12-16T15:00:33.000Z</updated>
+        <summary type="html"><![CDATA[#1614216 | [UCCUSS] Engage Kiss エンゲージ・キス 第1-3巻 (BD 1920x1080p AVC FLAC) | 15.9 GiB | Anime - Raw | b6c152151ff28f7cbc88bac98d97299f41e34e75]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 搾乳&搾精!絞りあい❤ダイエットコース [無修正]]]></title>
+        <id>https://sukebei.nyaa.si/view/3793705</id>
+        <link href="https://sukebei.nyaa.si/download/3793705.torrent"/>
+        <updated>2022-12-13T11:42:44.000Z</updated>
+        <summary type="html"><![CDATA[#3793705 | (同人CG集) [満開開花] 搾乳&搾精!絞りあい❤ダイエットコース [無修正] | 93.6 MiB | Art - Pictures | 88db1aab0cf02c872906c36b72dced9edbfd127f]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 写メ日記013『教室のロッカーでオシッコ我慢&露出オナニーに挑戦』 [無修正]]]></title>
+        <id>https://sukebei.nyaa.si/view/3793682</id>
+        <link href="https://sukebei.nyaa.si/download/3793682.torrent"/>
+        <updated>2022-12-13T09:56:19.000Z</updated>
+        <summary type="html"><![CDATA[#3793682 | (同人CG集) [満開開花] 写メ日記013『教室のロッカーでオシッコ我慢&露出オナニーに挑戦』 [無修正] | 101.1 MiB | Art - Pictures | 18451b559b5f93a3fedd36d5ba4115519eb7bc91]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 写メ日記013『教室のロッカーでオシッコ我慢&露出オナニーに挑戦』]]></title>
+        <id>https://sukebei.nyaa.si/view/3793507</id>
+        <link href="https://sukebei.nyaa.si/download/3793507.torrent"/>
+        <updated>2022-12-13T04:00:09.000Z</updated>
+        <summary type="html"><![CDATA[#3793507 | (同人CG集) [満開開花] 写メ日記013『教室のロッカーでオシッコ我慢&露出オナニーに挑戦』 | 637.5 MiB | Art - Pictures | 2875991d23806e3511e0a896f9de72a9d291d9f7]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 搾乳&搾精!絞りあい❤ダイエットコース]]></title>
+        <id>https://sukebei.nyaa.si/view/3791550</id>
+        <link href="https://sukebei.nyaa.si/download/3791550.torrent"/>
+        <updated>2022-12-09T17:42:59.000Z</updated>
+        <summary type="html"><![CDATA[#3791550 | (同人CG集) [満開開花] 搾乳&搾精!絞りあい❤ダイエットコース | 272.0 MiB | Art - Pictures | 2b4c4a487b13cfa50200b58e1d38897c47214b86]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 【ゆい】牛ビキニで搾乳器付けてもらった【おまけ】]]></title>
+        <id>https://sukebei.nyaa.si/view/3791429</id>
+        <link href="https://sukebei.nyaa.si/download/3791429.torrent"/>
+        <updated>2022-12-09T13:59:50.000Z</updated>
+        <summary type="html"><![CDATA[#3791429 | (同人CG集) [満開開花] 【ゆい】牛ビキニで搾乳器付けてもらった【おまけ】 | 25.0 MiB | Art - Pictures | d8af56bd39bd50a9e9954ef878f7a2f447a2804b]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Eroge de Subete wa Kaiketsu Dekiru! The Animation - 02 (エロゲで全ては解決できる！ THE ANIMATION 第2巻) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3789416</id>
+        <link href="https://sukebei.nyaa.si/download/3789416.torrent"/>
+        <updated>2022-12-06T17:03:32.000Z</updated>
+        <summary type="html"><![CDATA[#3789416 | [SakuraCircle] Eroge de Subete wa Kaiketsu Dekiru! The Animation - 02 (エロゲで全ては解決できる！ THE ANIMATION 第2巻) - English Softsubs | 168.6 MiB | Art - Anime | c903700500394f926c72d02868d000e461c322ee]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Renseijutsushi Colette no H na Sakusei Monogatari - 02 (錬精術士コレットのＨな搾精物語　第二話　褐色踊り子アーシャ参戦！　エッチな誘惑でオーガを討て！) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3787714</id>
+        <link href="https://sukebei.nyaa.si/download/3787714.torrent"/>
+        <updated>2022-12-04T10:29:53.000Z</updated>
+        <summary type="html"><![CDATA[#3787714 | [SakuraCircle] Renseijutsushi Colette no H na Sakusei Monogatari - 02 (錬精術士コレットのＨな搾精物語　第二話　褐色踊り子アーシャ参戦！　エッチな誘惑でオーガを討て！) - English Softsubs | 119.4 MiB | Art - Anime | e72b36c1432ff2c9d438ba83b1ae67504376388f]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Boku ni Sefure ga Dekita Riyuu - 03-04 (OVA僕にセフレが出来た理由 ＃３-４) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3786584</id>
+        <link href="https://sukebei.nyaa.si/download/3786584.torrent"/>
+        <updated>2022-12-02T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[#3786584 | [SakuraCircle] Boku ni Sefure ga Dekita Riyuu - 03-04 (OVA僕にセフレが出来た理由 ＃３-４) - English Softsubs | 676.6 MiB | Art - Anime | 4464843d199a9bc53be1b079347a83fc265fe212]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Engage Kiss Vol 3 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1608124</id>
+        <link href="https://nyaa.si/download/1608124.torrent"/>
+        <updated>2022-11-29T15:37:35.000Z</updated>
+        <summary type="html"><![CDATA[#1608124 | [ReinForce] Engage Kiss Vol 3 (BDRip 1920x1080 x264 FLAC) | 2.9 GiB | Anime - Raw | fb15ae3ddf673ec1e5d1ea659f3218cad7aeb663]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [愛上陸] むかつくギャルに催眠をかける話 (本人も気付かないうちに種付けルート)]]></title>
+        <id>https://sukebei.nyaa.si/view/3781347</id>
+        <link href="https://sukebei.nyaa.si/download/3781347.torrent"/>
+        <updated>2022-11-25T00:41:27.000Z</updated>
+        <summary type="html"><![CDATA[#3781347 | (同人CG集) [愛上陸] むかつくギャルに催眠をかける話 (本人も気付かないうちに種付けルート) | 1018.4 KiB | Art - Pictures | 23b513b0a80cba8664617b21d962a1080a1a99bb]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UCCUSS] Lycoris Recoil リコリス・リコイル 第3巻 (BD 1920x1080p AVC FLAC)]]></title>
+        <id>https://nyaa.si/view/1606266</id>
+        <link href="https://nyaa.si/download/1606266.torrent"/>
+        <updated>2022-11-24T02:35:35.000Z</updated>
+        <summary type="html"><![CDATA[#1606266 | [UCCUSS] Lycoris Recoil リコリス・リコイル 第3巻 (BD 1920x1080p AVC FLAC) | 4.2 GiB | Anime - Raw | 6a936e23905221eeb0f93689baa535998fb96cc0]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil Vol 3 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1605756</id>
+        <link href="https://nyaa.si/download/1605756.torrent"/>
+        <updated>2022-11-22T18:16:57.000Z</updated>
+        <summary type="html"><![CDATA[#1605756 | [ReinForce] Lycoris Recoil Vol 3 (BDRip 1920x1080 x264 FLAC) | 2.7 GiB | Anime - Raw | 6cb0d54155355f272762005c8878f4658430ca43]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 写メ日記012『成分は内緒❤催淫マッサージローションレビュー』]]></title>
+        <id>https://sukebei.nyaa.si/view/3778014</id>
+        <link href="https://sukebei.nyaa.si/download/3778014.torrent"/>
+        <updated>2022-11-19T08:54:37.000Z</updated>
+        <summary type="html"><![CDATA[#3778014 | (同人CG集) [満開開花] 写メ日記012『成分は内緒❤催淫マッサージローションレビュー』 | 314.2 MiB | Art - Pictures | 3cba6aa2d2e411bba9659a47fad07552be60796c]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [加瀬大輝] 陸上ストレッチJKさん]]></title>
+        <id>https://sukebei.nyaa.si/view/3776217</id>
+        <link href="https://sukebei.nyaa.si/download/3776217.torrent"/>
+        <updated>2022-11-17T00:03:25.000Z</updated>
+        <summary type="html"><![CDATA[#3776217 | (同人CG集) [加瀬大輝] 陸上ストレッチJKさん | 36.4 MiB | Art - Pictures | 5f11e57d9763ef44af86d7f1e4d0f31c473bfb23]]></summary>
+        <author>
+            <name>Sukebei - "加瀬大輝" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 図書室でセックスを見せつけられて隠れてオナニーしちゃう女の子]]></title>
+        <id>https://sukebei.nyaa.si/view/3772917</id>
+        <link href="https://sukebei.nyaa.si/download/3772917.torrent"/>
+        <updated>2022-11-12T02:26:10.000Z</updated>
+        <summary type="html"><![CDATA[#3772917 | (同人CG集) [満開開花] 図書室でセックスを見せつけられて隠れてオナニーしちゃう女の子 | 1.1 GiB | Art - Pictures | 2552d0d4601a9a9b982ae048f859d394d1d31f9b]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] JS魔法少女がオナホ少女になっちゃうお話 [無修正]]]></title>
+        <id>https://sukebei.nyaa.si/view/3771769</id>
+        <link href="https://sukebei.nyaa.si/download/3771769.torrent"/>
+        <updated>2022-11-10T17:57:36.000Z</updated>
+        <summary type="html"><![CDATA[#3771769 | (同人CG集) [満開開花] JS魔法少女がオナホ少女になっちゃうお話 [無修正] | 82.5 MiB | Art - Pictures | 014606059abb30591d3afac22fd3e7f092435966]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[UCCUSS] Lycoris Recoil リコリス・リコイル TV 第1-2巻 (BD 1920x1080p AVC FLACx2)]]></title>
+        <id>https://nyaa.si/view/1597232</id>
+        <link href="https://nyaa.si/download/1597232.torrent"/>
+        <updated>2022-10-30T23:23:15.000Z</updated>
+        <summary type="html"><![CDATA[#1597232 | [UCCUSS] Lycoris Recoil リコリス・リコイル TV 第1-2巻 (BD 1920x1080p AVC FLACx2) | 10.1 GiB | Anime - Raw | 53d1ba3024fd3c0f3de9dcdc57cb7c295a3adfa8]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(成年コミック) [みちきんぐ] 姉体験女学寮 [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/3764607</id>
+        <link href="https://sukebei.nyaa.si/download/3764607.torrent"/>
+        <updated>2022-10-30T23:06:56.000Z</updated>
+        <summary type="html"><![CDATA[#3764607 | (成年コミック) [みちきんぐ] 姉体験女学寮 [DL版] | 245.3 MiB | Art - Manga | 182bb9212881051545866e6eb935d7daf34adb49]]></summary>
+        <author>
+            <name>Sukebei - "みちきんぐ" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] JS魔法少女がオナホ少女になっちゃうお話]]></title>
+        <id>https://sukebei.nyaa.si/view/3764247</id>
+        <link href="https://sukebei.nyaa.si/download/3764247.torrent"/>
+        <updated>2022-10-30T07:38:33.000Z</updated>
+        <summary type="html"><![CDATA[#3764247 | (同人CG集) [満開開花] JS魔法少女がオナホ少女になっちゃうお話 | 472.6 MiB | Art - Pictures | d8a62a5e184c89eac0bd601329a78d3292a59595]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Engage Kiss Vol 2 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1594987</id>
+        <link href="https://nyaa.si/download/1594987.torrent"/>
+        <updated>2022-10-25T21:44:17.000Z</updated>
+        <summary type="html"><![CDATA[#1594987 | [ReinForce] Engage Kiss Vol 2 (BDRip 1920x1080 x264 FLAC) | 3.6 GiB | Anime - Raw | ca9e834b0235a57bfee1f36cc9f01067a4569b36]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Engage Kiss" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Lycoris Recoil Vol 2 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1594900</id>
+        <link href="https://nyaa.si/download/1594900.torrent"/>
+        <updated>2022-10-25T18:07:41.000Z</updated>
+        <summary type="html"><![CDATA[#1594900 | [ReinForce] Lycoris Recoil Vol 2 (BDRip 1920x1080 x264 FLAC) | 3.0 GiB | Anime - Raw | d0f44c850cdc6154e6b6fbd6ddd4ee8e4ee70158]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Lycoris Recoil" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 写メ日記011『官能小説の自慰行為を朗読しながら実演してみよう❤』]]></title>
+        <id>https://sukebei.nyaa.si/view/3753867</id>
+        <link href="https://sukebei.nyaa.si/download/3753867.torrent"/>
+        <updated>2022-10-15T09:04:44.000Z</updated>
+        <summary type="html"><![CDATA[#3753867 | (同人CG集) [満開開花] 写メ日記011『官能小説の自慰行為を朗読しながら実演してみよう❤』 | 281.0 MiB | Art - Pictures | ee70ab3c6d62025b794e367092703f58822ca97b]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(成年コミック) [愛上陸] 夢見ル乙女 とらのあな限定小冊子 ヨゴレタカノジョ After Story (頁順修正)]]></title>
+        <id>https://sukebei.nyaa.si/view/3751631</id>
+        <link href="https://sukebei.nyaa.si/download/3751631.torrent"/>
+        <updated>2022-10-12T04:20:45.000Z</updated>
+        <summary type="html"><![CDATA[#3751631 | (成年コミック) [愛上陸] 夢見ル乙女 とらのあな限定小冊子 ヨゴレタカノジョ After Story (頁順修正) | 15.7 MiB | Art - Manga | dcf04397b7336f2ad13ea82c49b868e18127ae00]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [加瀬大輝] FANBOX 2022.09 [無修正]]]></title>
+        <id>https://sukebei.nyaa.si/view/3751243</id>
+        <link href="https://sukebei.nyaa.si/download/3751243.torrent"/>
+        <updated>2022-10-11T11:52:24.000Z</updated>
+        <summary type="html"><![CDATA[#3751243 | (同人CG集) [加瀬大輝] FANBOX 2022.09 [無修正] | 1.1 GiB | Art - Pictures | 254009894af62f33069f3e6b812c8fb6aea709b8]]></summary>
+        <author>
+            <name>Sukebei - "加瀬大輝" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(成年コミック) [愛上陸] 夢見ル乙女 メロンブックス限定小冊子 夕顔 ～前日譚～]]></title>
+        <id>https://sukebei.nyaa.si/view/3750221</id>
+        <link href="https://sukebei.nyaa.si/download/3750221.torrent"/>
+        <updated>2022-10-10T00:41:58.000Z</updated>
+        <summary type="html"><![CDATA[#3750221 | (成年コミック) [愛上陸] 夢見ル乙女 メロンブックス限定小冊子 夕顔 ～前日譚～ | 16.4 MiB | Art - Manga | 6f450d8d214c8f15b6d9734f2c62dd9daf9c1bc8]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] クラスの陰キャオタクを助けてあげるお話]]></title>
+        <id>https://sukebei.nyaa.si/view/3749781</id>
+        <link href="https://sukebei.nyaa.si/download/3749781.torrent"/>
+        <updated>2022-10-09T07:34:53.000Z</updated>
+        <summary type="html"><![CDATA[#3749781 | (同人CG集) [満開開花] クラスの陰キャオタクを助けてあげるお話 | 646.0 MiB | Art - Pictures | 30758246357237a940de930b46f9596c9bd59f89]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
         </author>
     </entry>
 </feed>
