@@ -4,54 +4,66 @@ timezone: Asia/Tokyo
 cacheMaxDays: 180
 
 sources:
-# BDRIP – AreaRaw
-  - href: https://arearaw.animerss.com/category/bdrip/feed
-# Hentai sharing | 先行
+  # Hentai sharing | 先行
   - href: https://hentai-sharing.net/search/先行/feed/rss2/
-# Hentai sharing | 満開開花
+  # Hentai sharing | 満開開花
   - href: https://hentai-sharing.net/search/満開開花/feed/rss2/
-# Hentai sharing | DLボイコミ
+  # Hentai sharing | DLボイコミ
   - href: https://hentai-sharing.net/search/DLボイコミ/feed/rss2/
-# Hentai sharing | OTAKU Plan
+  # Hentai sharing | OTAKU Plan
   - href: https://hentai-sharing.net/search/OTAKU+Plan/feed/rss2/
-# Hentai sharing | qureate
+  # Hentai sharing | qureate
   - href: https://hentai-sharing.net/search/qureate/feed/rss2/
-# Otomi Games | qureate
+  # Otomi Games | qureate
   - href: https://otomi-games.com/search/qureate/feed/rss2/
-# Sukebei | 満開開花
+
+  # Atelier Ryza « Install Guide Games
+  - href: https://igg-games.com/search/Atelier+Ryza/feed/rss2/
+  # Atelier Ryza « PCGamesTorrents
+  - href: https://pcgamestorrents.com/search/Atelier+Ryza/feed/rss2/
+
+  # BDRIP – AreaRaw
+  - href: https://arearaw.animerss.com/category/bdrip/feed
+  # Sukebei-Anime | (No Watermark)
+  - href: https://sukebei.nyaa.si/?page=rss&q=(No+Watermark)&c=1_1&f=0
+  # Sukebei-Anime | [SakuraCircle]
+  - href: https://sukebei.nyaa.si/?page=rss&q=[SakuraCircle]&c=1_1&f=0
+  # Sukebei-Anime | [極彩花夢] [WEBRip]
+  - href: https://sukebei.nyaa.si/?page=rss&q=[極彩花夢]+[WEBRip]&c=1_1&f=0
+
+  # Sukebei | 満開開花
   - href: https://sukebei.nyaa.si/?page=rss&q=満開開花&c=1_0&f=0
-# Sukebei | 加瀬大輝
+  # Sukebei | 加瀬大輝
   - href: https://sukebei.nyaa.si/?page=rss&q=加瀬大輝&c=1_0&f=0
-# Sukebei | たかやKi
+  # Sukebei | たかやKi
   - href: https://sukebei.nyaa.si/?page=rss&q=たかやKi&c=1_0&f=0
-# Sukebei | みちきんぐ
+  # Sukebei | みちきんぐ
   - href: https://sukebei.nyaa.si/?page=rss&q=みちきんぐ&c=1_0&f=0
-# Sukebei | 愛上陸
+  # Sukebei | 愛上陸
   - href: https://sukebei.nyaa.si/?page=rss&q=愛上陸&c=1_0&f=0
-# Sukebei | 桂井よしあき
+  # Sukebei | 桂井よしあき
   - href: https://sukebei.nyaa.si/?page=rss&q=桂井よしあき&c=1_0&f=0
-# Sukebei | 富士やま
+  # Sukebei | 富士やま
   - href: https://sukebei.nyaa.si/?page=rss&q=富士やま&c=1_0&f=0
-# Sukebei | 40010試作型
+  # Sukebei | 40010試作型
   - href: https://sukebei.nyaa.si/?page=rss&q=40010試作型&c=1_0&f=0
-# Sukebei | kakao
+  # Sukebei | kakao
   - href: https://sukebei.nyaa.si/?page=rss&q=kakao&c=1_0&f=0
-# Sukebei | なかじまゆか
+  # Sukebei | なかじまゆか
   - href: https://sukebei.nyaa.si/?page=rss&q=なかじまゆか&c=1_0&f=0
-# Sukebei | ひぐちいさみ
+  # Sukebei | ひぐちいさみ
   - href: https://sukebei.nyaa.si/?page=rss&q=ひぐちいさみ&c=1_0&f=0
-# Sukebei | カントク
+  # Sukebei | カントク
   - href: https://sukebei.nyaa.si/?page=rss&q=カントク&c=1_0&f=0
-# Sukebei | 大嘘
+  # Sukebei | 大嘘
   - href: https://sukebei.nyaa.si/?page=rss&q=大嘘&c=1_0&f=0
-# Sukebei | 牧野坂シンイチ
+  # Sukebei | 牧野坂シンイチ
   - href: https://sukebei.nyaa.si/?page=rss&q=牧野坂シンイチ&c=1_0&f=0
-# Sukebei | 石恵
+  # Sukebei | 石恵
   - href: https://sukebei.nyaa.si/?page=rss&q=石恵&c=1_0&f=0
-# Sukebei | 三色網戸
+  # Sukebei | 三色網戸
   - href: https://sukebei.nyaa.si/?page=rss&q=三色網戸&c=1_0&f=0
-# Sukebei | P：P (おりょう)
+  # Sukebei | P：P (おりょう)
   - href: https://sukebei.nyaa.si/?page=rss&q=P：P (おりょう)&c=1_0&f=0
-  - href: https://sukebei.nyaa.si/?page=rss&q=P%EF%BC%9AP%20(%E3%81%8A%E3%82%8A%E3%82%87%E3%81%86)&c=1_0&f=0
-# Sukebei | まっさら島
+  # Sukebei | まっさら島
   - href: https://sukebei.nyaa.si/?page=rss&q=まっさら島&c=1_0&f=0
