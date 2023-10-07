@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-07T10:52:00.605Z</updated>
+    <updated>2023-10-07T11:16:22.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -126,6 +126,16 @@
         <summary type="html"><![CDATA[#3968815 | [極彩花夢][自购][ショーテン]種付おじさんとパパっ子JD催眠生活 The Animation[1080P][WEBRip][HEVC 10bit][中日内封] | 861.1 MiB | Art - Anime | 0152c4cf257368f5cffb876ae990cf454c0657c9]]></summary>
         <author>
             <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230925][一般コミック][福田晋一] その着せ替え人形は恋をする 12巻 [デジタル版ヤングガンガンコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1722383</id>
+        <link href="https://nyaa.si/download/1722383.torrent"/>
+        <updated>2023-09-28T19:25:07.000Z</updated>
+        <summary type="html"><![CDATA[#1722383 | [20230925][一般コミック][福田晋一] その着せ替え人形は恋をする 12巻 [デジタル版ヤングガンガンコミックス][AVIF][DL版] - MangaRoo | 38.1 MiB | Literature - Raw | 7257b289c8fb52c36d234ce78574dfee24736963]]></summary>
+        <author>
+            <name>Nyaa - "その着せ替え人形は恋をする [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -1893,46 +1903,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[IrizaRaws] Inu ni Nattara Suki na Hito ni Hirowareta (BDRip 1920x1080 x264 10bit FLAC)]]></title>
-        <id>https://nyaa.si/view/1674296</id>
-        <link href="https://nyaa.si/download/1674296.torrent"/>
-        <updated>2023-05-21T19:36:26.000Z</updated>
-        <summary type="html"><![CDATA[#1674296 | [IrizaRaws] Inu ni Nattara Suki na Hito ni Hirowareta (BDRip 1920x1080 x264 10bit FLAC) | 22.1 GiB | Anime - Raw | d96a3dbdff6a476abc72d480471020e9e3a8e58b]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Moozzi2] Inu ni Nattara Suki na Hito ni Hirowareta. (BD 1920x1080 x264-10Bit Flac) - TV + SP]]></title>
-        <id>https://nyaa.si/view/1673871</id>
-        <link href="https://nyaa.si/download/1673871.torrent"/>
-        <updated>2023-05-20T21:42:29.000Z</updated>
-        <summary type="html"><![CDATA[#1673871 | [Moozzi2] Inu ni Nattara Suki na Hito ni Hirowareta. (BD 1920x1080 x264-10Bit Flac) - TV + SP | 14.3 GiB | Anime - Raw | 3e30a37b4ea898cfcb1178d196fab98b58141d8f]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[S3rNx] Inu ni Nattara Suki na Hito ni Hirowareta. (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1672403</id>
-        <link href="https://nyaa.si/download/1672403.torrent"/>
-        <updated>2023-05-16T01:10:10.000Z</updated>
-        <summary type="html"><![CDATA[#1672403 | [S3rNx] Inu ni Nattara Suki na Hito ni Hirowareta. (BDRip 1920x1080 x264 FLAC) | 17.5 GiB | Anime - Raw | 9afdadaf8488267390a5f4290ebbfcd2c8ab0953]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[7³ACG] Inu ni Nattara Suki na Hito ni Hirowareta. 犬になったら好きな人に拾われた。S1+OVA [BDRip 1080p x265 FLAC]]]></title>
-        <id>https://nyaa.si/view/1672091</id>
-        <link href="https://nyaa.si/download/1672091.torrent"/>
-        <updated>2023-05-15T07:38:18.000Z</updated>
-        <summary type="html"><![CDATA[#1672091 | [7³ACG] Inu ni Nattara Suki na Hito ni Hirowareta. 犬になったら好きな人に拾われた。S1+OVA [BDRip 1080p x265 FLAC] | 6.1 GiB | Anime - Raw | 17e1b29e7ec349ecc65ea1e3e2592f7717ef7f72]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[IrizaRaws] Kage no Jitsuryokusha ni Naritakute (BDRip 1920x1080 x264 10bit FLAC)]]></title>
         <id>https://nyaa.si/view/1670815</id>
         <link href="https://nyaa.si/download/1670815.torrent"/>
@@ -1940,26 +1910,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#1670815 | [IrizaRaws] Kage no Jitsuryokusha ni Naritakute (BDRip 1920x1080 x264 10bit FLAC) | 53.6 GiB | Anime - Raw | cbe51c88f9659dcdeed764ec9c21e646d01a4f3c]]></summary>
         <author>
             <name>Nyaa - "BD 1080 Kage no Jitsuryokusha" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Inu ni Nattara Suki na Hito ni Hirowareta (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1670635</id>
-        <link href="https://nyaa.si/download/1670635.torrent"/>
-        <updated>2023-05-11T11:45:14.000Z</updated>
-        <summary type="html"><![CDATA[#1670635 | [ReinForce] Inu ni Nattara Suki na Hito ni Hirowareta (BDRip 1920x1080 x264 FLAC) | 10.1 GiB | Anime - Raw | 30484d497413e6992562b761862a0f08eb05fbc1]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[20230508][一般コミック][比村奇石] 月曜日のたわわ（７） [ヤングマガジンコミックス][AVIF][DL版] - MangaRoo]]></title>
-        <id>https://nyaa.si/view/1670570</id>
-        <link href="https://nyaa.si/download/1670570.torrent"/>
-        <updated>2023-05-11T03:46:51.000Z</updated>
-        <summary type="html"><![CDATA[#1670570 | [20230508][一般コミック][比村奇石] 月曜日のたわわ（７） [ヤングマガジンコミックス][AVIF][DL版] - MangaRoo | 32.1 MiB | Literature - Raw | 2a232808bbe9c39a129fcf31150f47814fe17bad]]></summary>
-        <author>
-            <name>Nyaa - "月曜日のたわわ [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -2013,16 +1963,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#02][BDRip][AV1][1080P]]]></title>
-        <id>https://nyaa.si/view/1665715</id>
-        <link href="https://nyaa.si/download/1665715.torrent"/>
-        <updated>2023-04-27T20:22:10.000Z</updated>
-        <summary type="html"><![CDATA[#1665715 | [RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#02][BDRip][AV1][1080P] | 352.8 MiB | Anime - Raw | 9ff1ccd6bc4da9508807d79b376fd310d6b56906]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[ReinForce] Kage No Jitsuryokusha Ni Naritakute! (BDRip 1920x1080 x264 FLAC)]]></title>
         <id>https://nyaa.si/view/1665073</id>
         <link href="https://nyaa.si/download/1665073.torrent"/>
@@ -2030,36 +1970,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#1665073 | [ReinForce] Kage No Jitsuryokusha Ni Naritakute! (BDRip 1920x1080 x264 FLAC) | 41.8 GiB | Anime - Raw | b9e2315440d5cf0c7f07c1598e9fa27a63696229]]></summary>
         <author>
             <name>Nyaa - "BD 1080 Kage no Jitsuryokusha" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI-Raws] Isekai Ojisan / 異世界おじさん / Uncle from Another World BDRip 1080p MKV]]></title>
-        <id>https://nyaa.si/view/1662663</id>
-        <link href="https://nyaa.si/download/1662663.torrent"/>
-        <updated>2023-04-20T01:48:17.000Z</updated>
-        <summary type="html"><![CDATA[#1662663 | [AI-Raws] Isekai Ojisan / 異世界おじさん / Uncle from Another World BDRip 1080p MKV | 22.0 GiB | Anime - Raw | 168489eefd5d2169358aaeac1b2080d89ea0eb2d]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Isekai Ojisan" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IrizaRaws] Isekai Ojisan (BDRip 1920x1080 x264 10bit FLAC)]]></title>
-        <id>https://nyaa.si/view/1661982</id>
-        <link href="https://nyaa.si/download/1661982.torrent"/>
-        <updated>2023-04-17T19:58:19.000Z</updated>
-        <summary type="html"><![CDATA[#1661982 | [IrizaRaws] Isekai Ojisan (BDRip 1920x1080 x264 10bit FLAC) | 27.7 GiB | Anime - Raw | b63c57624264f7b952ca0d37ec9a1f2ca5414d23]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Isekai Ojisan" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ReinForce] Inu ni Nattara Suki na Hito ni Hirowareta Vol 1 (BDRip 1920x1080 x264 FLAC)]]></title>
-        <id>https://nyaa.si/view/1660985</id>
-        <link href="https://nyaa.si/download/1660985.torrent"/>
-        <updated>2023-04-15T18:12:32.000Z</updated>
-        <summary type="html"><![CDATA[#1660985 | [ReinForce] Inu ni Nattara Suki na Hito ni Hirowareta Vol 1 (BDRip 1920x1080 x264 FLAC) | 4.6 GiB | Anime - Raw | 4725eb5934fbb6f435462720de387691c90a0e59]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -2143,16 +2053,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#01][BDRip][AV1][1080P]]]></title>
-        <id>https://nyaa.si/view/1654734</id>
-        <link href="https://nyaa.si/download/1654734.torrent"/>
-        <updated>2023-03-29T23:48:26.000Z</updated>
-        <summary type="html"><![CDATA[#1654734 | [RAW][Inu ni Nattara Suki na Hito ni Hirowareta.][犬になったら好きな人に拾われた.][OVA#01][BDRip][AV1][1080P] | 399.9 MiB | Anime - Raw | aa2d3109d933163be45cd86702c7586a4438c047]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 Inu ni Nattara" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[S3rNx] Kage no Jitsuryokusha ni Naritakute! Vol.3 (BDRip 1920x1080 x264 FLAC)]]></title>
         <id>https://nyaa.si/view/1654713</id>
         <link href="https://nyaa.si/download/1654713.torrent"/>
@@ -2190,16 +2090,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#1643803 | [S3rNx] Kage no Jitsuryokusha ni Naritakute! Vol.1~2 (BDRip 1920x1080 x264 FLAC) | 30.4 GiB | Anime - Raw | d6f543dd6c6247e1b351b30391f15e5fec3788e7]]></summary>
         <author>
             <name>Nyaa - "BD 1080 Kage no Jitsuryokusha" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[20230225][一般コミック][氷樹一世] 異世界迷宮でハーレムを(9) [角川コミックス・エース][AVIF][DL版] - MangaRoo]]></title>
-        <id>https://nyaa.si/view/1642763</id>
-        <link href="https://nyaa.si/download/1642763.torrent"/>
-        <updated>2023-02-26T18:51:20.000Z</updated>
-        <summary type="html"><![CDATA[#1642763 | [20230225][一般コミック][氷樹一世] 異世界迷宮でハーレムを(9) [角川コミックス・エース][AVIF][DL版] - MangaRoo | 47.9 MiB | Literature - Raw | 6e8758587a533bb3105023546e55020024c28a8b]]></summary>
-        <author>
-            <name>Nyaa - "異世界迷宮でハーレムを [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
