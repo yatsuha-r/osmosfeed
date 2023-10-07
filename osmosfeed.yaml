@@ -4,6 +4,11 @@
 #########################
 
 cacheUrl: https://yatsuha-r.github.io/osmosfeed/cache.json
+siteTitle: "osmos::feed"
+timezone: Asia/Tokyo
+# `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
+cacheMaxDays: 30
+
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
