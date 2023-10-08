@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-08T11:16:33.526Z</updated>
+    <updated>2023-10-08T12:49:09.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -156,6 +156,16 @@
         <summary type="html"><![CDATA[#1722383 | [20230925][一般コミック][福田晋一] その着せ替え人形は恋をする 12巻 [デジタル版ヤングガンガンコミックス][AVIF][DL版] - MangaRoo | 38.1 MiB | Literature - Raw | 7257b289c8fb52c36d234ce78574dfee24736963]]></summary>
         <author>
             <name>Nyaa - "その着せ替え人形は恋をする [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230922][一般コミック][殆ど死んでいる] 異世界おじさん １０ [MFC][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1722372</id>
+        <link href="https://nyaa.si/download/1722372.torrent"/>
+        <updated>2023-09-28T19:24:58.000Z</updated>
+        <summary type="html"><![CDATA[#1722372 | [20230922][一般コミック][殆ど死んでいる] 異世界おじさん １０ [MFC][AVIF][DL版] - MangaRoo | 53.9 MiB | Literature - Raw | 3a51b3c32a1064dc94c00e375cf8b824f06de93a]]></summary>
+        <author>
+            <name>Nyaa - "殆ど死んでいる 異世界おじさん [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
