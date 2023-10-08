@@ -5,13 +5,13 @@ cacheMaxDays: 120
 
 sources:
   # Hentai sharing | 先行
-  - href: https://hentai-sharing.net/search/先行/feed/rss2/
+  # href: https://hentai-sharing.net/search/先行/feed/rss2/
   - href: https://hentai-sharing.net/search/%E5%85%88%E8%A1%8C/feed/rss2/
   # Hentai sharing | 満開開花
-  - href: https://hentai-sharing.net/search/満開開花/feed/rss2/
+  # href: https://hentai-sharing.net/search/満開開花/feed/rss2/
   - href: https://hentai-sharing.net/search/%E6%BA%80%E9%96%8B%E9%96%8B%E8%8A%B1/feed/rss2/
   # Hentai sharing | DLボイコミ
-  - href: https://hentai-sharing.net/search/DLボイコミ/feed/rss2/
+  # href: https://hentai-sharing.net/search/DLボイコミ/feed/rss2/
   - href: https://hentai-sharing.net/search/DL%E3%83%9C%E3%82%A4%E3%82%B3%E3%83%9F/feed/rss2/
   # Hentai sharing | OTAKU Plan
   - href: https://hentai-sharing.net/search/OTAKU+Plan/feed/rss2/
