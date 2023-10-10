@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T05:27:15.188Z</updated>
+    <updated>2023-10-10T06:32:14.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[極彩花夢][Xter]My Mother The Animation[1080P][WEBRip][HEVC 10bit]]]></title>
+        <id>https://sukebei.nyaa.si/view/3975760</id>
+        <link href="https://sukebei.nyaa.si/download/3975760.torrent"/>
+        <updated>2023-10-10T06:31:01.000Z</updated>
+        <summary type="html"><![CDATA[#3975760 | [極彩花夢][Xter]My Mother The Animation[1080P][WEBRip][HEVC 10bit] | 494.0 MiB | Art - Anime | 6499ec7942c4344c57e554cc70254692dad0e053]]></summary>
+        <author>
+            <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Toshoshitsu no Kanojo The Animation - 06 (図書室ノ彼女 THE ANIMATION 第6巻 ～女教師ガ堕チルマデ（後編）～) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/3974154</id>
