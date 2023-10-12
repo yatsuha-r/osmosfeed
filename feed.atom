@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T02:29:20.331Z</updated>
+    <updated>2023-10-12T03:22:53.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Tsuma ni Damatte Sokubaikai ni Ikun ja Nakatta - 01-02 (OVA妻に黙って即売会に行くんじゃなかった ＃１-２) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3976724</id>
+        <link href="https://sukebei.nyaa.si/download/3976724.torrent"/>
+        <updated>2023-10-12T01:32:42.000Z</updated>
+        <summary type="html"><![CDATA[#3976724 | [SakuraCircle] Tsuma ni Damatte Sokubaikai ni Ikun ja Nakatta - 01-02 (OVA妻に黙って即売会に行くんじゃなかった ＃１-２) - English Softsubs | 639.3 MiB | Art - Anime | 89be940440b3a7e4605cd24ab7ce814559aa4890]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[極彩花夢][Xter]My Mother The Animation[1080P][WEBRip][HEVC 10bit]]]></title>
         <id>https://sukebei.nyaa.si/view/3975760</id>
