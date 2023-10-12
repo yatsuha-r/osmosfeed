@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T17:27:34.407Z</updated>
+    <updated>2023-10-12T18:31:52.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[#3976724 | [SakuraCircle] Tsuma ni Damatte Sokubaikai ni Ikun ja Nakatta - 01-02 (OVA妻に黙って即売会に行くんじゃなかった ＃１-２) - English Softsubs | 639.3 MiB | Art - Anime | 89be940440b3a7e4605cd24ab7ce814559aa4890]]></summary>
         <author>
             <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人誌) [牧野駅 (牧野坂シンイチ)] セックスフレンド6 (オリジナル) [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/3976368</id>
+        <link href="https://sukebei.nyaa.si/download/3976368.torrent"/>
+        <updated>2023-10-11T08:57:12.000Z</updated>
+        <summary type="html"><![CDATA[#3976368 | (同人誌) [牧野駅 (牧野坂シンイチ)] セックスフレンド6 (オリジナル) [DL版] | 66.7 MiB | Art - Doujinshi | dc1c8b36f42dc48f3fbc742009ad8189095b64b5]]></summary>
+        <author>
+            <name>Sukebei - "牧野坂シンイチ" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
@@ -1960,16 +1970,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#3898481 | [SakuraCircle] Nightmare x Deathscythe - 01 (Nightmare×Deathscytheー前編ー叛逆のレゾナンス) - English Softsubs | 270.6 MiB | Art - Anime | b4cbad45d28f743deed7fd8fb9284eecaf59d98c]]></summary>
         <author>
             <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[20230517][一般コミック][片瀬茶柴 城平京] 虚構推理（１９） [月刊少年マガジンR][AVIF][DL版] - MangaRoo]]></title>
-        <id>https://nyaa.si/view/1682690</id>
-        <link href="https://nyaa.si/download/1682690.torrent"/>
-        <updated>2023-06-15T04:12:29.000Z</updated>
-        <summary type="html"><![CDATA[#1682690 | [20230517][一般コミック][片瀬茶柴 城平京] 虚構推理（１９） [月刊少年マガジンR][AVIF][DL版] - MangaRoo | 49.7 MiB | Literature - Raw | 93fc25b08254d83c2776a7906d9893d974e40e7f]]></summary>
-        <author>
-            <name>Nyaa - "虚構推理 [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
 </feed>
