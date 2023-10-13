@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T23:23:01.689Z</updated>
+    <updated>2023-10-13T02:09:30.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -1960,16 +1960,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-
         <summary type="html"><![CDATA[#1685241 | [20230303][一般コミック][矢吹健太朗] あやかしトライアングル 13 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 42.1 MiB | Literature - Raw | b0f87046b83e547cb1f75db83ad31a873d6323c5]]></summary>
         <author>
             <name>Nyaa - "あやかしトライアングル [AVIF][DL版]" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SakuraCircle] Nightmare x Deathscythe - 01 (Nightmare×Deathscytheー前編ー叛逆のレゾナンス) - English Softsubs]]></title>
-        <id>https://sukebei.nyaa.si/view/3898481</id>
-        <link href="https://sukebei.nyaa.si/download/3898481.torrent"/>
-        <updated>2023-06-15T12:34:19.000Z</updated>
-        <summary type="html"><![CDATA[#3898481 | [SakuraCircle] Nightmare x Deathscythe - 01 (Nightmare×Deathscytheー前編ー叛逆のレゾナンス) - English Softsubs | 270.6 MiB | Art - Anime | b4cbad45d28f743deed7fd8fb9284eecaf59d98c]]></summary>
-        <author>
-            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
         </author>
     </entry>
 </feed>
