@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T08:30:49.333Z</updated>
+    <updated>2023-10-19T09:23:15.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -1970,26 +1970,6 @@ The post Atelier Ryza 3 Alchemist of the End And the Secret Key v1 6 0 0-TENOKE 
 The post Atelier Ryza 3 Alchemist of the End And the Secret Key Update v1 5 0 0-TENOKE appeared first on PCGamesTorrents.]]></summary>
         <author>
             <name>Admin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[20230602][一般コミック][矢吹健太朗] あやかしトライアングル 14 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo]]></title>
-        <id>https://nyaa.si/view/1685242</id>
-        <link href="https://nyaa.si/download/1685242.torrent"/>
-        <updated>2023-06-21T19:26:04.000Z</updated>
-        <summary type="html"><![CDATA[#1685242 | [20230602][一般コミック][矢吹健太朗] あやかしトライアングル 14 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 48.8 MiB | Literature - Raw | 0b49374bb4b7f5e7c01dc8d2f7d2ae3782178d90]]></summary>
-        <author>
-            <name>Nyaa - "あやかしトライアングル [AVIF][DL版]" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[20230303][一般コミック][矢吹健太朗] あやかしトライアングル 13 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo]]></title>
-        <id>https://nyaa.si/view/1685241</id>
-        <link href="https://nyaa.si/download/1685241.torrent"/>
-        <updated>2023-06-21T19:26:03.000Z</updated>
-        <summary type="html"><![CDATA[#1685241 | [20230303][一般コミック][矢吹健太朗] あやかしトライアングル 13 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 42.1 MiB | Literature - Raw | b0f87046b83e547cb1f75db83ad31a873d6323c5]]></summary>
-        <author>
-            <name>Nyaa - "あやかしトライアングル [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
 </feed>
