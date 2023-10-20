@@ -4,146 +4,146 @@ timezone: Asia/Tokyo
 cacheMaxDays: 120
 
 sources:
-  # Hentai sharing | 先行
+# Hentai sharing | 先行
   - href: https://hentai-sharing.net/search/先行/feed/rss2/
-  # Hentai sharing | 満開開花
+# Hentai sharing | 満開開花
   - href: https://hentai-sharing.net/search/満開開花/feed/rss2/
-  # Hentai sharing | DLボイコミ
+# Hentai sharing | DLボイコミ
   - href: https://hentai-sharing.net/search/DLボイコミ/feed/rss2/
-  # Hentai sharing | OTAKU Plan
+# Hentai sharing | OTAKU Plan
   - href: https://hentai-sharing.net/search/OTAKU+Plan/feed/rss2/
-  # Hentai sharing | qureate
+# Hentai sharing | qureate
   - href: https://hentai-sharing.net/search/qureate/feed/rss2/
-  # Otomi Games | qureate
+# Otomi Games | qureate
   - href: https://otomi-games.com/search/qureate/feed/rss2/
 
-  # Atelier Ryza « Install Guide Games
+# Atelier Ryza « Install Guide Games
   - href: https://igg-games.com/search/Atelier+Ryza/feed/rss2/
-  # Atelier Ryza « PCGamesTorrents
+# Atelier Ryza « PCGamesTorrents
   - href: https://pcgamestorrents.com/search/Atelier+Ryza/feed/rss2/
 
-  # BDRIP – AreaRaw
+# BDRIP – AreaRaw
   - href: https://arearaw.animerss.com/category/bdrip/feed
-  # Sukebei-Anime | (No Watermark)
+# Sukebei-Anime | (No Watermark)
   - href: https://sukebei.nyaa.si/?page=rss&q=(No+Watermark)&c=1_1&f=0
-  # Sukebei-Anime | [SakuraCircle]
+# Sukebei-Anime | [SakuraCircle]
   - href: https://sukebei.nyaa.si/?page=rss&q=[SakuraCircle]&c=1_1&f=0
-  # Sukebei-Anime | [極彩花夢] [WEBRip]
+# Sukebei-Anime | [極彩花夢] [WEBRip]
   - href: https://sukebei.nyaa.si/?page=rss&q=[極彩花夢]+[WEBRip]&c=1_1&f=0
 
-  # Sukebei | 満開開花
+# Sukebei | 満開開花
   - href: https://sukebei.nyaa.si/?page=rss&q=満開開花&c=1_0&f=0
-  # Sukebei | 加瀬大輝
+# Sukebei | 加瀬大輝
   - href: https://sukebei.nyaa.si/?page=rss&q=加瀬大輝&c=1_0&f=0
-  # Sukebei | たかやKi
+# Sukebei | たかやKi
   - href: https://sukebei.nyaa.si/?page=rss&q=たかやKi&c=1_0&f=0
-  # Sukebei | みちきんぐ
+# Sukebei | みちきんぐ
   - href: https://sukebei.nyaa.si/?page=rss&q=みちきんぐ&c=1_0&f=0
-  # Sukebei | 愛上陸
+# Sukebei | 愛上陸
   - href: https://sukebei.nyaa.si/?page=rss&q=愛上陸&c=1_0&f=0
-  # Sukebei | 桂井よしあき
+# Sukebei | 桂井よしあき
   - href: https://sukebei.nyaa.si/?page=rss&q=桂井よしあき&c=1_0&f=0
-  # Sukebei | 富士やま
+# Sukebei | 富士やま
   - href: https://sukebei.nyaa.si/?page=rss&q=富士やま&c=1_0&f=0
-  # Sukebei | 40010試作型
+# Sukebei | 40010試作型
   - href: https://sukebei.nyaa.si/?page=rss&q=40010試作型&c=1_0&f=0
-  # Sukebei | kakao
+# Sukebei | kakao
   - href: https://sukebei.nyaa.si/?page=rss&q=kakao&c=1_0&f=0
-  # Sukebei | なかじまゆか
+# Sukebei | なかじまゆか
   - href: https://sukebei.nyaa.si/?page=rss&q=なかじまゆか&c=1_0&f=0
-  # Sukebei | ひぐちいさみ
+# Sukebei | ひぐちいさみ
   - href: https://sukebei.nyaa.si/?page=rss&q=ひぐちいさみ&c=1_0&f=0
-  # Sukebei | カントク
+# Sukebei | カントク
   - href: https://sukebei.nyaa.si/?page=rss&q=カントク&c=1_0&f=0
-  # Sukebei | 大嘘
+# Sukebei | 大嘘
   - href: https://sukebei.nyaa.si/?page=rss&q=大嘘&c=1_0&f=0
-  # Sukebei | 牧野坂シンイチ
+# Sukebei | 牧野坂シンイチ
   - href: https://sukebei.nyaa.si/?page=rss&q=牧野坂シンイチ&c=1_0&f=0
-  # Sukebei | 石恵
+# Sukebei | 石恵
   - href: https://sukebei.nyaa.si/?page=rss&q=石恵&c=1_0&f=0
-  # Sukebei | 三色網戸
+# Sukebei | 三色網戸
   - href: https://sukebei.nyaa.si/?page=rss&q=三色網戸&c=1_0&f=0
-  # Sukebei | P：P (おりょう)
+# Sukebei | P：P (おりょう)
   - href: https://sukebei.nyaa.si/?page=rss&q=P：P (おりょう)&c=1_0&f=0
-  # Sukebei | まっさら島
+# Sukebei | まっさら島
   - href: https://sukebei.nyaa.si/?page=rss&q=まっさら島&c=1_0&f=0
 
-  # Nyaa-Anime (Raw BD 1080) | Ayakashi Triangle
+# Nyaa-Anime (Raw BD 1080) | Ayakashi Triangle
   - href: https://nyaa.si/?page=rss&q=BD+1080+Ayakashi+Triangle&c=1_4&f=0
-  # Nyaa-Anime (Raw BD 1080) | To Love-Ru
+# Nyaa-Anime (Raw BD 1080) | To Love-Ru
   - href: https://nyaa.si/?page=rss&q=BD+1080+To+Love-Ru&c=1_4&f=0
-  # Nyaa-Anime (Raw BD 1080) | Yuragi
+# Nyaa-Anime (Raw BD 1080) | Yuragi
   - href: https://nyaa.si/?page=rss&q=BD+1080+Yuragi&c=1_4&f=0
-  # Nyaa-Anime (Raw BD 1080) | Inu ni Nattara
+# Nyaa-Anime (Raw BD 1080) | Inu ni Nattara
   - href: https://nyaa.si/?page=rss&q=BD+1080+Inu+ni+Nattara&c=1_4&f=0
-  # Nyaa-Anime (Raw BD 1080) | Renai Flops
+# Nyaa-Anime (Raw BD 1080) | Renai Flops
   - href: https://nyaa.si/?page=rss&q=BD+1080+Renai+Flops&c=1_4&f=0
-  # Nyaa-Anime (Raw BD 1080) | Lycoris Recoil
+# Nyaa-Anime (Raw BD 1080) | Lycoris Recoil
   - href: https://nyaa.si/?page=rss&q=BD+1080+Lycoris+Recoil&c=1_4&f=0
-  # Nyaa-Anime (Raw BD 1080) | Engage Kiss
+# Nyaa-Anime (Raw BD 1080) | Engage Kiss
   - href: https://nyaa.si/?page=rss&q=BD+1080+Engage+Kiss&c=1_4&f=0
-  # Nyaa-Anime (Raw BD 1080) | Kage no Jitsuryokusha
+# Nyaa-Anime (Raw BD 1080) | Kage no Jitsuryokusha
   - href: https://nyaa.si/?page=rss&q=BD+1080+Kage+no+Jitsuryokusha&c=1_4&f=0
-  # Nyaa-Anime (Raw BD 1080) | Isekai Ojisan
+# Nyaa-Anime (Raw BD 1080) | Isekai Ojisan
   - href: https://nyaa.si/?page=rss&q=BD+1080+Isekai+Ojisan&c=1_4&f=0
-  # Nyaa-Anime (Raw BD 1080) | Uzaki-chan
+# Nyaa-Anime (Raw BD 1080) | Uzaki-chan
   - href: https://nyaa.si/?page=rss&q=BD+1080+Uzaki-chan&c=1_4&f=0
 
-  # Nyaa-Comic [AVIF][DL] | あやかしトライアングル [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | あやかしトライアングル [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=あやかしトライアングル+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | ダークギャザリング [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | ダークギャザリング [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=ダークギャザリング+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 虚構推理 [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 虚構推理 [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=虚構推理+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 生徒会にも穴はある！ [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 生徒会にも穴はある！ [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=生徒会にも穴はある！+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 可愛いだけじゃない式守さん [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 可愛いだけじゃない式守さん [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=可愛いだけじゃない式守さん+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 月曜日のたわわ [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 月曜日のたわわ [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=月曜日のたわわ+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 江戸前エルフ [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 江戸前エルフ [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=江戸前エルフ+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | ジャイアントお嬢様 [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | ジャイアントお嬢様 [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=ジャイアントお嬢様+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 異世界迷宮でハーレムを [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 異世界迷宮でハーレムを [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=異世界迷宮でハーレムを+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 陰の実力者になりたくて [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 陰の実力者になりたくて [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=陰の実力者になりたくて+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 聖剣学院の魔剣使い [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 聖剣学院の魔剣使い [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=聖剣学院の魔剣使い+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 宇崎ちゃんは遊びたい [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 宇崎ちゃんは遊びたい [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=宇崎ちゃんは遊びたい+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 異種族レビュアーズ [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 異種族レビュアーズ [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=異種族レビュアーズ+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 神童勇者とメイドおねえさん [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 神童勇者とメイドおねえさん [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=神童勇者とメイドおねえさん+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 見える子ちゃん [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 見える子ちゃん [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=見える子ちゃん+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 異世界おじさん [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 異世界おじさん [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=殆ど死んでいる+異世界おじさん+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | その着せ替え人形は恋をする [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | その着せ替え人形は恋をする [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=その着せ替え人形は恋をする+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 不徳のギルド [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 不徳のギルド [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=不徳のギルド+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | お兄ちゃんはおしまい [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | お兄ちゃんはおしまい [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=お兄ちゃんはおしまい+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | ぼっち・ざ・ろっく！ [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | ぼっち・ざ・ろっく！ [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=ぼっち・ざ・ろっく！+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | ＲＰＧ不動産 [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | ＲＰＧ不動産 [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=ＲＰＧ不動産+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | ゆるキャン [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | ゆるキャン [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=ゆるキャン+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 婚約破棄された令嬢を拾った俺が、イケナイことを教え込む [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 婚約破棄された令嬢を拾った俺が、イケナイことを教え込む [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=婚約破棄された令嬢を拾った俺が、イケナイことを教え込む+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 愚かな天使は悪魔と踊る [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 愚かな天使は悪魔と踊る [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=愚かな天使は悪魔と踊る+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 悪いが私は百合じゃない [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 悪いが私は百合じゃない [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=悪いが私は百合じゃない+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | ティアムーン帝国物語 [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | ティアムーン帝国物語 [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=ティアムーン帝国物語+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | デキる猫は今日も憂鬱 [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | デキる猫は今日も憂鬱 [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=デキる猫は今日も憂鬱+[AVIF][DL版]&c=3_3&f=0
-  # Nyaa-Comic [AVIF][DL] | 地雷なんですか？地原さん [AVIF][DL版]
+# Nyaa-Comic [AVIF][DL] | 地雷なんですか？地原さん [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=地雷なんですか？地原さん+[AVIF][DL版]&c=3_3&f=0
   # Nyaa-Comic [AVIF][DL] | ゾンビのあふれた世界で俺だけが襲われない [AVIF][DL版]
   - href: https://nyaa.si/?page=rss&q=ゾンビのあふれた世界で俺だけが襲われない+[AVIF][DL版]&c=3_3&f=0
