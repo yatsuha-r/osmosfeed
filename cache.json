@@ -2343,6 +2343,33 @@
       ]
     },
     {
+      "title": "Nyaa - \"豚のレバーは加熱しろ [AVIF][DL版]\" - Torrent File RSS",
+      "feedUrl": "https://nyaa.si/?page=rss&q=%E8%B1%9A%E3%81%AE%E3%83%AC%E3%83%90%E3%83%BC%E3%81%AF%E5%8A%A0%E7%86%B1%E3%81%97%E3%82%8D+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
+      "siteUrl": "https://nyaa.si/",
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1722282",
+          "author": null,
+          "description": "#1722282 | [20230926][一般コミック][みなみ] 豚のレバーは加熱しろ ５ [電撃コミックスNEXT][AVIF][DL版] - MangaRoo | 46.9 MiB | Literature - Raw | 7f952d26111faed30e6821550bf4be2c43c7cb8c",
+          "link": "https://nyaa.si/download/1722282.torrent",
+          "publishedOn": "2023-09-28T19:23:03.000Z",
+          "wordCount": null,
+          "title": "[20230926][一般コミック][みなみ] 豚のレバーは加熱しろ ５ [電撃コミックスNEXT][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nyaa.si/view/1722281",
+          "author": null,
+          "description": "#1722281 | [20230227][一般コミック][みなみ] 豚のレバーは加熱しろ ４ [電撃コミックスNEXT][AVIF][DL版] - MangaRoo | 45.5 MiB | Literature - Raw | c63c907a776590f157d9277928426434ae65e3c4",
+          "link": "https://nyaa.si/download/1722281.torrent",
+          "publishedOn": "2023-09-28T19:23:02.000Z",
+          "wordCount": null,
+          "title": "[20230227][一般コミック][みなみ] 豚のレバーは加熱しろ ４ [電撃コミックスNEXT][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Nyaa - \"愚かな天使は悪魔と踊る [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E6%84%9A%E3%81%8B%E3%81%AA%E5%A4%A9%E4%BD%BF%E3%81%AF%E6%82%AA%E9%AD%94%E3%81%A8%E8%B8%8A%E3%82%8B+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
