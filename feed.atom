@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T15:22:54.479Z</updated>
+    <updated>2023-10-23T16:33:19.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Junjou Decamelon - 02 (純情デカメロン2) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3985183</id>
+        <link href="https://sukebei.nyaa.si/download/3985183.torrent"/>
+        <updated>2023-10-23T15:46:13.000Z</updated>
+        <summary type="html"><![CDATA[#3985183 | [SakuraCircle] Junjou Decamelon - 02 (純情デカメロン2) - English Softsubs | 114.4 MiB | Art - Anime | da5533ab08d26f2cbfd2553e2936928355dfe3b3]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Kunoichi Ryoujokuden Ajisai - 02 (くノ一○○伝　紫陽花 第二話　悪徳商人、越後屋　白濁に咲くは悪の華) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/3984302</id>
