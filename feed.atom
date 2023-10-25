@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T07:20:34.787Z</updated>
+    <updated>2023-10-25T08:31:26.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Night Tail - 01 (ナイトテール　第一話　私は夢魔を倒すもの、ナイトテール！) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3986065</id>
+        <link href="https://sukebei.nyaa.si/download/3986065.torrent"/>
+        <updated>2023-10-25T07:30:58.000Z</updated>
+        <summary type="html"><![CDATA[#3986065 | [SakuraCircle] Night Tail - 01 (ナイトテール　第一話　私は夢魔を倒すもの、ナイトテール！) - English Softsubs | 84.0 MiB | Art - Anime | 48547972b2a22fae5742a50abae775c54589e02b]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Junjou Decamelon - 02 (純情デカメロン2) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/3985183</id>
