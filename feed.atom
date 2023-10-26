@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T22:36:24.786Z</updated>
+    <updated>2023-10-26T23:21:41.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[20231026][一般コミック][坂野杏梨] 陰の実力者になりたくて！ （１２） [角川コミックス・エース][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1734605</id>
+        <link href="https://nyaa.si/download/1734605.torrent"/>
+        <updated>2023-10-26T19:39:43.000Z</updated>
+        <summary type="html"><![CDATA[#1734605 | [20231026][一般コミック][坂野杏梨] 陰の実力者になりたくて！ （１２） [角川コミックス・エース][AVIF][DL版] - MangaRoo | 36.7 MiB | Literature - Raw | fd1a236827c23e11a8d37ba5c897a9fa7eec1d66]]></summary>
+        <author>
+            <name>Nyaa - "陰の実力者になりたくて [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[20231026][一般コミック][アズマサワヨシ] 愚かな天使は悪魔と踊る 16 [電撃コミックスNEXT][AVIF][DL版] - MangaRoo]]></title>
         <id>https://nyaa.si/view/1734600</id>
@@ -34,6 +44,36 @@
         <summary type="html"><![CDATA[#3985183 | [SakuraCircle] Junjou Decamelon - 02 (純情デカメロン2) - English Softsubs | 114.4 MiB | Art - Anime | da5533ab08d26f2cbfd2553e2936928355dfe3b3]]></summary>
         <author>
             <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20231004][一般コミック][きただりょうま] ユメオチ～ユメで僕らは恋にオチる～ 3 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1732600</id>
+        <link href="https://nyaa.si/download/1732600.torrent"/>
+        <updated>2023-10-22T06:53:50.000Z</updated>
+        <summary type="html"><![CDATA[#1732600 | [20231004][一般コミック][きただりょうま] ユメオチ～ユメで僕らは恋にオチる～ 3 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 42.0 MiB | Literature - Raw | cf33a53331601c4ba94f0529b9ee01f8f745631d]]></summary>
+        <author>
+            <name>Nyaa - "ユメオチ～ユメで僕らは恋にオチる～ [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230904][一般コミック][きただりょうま] ユメオチ～ユメで僕らは恋にオチる～ 2 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1732599</id>
+        <link href="https://nyaa.si/download/1732599.torrent"/>
+        <updated>2023-10-22T06:53:49.000Z</updated>
+        <summary type="html"><![CDATA[#1732599 | [20230904][一般コミック][きただりょうま] ユメオチ～ユメで僕らは恋にオチる～ 2 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 40.8 MiB | Literature - Raw | 5fb9d03f278d9ef9a07e3d3cbaf32393e9027ea3]]></summary>
+        <author>
+            <name>Nyaa - "ユメオチ～ユメで僕らは恋にオチる～ [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230602][一般コミック][きただりょうま] ユメオチ～ユメで僕らは恋にオチる～ 1 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1732598</id>
+        <link href="https://nyaa.si/download/1732598.torrent"/>
+        <updated>2023-10-22T06:53:48.000Z</updated>
+        <summary type="html"><![CDATA[#1732598 | [20230602][一般コミック][きただりょうま] ユメオチ～ユメで僕らは恋にオチる～ 1 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 46.0 MiB | Literature - Raw | 388c0f1f25c68b6ae77d0e5a68f22dac0f6673e3]]></summary>
+        <author>
+            <name>Nyaa - "ユメオチ～ユメで僕らは恋にオチる～ [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
