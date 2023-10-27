@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T16:33:27.519Z</updated>
+    <updated>2023-10-27T17:23:53.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[ReinForce] Ayakashi Triangle Vol 2 (BDRip 1920x1080 x264 FLAC)]]></title>
+        <id>https://nyaa.si/view/1734907</id>
+        <link href="https://nyaa.si/download/1734907.torrent"/>
+        <updated>2023-10-27T16:33:04.000Z</updated>
+        <summary type="html"><![CDATA[#1734907 | [ReinForce] Ayakashi Triangle Vol 2 (BDRip 1920x1080 x264 FLAC) | 2.4 GiB | Anime - Raw | 95edd196b8c0b0cf37557cadbb17409bc4d57c7a]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Ayakashi Triangle" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Kokuhaku...... - 02 (告白…… 〜ふわパイオトナギャルの覚悟♥〜) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/3987611</id>
