@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T11:16:01.804Z</updated>
+    <updated>2023-10-28T12:47:21.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Sleepless Nocturne The Animation - 02 (SLEEPLESS Nocturne The Animation 下巻) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/3988185</id>
+        <link href="https://sukebei.nyaa.si/download/3988185.torrent"/>
+        <updated>2023-10-28T11:12:48.000Z</updated>
+        <summary type="html"><![CDATA[#3988185 | [SakuraCircle] Sleepless Nocturne The Animation - 02 (SLEEPLESS Nocturne The Animation 下巻) - English Softsubs | 381.7 MiB | Art - Anime | d76ed32b0cabe473308a55d9acff8cd122db808d]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ReinForce] Ayakashi Triangle Vol 2 (BDRip 1920x1080 x264 FLAC)]]></title>
         <id>https://nyaa.si/view/1734907</id>
