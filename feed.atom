@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T11:18:05.612Z</updated>
+    <updated>2023-11-04T12:48:33.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -2399,16 +2399,6 @@ The post [gre/GapTax] 戦甲機ソルガンテ先行体験版1.0 appeared first 
         <summary type="html"><![CDATA[#3913078 | [極彩花夢][ばにぃうぉ～か～]OVA スケベエルフ探訪記 ＃1[1080P][WEBRip][x265_10bit][简日内封] | 762.4 MiB | Art - Anime | 847c66cd89359e290b6f54109dd7414272dc4833]]></summary>
         <author>
             <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SakuraCircle] Kimi wa Yasashiku Netorareru The Animation - 04 (キミはやさしく寝取られる THE ANIMATION 第4巻) - English Softsubs]]></title>
-        <id>https://sukebei.nyaa.si/view/3912369</id>
-        <link href="https://sukebei.nyaa.si/download/3912369.torrent"/>
-        <updated>2023-07-08T00:04:49.000Z</updated>
-        <summary type="html"><![CDATA[#3912369 | [SakuraCircle] Kimi wa Yasashiku Netorareru The Animation - 04 (キミはやさしく寝取られる THE ANIMATION 第4巻) - English Softsubs | 90.6 MiB | Art - Anime | ba1bef10ffa072f5b863e35d659484afe55ad09b]]></summary>
-        <author>
-            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
         </author>
     </entry>
 </feed>
