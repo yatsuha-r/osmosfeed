@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T04:28:51.539Z</updated>
+    <updated>2023-11-04T05:26:18.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[極彩花夢][ピンクパイナップル]スリーピース THE ANIMATION[1080P][WEBRip][HEVC 10bit][中日内封]]]></title>
+        <id>https://sukebei.nyaa.si/view/3992408</id>
+        <link href="https://sukebei.nyaa.si/download/3992408.torrent"/>
+        <updated>2023-11-04T04:55:43.000Z</updated>
+        <summary type="html"><![CDATA[#3992408 | [極彩花夢][ピンクパイナップル]スリーピース THE ANIMATION[1080P][WEBRip][HEVC 10bit][中日内封] | 472.5 MiB | Art - Anime | 9b782925540218ef30e6ea523bbdfda02a7f76b9]]></summary>
+        <author>
+            <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[20231102][一般コミック][きただりょうま] ユメオチ～ユメで僕らは恋にオチる～ 4 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo]]></title>
         <id>https://nyaa.si/view/1738100</id>
