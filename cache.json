@@ -2405,6 +2405,16 @@
       "siteUrl": "https://nyaa.si/",
       "articles": [
         {
+          "id": "https://nyaa.si/view/1742417",
+          "author": null,
+          "description": "#1742417 | [20231110][一般コミック][肉村Ｑ] ジャイアントお嬢様（８） [サンデーうぇぶりコミックス][AVIF][DL版] - MangaRoo | 71.3 MiB | Literature - Raw | 66d4faf716a9a8cbc22e09c389792c447948c9a5",
+          "link": "https://nyaa.si/download/1742417.torrent",
+          "publishedOn": "2023-11-13T09:22:20.000Z",
+          "wordCount": null,
+          "title": "[20231110][一般コミック][肉村Ｑ] ジャイアントお嬢様（８） [サンデーうぇぶりコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        },
+        {
           "id": "https://nyaa.si/view/1719862",
           "author": null,
           "description": "#1719862 | [20230712][一般コミック][肉村Ｑ] ジャイアントお嬢様（７） [サンデーうぇぶりコミックス][AVIF][DL版] - MangaRoo | 68.6 MiB | Literature - Raw | 5c409ded255216f26857652994034fd34bffb503",
@@ -2647,7 +2657,18 @@
       "title": "Nyaa - \"ゆるキャン [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1742410",
+          "author": null,
+          "description": "#1742410 | [20231110][一般コミック][あｆろ] ゆるキャン△ １５巻 [まんがタイムKRコミックス][AVIF][DL版] - MangaRoo | 31.4 MiB | Literature - Raw | c2dac86f4bd813b0fd90e322fc30038cf0a612df",
+          "link": "https://nyaa.si/download/1742410.torrent",
+          "publishedOn": "2023-11-13T09:22:15.000Z",
+          "wordCount": 360,
+          "title": "[20231110][一般コミック][あｆろ] ゆるキャン△ １５巻 [まんがタイムKRコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"婚約破棄された令嬢を拾った俺が、イケナイことを教え込む [AVIF][DL版]\" - Torrent File RSS",
