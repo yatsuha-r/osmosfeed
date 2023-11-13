@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-13T13:21:44.590Z</updated>
+    <updated>2023-11-13T14:17:05.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -2439,16 +2439,6 @@ The post [満開開花] ダイエットの疲れを癒そう♨スパリゾー�
         <summary type="html"><![CDATA[https://anidb.net/anime/16560 劇場版 からかい上手の高木さん Gekijouban Karakai Jouzu no Takagi-san]]></summary>
         <author>
             <name>AreaRaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SakuraCircle] Tsugunai - 04 (ツグナヒ　潔癖生真面目・葵〜絶望の姉妹愛♥〜) - English Softsubs]]></title>
-        <id>https://sukebei.nyaa.si/view/3918201</id>
-        <link href="https://sukebei.nyaa.si/download/3918201.torrent"/>
-        <updated>2023-07-17T01:28:23.000Z</updated>
-        <summary type="html"><![CDATA[#3918201 | [SakuraCircle] Tsugunai - 04 (ツグナヒ　潔癖生真面目・葵〜絶望の姉妹愛♥〜) - English Softsubs | 123.5 MiB | Art - Anime | 077de2cb966aa1dadad33bcf6589eb7ea744b63e]]></summary>
-        <author>
-            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
         </author>
     </entry>
 </feed>
