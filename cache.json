@@ -1512,16 +1512,6 @@
           "wordCount": null,
           "title": "(同人CG集) [満開全席 (満開開花)] デリバリーメイト第一章 ～クラス全員俺のデリ嬢～",
           "imageUrl": null
-        },
-        {
-          "id": "https://sukebei.nyaa.si/view/3921031",
-          "author": null,
-          "description": "#3921031 | (同人CG集) [満開開花] ダイエットの疲れを癒そう♨スパリゾートでデートコース♥part1 | 392.0 MiB | Art - Pictures | 74d040fc395532a6bc6fd4d01775eb63df0ab91b",
-          "link": "https://sukebei.nyaa.si/download/3921031.torrent",
-          "publishedOn": "2023-07-21T15:26:10.000Z",
-          "wordCount": null,
-          "title": "(同人CG集) [満開開花] ダイエットの疲れを癒そう♨スパリゾートでデートコース♥part1",
-          "imageUrl": null
         }
       ]
     },
@@ -2169,7 +2159,18 @@
       "title": "Nyaa - \"虚構推理 [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E8%99%9A%E6%A7%8B%E6%8E%A8%E7%90%86+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1744248",
+          "author": null,
+          "description": "#1744248 | [20231116][一般コミック][片瀬茶柴 城平京] 虚構推理（２０） [月刊少年マガジンR][AVIF][DL版] - MangaRoo | 53.3 MiB | Literature - Raw | 8728e794abb738accc3ebf4e6315a8623db99e9b",
+          "link": "https://nyaa.si/download/1744248.torrent",
+          "publishedOn": "2023-11-17T22:14:34.000Z",
+          "wordCount": null,
+          "title": "[20231116][一般コミック][片瀬茶柴 城平京] 虚構推理（２０） [月刊少年マガジンR][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"生徒会にも穴はある！ [AVIF][DL版]\" - Torrent File RSS",
