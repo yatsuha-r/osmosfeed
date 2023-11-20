@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T14:17:58.717Z</updated>
+    <updated>2023-11-20T15:19:52.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(C102) [ちょこれーとらんど (kakao)] サキュバス・ワカバ (オリジナル)]]></title>
+        <id>https://sukebei.nyaa.si/view/4002629</id>
+        <link href="https://sukebei.nyaa.si/download/4002629.torrent"/>
+        <updated>2023-11-20T12:42:57.000Z</updated>
+        <summary type="html"><![CDATA[#4002629 | (C102) [ちょこれーとらんど (kakao)] サキュバス・ワカバ (オリジナル) | 86.6 MiB | Art - Doujinshi | f86ee588406dfe875b198979e294bee2521dd21b]]></summary>
+        <author>
+            <name>Sukebei - "kakao" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Mihitsu no Koi - 01 (未必の恋 〜親友のカレシ♥〜) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/4001412</id>
