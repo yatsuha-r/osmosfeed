@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T09:18:05.826Z</updated>
+    <updated>2023-11-23T10:20:17.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -2328,16 +2328,6 @@ The post [230726][DLボイコミ] 【ボイスコミック】元陰キャの巨�
         <summary type="html"><![CDATA[#3924619 | (C81) [40010壱号 (40010試作型)] O.I.I.H.2011W. (よろず) | 12.3 MiB | Art - Doujinshi | 04caf59e4cb86ff69864fcbca731630d184ef821]]></summary>
         <author>
             <name>Sukebei - "40010試作型" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(成年コミック) [kakao] ラブラリアット! [DL版]]]></title>
-        <id>https://sukebei.nyaa.si/view/3923895</id>
-        <link href="https://sukebei.nyaa.si/download/3923895.torrent"/>
-        <updated>2023-07-26T20:34:32.000Z</updated>
-        <summary type="html"><![CDATA[#3923895 | (成年コミック) [kakao] ラブラリアット! [DL版] | 251.3 MiB | Art - Manga | 08127c389be106bc01c792040d6ac7f362234574]]></summary>
-        <author>
-            <name>Sukebei - "kakao" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
