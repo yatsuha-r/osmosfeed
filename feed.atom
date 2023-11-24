@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-24T19:14:02.491Z</updated>
+    <updated>2023-11-24T20:17:58.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[極彩花夢][ばにぃうぉ～か～]OVA 初恋時間。 ＃1[1080P][WEBRip][HEVC 10bit][中日内封]]]></title>
+        <id>https://sukebei.nyaa.si/view/4005571</id>
+        <link href="https://sukebei.nyaa.si/download/4005571.torrent"/>
+        <updated>2023-11-24T19:35:55.000Z</updated>
+        <summary type="html"><![CDATA[#4005571 | [極彩花夢][ばにぃうぉ～か～]OVA 初恋時間。 ＃1[1080P][WEBRip][HEVC 10bit][中日内封] | 860.9 MiB | Art - Anime | b0e395a97eab4b0fd6965c3703c72f794d8278c2]]></summary>
+        <author>
+            <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[231124][ばにぃうぉ～か～]OVA初恋時間。 ＃2 セル版(No Watermark).mp4]]></title>
         <id>https://sukebei.nyaa.si/view/4004430</id>
