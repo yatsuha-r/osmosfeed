@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T01:14:42.120Z</updated>
+    <updated>2023-11-25T02:25:11.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Sweet and Hot - 01 (Sweet and Hot1［紙魚丸］) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4005606</id>
+        <link href="https://sukebei.nyaa.si/download/4005606.torrent"/>
+        <updated>2023-11-25T01:00:56.000Z</updated>
+        <summary type="html"><![CDATA[#4005606 | [SakuraCircle] Sweet and Hot - 01 (Sweet and Hot1［紙魚丸］) - English Softsubs | 150.6 MiB | Art - Anime | cf604b427d1f3b608ab3032ae7ddc5dc5101e386]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[極彩花夢][ばにぃうぉ～か～]OVA 初恋時間。 ＃1[1080P][WEBRip][HEVC 10bit][中日内封]]]></title>
         <id>https://sukebei.nyaa.si/view/4005571</id>
