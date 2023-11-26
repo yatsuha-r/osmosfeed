@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T23:16:53.817Z</updated>
+    <updated>2023-11-26T23:21:00.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -408,6 +408,26 @@ The post [231026][qureate] 廃深2 (Eng/Jpn/Chn) [RJ01112520] appeared first on 
         <summary type="html"><![CDATA[#1738100 | [20231102][一般コミック][きただりょうま] ユメオチ～ユメで僕らは恋にオチる～ 4 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 45.6 MiB | Literature - Raw | c6682dd6e4204489ba08466be745dffae50fd80e]]></summary>
         <author>
             <name>Nyaa - "ユメオチ～ユメで僕らは恋にオチる～ [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230822][一般コミック][神楽武志 両角潤香] 俺のお嫁さん、変態かもしれない ２ [MFコミックス アライブシリーズ][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1737994</id>
+        <link href="https://nyaa.si/download/1737994.torrent"/>
+        <updated>2023-11-03T19:07:02.000Z</updated>
+        <summary type="html"><![CDATA[#1737994 | [20230822][一般コミック][神楽武志 両角潤香] 俺のお嫁さん、変態かもしれない ２ [MFコミックス アライブシリーズ][AVIF][DL版] - MangaRoo | 42.2 MiB | Literature - Raw | 88ec2a5c76eed1299ceef30c6699c34043a13331]]></summary>
+        <author>
+            <name>Nyaa - "俺のお嫁さん、変態かもしれない [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230123][一般コミック][神楽武志 両角潤香] 俺のお嫁さん、変態かもしれない １ [MFコミックス アライブシリーズ][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1737993</id>
+        <link href="https://nyaa.si/download/1737993.torrent"/>
+        <updated>2023-11-03T19:07:01.000Z</updated>
+        <summary type="html"><![CDATA[#1737993 | [20230123][一般コミック][神楽武志 両角潤香] 俺のお嫁さん、変態かもしれない １ [MFコミックス アライブシリーズ][AVIF][DL版] - MangaRoo | 44.5 MiB | Literature - Raw | 294b813c5d99df140c9f34a28b3fdc00e250bfc1]]></summary>
+        <author>
+            <name>Nyaa - "俺のお嫁さん、変態かもしれない [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
