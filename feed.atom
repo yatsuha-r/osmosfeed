@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T20:17:45.992Z</updated>
+    <updated>2023-11-26T21:15:34.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -2284,16 +2284,6 @@ The post [230726][DLボイコミ] 【ボイスコミック】元陰キャの巨�
         <link href="https://arearaw.animerss.com/bdrip-mahou-no-idol-pastel-yumi-%e9%ad%94%e6%b3%95%e3%81%ae%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab-%e3%83%91%e3%82%b9%e3%83%86%e3%83%ab%e3%83%a6%e3%83%bc%e3%83%9f-fusion-rips-42-5g.html"/>
         <updated>2023-07-30T11:23:23.000Z</updated>
         <summary type="html"><![CDATA[https://anidb.net/anime/2555 魔法のアイドル パステルユーミ Mahou no Idol Pastel Yumi]]></summary>
-        <author>
-            <name>AreaRaw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BDRIP] Kagami no Kojou (かがみの孤城) [@Moozzi2] 19.5G]]></title>
-        <id>https://arearaw.animerss.com/?p=141</id>
-        <link href="https://arearaw.animerss.com/bdrip-kagami-no-kojou-%e3%81%8b%e3%81%8c%e3%81%bf%e3%81%ae%e5%ad%a4%e5%9f%8e-moozzi2-19-5g.html"/>
-        <updated>2023-07-30T08:47:35.000Z</updated>
-        <summary type="html"><![CDATA[https://anidb.net/anime/17219 かがみの孤城 Kagami no Kojou]]></summary>
         <author>
             <name>AreaRaw</name>
         </author>
