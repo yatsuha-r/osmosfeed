@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-02T11:14:26.747Z</updated>
+    <updated>2023-12-02T12:30:51.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Hatsukoi Time. - 01-02 (OVA初恋時間。 ＃１-２) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4011059</id>
+        <link href="https://sukebei.nyaa.si/download/4011059.torrent"/>
+        <updated>2023-12-02T10:17:02.000Z</updated>
+        <summary type="html"><![CDATA[#4011059 | [SakuraCircle] Hatsukoi Time. - 01-02 (OVA初恋時間。 ＃１-２) - English Softsubs | 664.1 MiB | Art - Anime | 66b12ea294b8a2d222865f5bf64277579715f2ee]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(同人CG集) [満開開花] ●娘丼わからせ再教育]]></title>
         <id>https://sukebei.nyaa.si/view/4010433</id>
