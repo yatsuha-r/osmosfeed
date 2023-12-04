@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-04T22:17:13.917Z</updated>
+    <updated>2023-12-04T23:18:08.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Goblin no Suana - 04 (ゴブリンの巣穴　第四話　女サムライ　サユキ) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4012486</id>
+        <link href="https://sukebei.nyaa.si/download/4012486.torrent"/>
+        <updated>2023-12-04T21:59:51.000Z</updated>
+        <summary type="html"><![CDATA[#4012486 | [SakuraCircle] Goblin no Suana - 04 (ゴブリンの巣穴　第四話　女サムライ　サユキ) - English Softsubs | 99.1 MiB | Art - Anime | b7a540f5b73b6694baf899e8f77c63a5909c83e3]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[20231127][一般コミック][ねことうふ] お兄ちゃんはおしまい！ 8 [REXコミックス][AVIF][DL版] - MangaRoo]]></title>
         <id>https://nyaa.si/view/1751455</id>
