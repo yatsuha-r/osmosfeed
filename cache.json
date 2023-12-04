@@ -2469,7 +2469,18 @@
       "title": "Nyaa - \"お兄ちゃんはおしまい [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E3%81%8A%E5%85%84%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E3%81%8A%E3%81%97%E3%81%BE%E3%81%84+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1751455",
+          "author": null,
+          "description": "#1751455 | [20231127][一般コミック][ねことうふ] お兄ちゃんはおしまい！ 8 [REXコミックス][AVIF][DL版] - MangaRoo | 39.0 MiB | Literature - Raw | 8df9103eeff266be11cca7018b695b96803be162",
+          "link": "https://nyaa.si/download/1751455.torrent",
+          "publishedOn": "2023-12-04T15:00:42.000Z",
+          "wordCount": 447,
+          "title": "[20231127][一般コミック][ねことうふ] お兄ちゃんはおしまい！ 8 [REXコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"ぼっち・ざ・ろっく！ [AVIF][DL版]\" - Torrent File RSS",
