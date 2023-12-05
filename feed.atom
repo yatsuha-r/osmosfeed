@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-05T09:18:32.787Z</updated>
+    <updated>2023-12-05T10:20:22.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[#4012486 | [SakuraCircle] Goblin no Suana - 04 (ゴブリンの巣穴　第四話　女サムライ　サユキ) - English Softsubs | 99.1 MiB | Art - Anime | b7a540f5b73b6694baf899e8f77c63a5909c83e3]]></summary>
         <author>
             <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20231127][一般コミック][険持ちよ] ＲＰＧ不動産 ６巻 [まんがタイムKRコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1751460</id>
+        <link href="https://nyaa.si/download/1751460.torrent"/>
+        <updated>2023-12-04T15:00:50.000Z</updated>
+        <summary type="html"><![CDATA[#1751460 | [20231127][一般コミック][険持ちよ] ＲＰＧ不動産 ６巻 [まんがタイムKRコミックス][AVIF][DL版] - MangaRoo | 31.2 MiB | Literature - Raw | 060beb45d1a14ffe940fce9fc66763eb48a70a22]]></summary>
+        <author>
+            <name>Nyaa - "ＲＰＧ不動産 [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
