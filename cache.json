@@ -2452,7 +2452,38 @@
       "title": "Nyaa - \"不徳のギルド [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E4%B8%8D%E5%BE%B3%E3%81%AE%E3%82%AE%E3%83%AB%E3%83%89+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1752386",
+          "author": null,
+          "description": "#1752386 | [20230912][一般コミック][河添太一] 不徳のギルド 12巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo | 50.7 MiB | Literature - Raw | 6a259dfb1acc7073e71d64fb90e48025e358b9bb",
+          "link": "https://nyaa.si/download/1752386.torrent",
+          "publishedOn": "2023-12-06T22:26:43.000Z",
+          "wordCount": null,
+          "title": "[20230912][一般コミック][河添太一] 不徳のギルド 12巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nyaa.si/view/1752385",
+          "author": null,
+          "description": "#1752385 | [20230310][一般コミック][河添太一] 不徳のギルド 11巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo | 55.6 MiB | Literature - Raw | 4afb10102a0bd77ecba9c77e7021b7a8e1ceafe8",
+          "link": "https://nyaa.si/download/1752385.torrent",
+          "publishedOn": "2023-12-06T22:26:42.000Z",
+          "wordCount": 374,
+          "title": "[20230310][一般コミック][河添太一] 不徳のギルド 11巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nyaa.si/view/1752384",
+          "author": null,
+          "description": "#1752384 | [20220912][一般コミック][河添太一] 不徳のギルド 10巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo | 59.5 MiB | Literature - Raw | eea8810b9026706b5fe2b64c5b39331f43853e30",
+          "link": "https://nyaa.si/download/1752384.torrent",
+          "publishedOn": "2023-12-06T22:26:41.000Z",
+          "wordCount": null,
+          "title": "[20220912][一般コミック][河添太一] 不徳のギルド 10巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"お兄ちゃんはおしまい [AVIF][DL版]\" - Torrent File RSS",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T22:17:18.381Z</updated>
+    <updated>2023-12-06T23:18:02.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[20230912][一般コミック][河添太一] 不徳のギルド 12巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1752386</id>
+        <link href="https://nyaa.si/download/1752386.torrent"/>
+        <updated>2023-12-06T22:26:43.000Z</updated>
+        <summary type="html"><![CDATA[#1752386 | [20230912][一般コミック][河添太一] 不徳のギルド 12巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo | 50.7 MiB | Literature - Raw | 6a259dfb1acc7073e71d64fb90e48025e358b9bb]]></summary>
+        <author>
+            <name>Nyaa - "不徳のギルド [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20230310][一般コミック][河添太一] 不徳のギルド 11巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1752385</id>
+        <link href="https://nyaa.si/download/1752385.torrent"/>
+        <updated>2023-12-06T22:26:42.000Z</updated>
+        <summary type="html"><![CDATA[#1752385 | [20230310][一般コミック][河添太一] 不徳のギルド 11巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo | 55.6 MiB | Literature - Raw | 4afb10102a0bd77ecba9c77e7021b7a8e1ceafe8]]></summary>
+        <author>
+            <name>Nyaa - "不徳のギルド [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20220912][一般コミック][河添太一] 不徳のギルド 10巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1752384</id>
+        <link href="https://nyaa.si/download/1752384.torrent"/>
+        <updated>2023-12-06T22:26:41.000Z</updated>
+        <summary type="html"><![CDATA[#1752384 | [20220912][一般コミック][河添太一] 不徳のギルド 10巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo | 59.5 MiB | Literature - Raw | eea8810b9026706b5fe2b64c5b39331f43853e30]]></summary>
+        <author>
+            <name>Nyaa - "不徳のギルド [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Night Tail - 02 (ナイトテール　第二話　この人、夢に出てきた人だ！) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/4013115</id>
