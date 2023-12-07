@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-07T06:23:36.411Z</updated>
+    <updated>2023-12-07T07:16:39.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[#1752384 | [20220912][一般コミック][河添太一] 不徳のギルド 10巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo | 59.5 MiB | Literature - Raw | eea8810b9026706b5fe2b64c5b39331f43853e30]]></summary>
         <author>
             <name>Nyaa - "不徳のギルド [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20231204][一般コミック][近藤憲一] ダークギャザリング 14 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1752381</id>
+        <link href="https://nyaa.si/download/1752381.torrent"/>
+        <updated>2023-12-06T22:22:44.000Z</updated>
+        <summary type="html"><![CDATA[#1752381 | [20231204][一般コミック][近藤憲一] ダークギャザリング 14 [ジャンプコミックスDIGITAL][AVIF][DL版] - MangaRoo | 67.3 MiB | Literature - Raw | 4bb00430d23d7eefe723b8621c543f033618c814]]></summary>
+        <author>
+            <name>Nyaa - "ダークギャザリング [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
