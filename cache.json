@@ -1763,6 +1763,16 @@
       "siteUrl": "https://sukebei.nyaa.si/",
       "articles": [
         {
+          "id": "https://sukebei.nyaa.si/view/4015132",
+          "author": null,
+          "description": "#4015132 | (同人誌) [まっさら島 (元虫)] 精液転送～離れたところから出しまくり？！～ (オリジナル) | 22.4 MiB | Art - Doujinshi | 0ead11ad1e6feab5bf6e70a02a370ccd026500ec",
+          "link": "https://sukebei.nyaa.si/download/4015132.torrent",
+          "publishedOn": "2023-12-09T02:08:10.000Z",
+          "wordCount": null,
+          "title": "(同人誌) [まっさら島 (元虫)] 精液転送～離れたところから出しまくり？！～ (オリジナル)",
+          "imageUrl": null
+        },
+        {
           "id": "https://sukebei.nyaa.si/view/3936518",
           "author": null,
           "description": "#3936518 | (C102) [紺色ドロップス (森島コン)] ちょっと怖いおねーさんに飼ってもらう事になりました。 (オリジナル) [DL版] | 81.1 MiB | Art - Doujinshi | f32ffba2402be741b5d437d3043bddb18ec2f5fd",
@@ -2270,7 +2280,18 @@
       "title": "Nyaa - \"宇崎ちゃんは遊びたい [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E5%AE%87%E5%B4%8E%E3%81%A1%E3%82%83%E3%82%93%E3%81%AF%E9%81%8A%E3%81%B3%E3%81%9F%E3%81%84+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1753777",
+          "author": null,
+          "description": "#1753777 | [20231208][一般コミック][丈] 宇崎ちゃんは遊びたい！ 11 [ドラゴンコミックスエイジ][AVIF][DL版] - MangaRoo | 32.3 MiB | Literature - Raw | a2d24a1b3fddd8ba7d1c57b7125694a6a06544aa",
+          "link": "https://nyaa.si/download/1753777.torrent",
+          "publishedOn": "2023-12-10T01:10:09.000Z",
+          "wordCount": null,
+          "title": "[20231208][一般コミック][丈] 宇崎ちゃんは遊びたい！ 11 [ドラゴンコミックスエイジ][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"異種族レビュアーズ [AVIF][DL版]\" - Torrent File RSS",
