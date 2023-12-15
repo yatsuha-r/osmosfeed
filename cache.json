@@ -1764,7 +1764,18 @@
       "title": "Nyaa - \"BD 1080 Engage Kiss\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=BD+1080+Engage+Kiss&c=1_4&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1756070",
+          "author": null,
+          "description": "#1756070 | [Shiniori-Raws] Engage Kiss (BD 1920x1080 x264 10bit FLAC) | 8.2 GiB | Anime - Raw | 090b1f78421b7aea52c3774c404aceb4e7640bef",
+          "link": "https://nyaa.si/download/1756070.torrent",
+          "publishedOn": "2023-12-15T19:45:59.000Z",
+          "wordCount": null,
+          "title": "[Shiniori-Raws] Engage Kiss (BD 1920x1080 x264 10bit FLAC)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"BD 1080 Kage no Jitsuryokusha\" - Torrent File RSS",
