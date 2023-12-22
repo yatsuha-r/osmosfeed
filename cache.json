@@ -1387,6 +1387,16 @@
       "siteUrl": "https://sukebei.nyaa.si/",
       "articles": [
         {
+          "id": "https://sukebei.nyaa.si/view/4024306",
+          "author": null,
+          "description": "#4024306 | (同人誌) [TOZAN：BU (富士やま)] 籠絡令嬢メイド堕ち (オリジナル) [DL版] | 186.2 MiB | Art - Doujinshi | d8452f2b6072ec649c34fab6e1a2f249934aba4b",
+          "link": "https://sukebei.nyaa.si/download/4024306.torrent",
+          "publishedOn": "2023-12-22T13:38:23.000Z",
+          "wordCount": null,
+          "title": "(同人誌) [TOZAN：BU (富士やま)] 籠絡令嬢メイド堕ち (オリジナル) [DL版]",
+          "imageUrl": null
+        },
+        {
           "id": "https://sukebei.nyaa.si/view/4024048",
           "author": null,
           "description": "#4024048 | (同人誌) [TOZAN：BU (富士やま)] 籠絡令嬢メイド堕ち (オリジナル) [DL版] | 407.6 MiB | Art - Doujinshi | a98bb567ebb1a9a5042449204e848e486d46f18d",
@@ -2468,6 +2478,23 @@
           "publishedOn": "2023-12-04T15:00:50.000Z",
           "wordCount": null,
           "title": "[20231127][一般コミック][険持ちよ] ＲＰＧ不動産 ６巻 [まんがタイムKRコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Nyaa - \"ＮＥＷ ＧＡＭＥ！ [AVIF][DL版]\" - Torrent File RSS",
+      "feedUrl": "https://nyaa.si/?page=rss&q=%EF%BC%AE%EF%BC%A5%EF%BC%B7%20%EF%BC%A7%EF%BC%A1%EF%BC%AD%EF%BC%A5%EF%BC%81+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
+      "siteUrl": "https://nyaa.si/",
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1753749",
+          "author": null,
+          "description": "#1753749 | [20231101][一般コミック][得能正太郎] ＮＥＷ ＧＡＭＥ！ -Ｃｏｍｐｌｅｔｅ Ｅｄｉｔｉｏｎ- １巻 [まんがタイムＫＲコミックス][AVIF][DL版] - MangaRoo | 68.3 MiB | Literature - Raw | 3e89ce3b22402025358ed8d422f67b3d13294fb8",
+          "link": "https://nyaa.si/download/1753749.torrent",
+          "publishedOn": "2023-12-10T01:09:45.000Z",
+          "wordCount": null,
+          "title": "[20231101][一般コミック][得能正太郎] ＮＥＷ ＧＡＭＥ！ -Ｃｏｍｐｌｅｔｅ Ｅｄｉｔｉｏｎ- １巻 [まんがタイムＫＲコミックス][AVIF][DL版] - MangaRoo",
           "imageUrl": null
         }
       ]

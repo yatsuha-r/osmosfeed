@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-22T15:03:22.061Z</updated>
+    <updated>2023-12-22T15:17:49.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(同人誌) [TOZAN：BU (富士やま)] 籠絡令嬢メイド堕ち (オリジナル) [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/4024306</id>
+        <link href="https://sukebei.nyaa.si/download/4024306.torrent"/>
+        <updated>2023-12-22T13:38:23.000Z</updated>
+        <summary type="html"><![CDATA[#4024306 | (同人誌) [TOZAN：BU (富士やま)] 籠絡令嬢メイド堕ち (オリジナル) [DL版] | 186.2 MiB | Art - Doujinshi | d8452f2b6072ec649c34fab6e1a2f249934aba4b]]></summary>
+        <author>
+            <name>Sukebei - "富士やま" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(同人誌) [TOZAN：BU (富士やま)] 籠絡令嬢メイド堕ち (オリジナル) [DL版]]]></title>
         <id>https://sukebei.nyaa.si/view/4024048</id>
@@ -104,6 +114,16 @@
         <summary type="html"><![CDATA[#1753777 | [20231208][一般コミック][丈] 宇崎ちゃんは遊びたい！ 11 [ドラゴンコミックスエイジ][AVIF][DL版] - MangaRoo | 32.3 MiB | Literature - Raw | a2d24a1b3fddd8ba7d1c57b7125694a6a06544aa]]></summary>
         <author>
             <name>Nyaa - "宇崎ちゃんは遊びたい [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20231101][一般コミック][得能正太郎] ＮＥＷ ＧＡＭＥ！ -Ｃｏｍｐｌｅｔｅ Ｅｄｉｔｉｏｎ- １巻 [まんがタイムＫＲコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1753749</id>
+        <link href="https://nyaa.si/download/1753749.torrent"/>
+        <updated>2023-12-10T01:09:45.000Z</updated>
+        <summary type="html"><![CDATA[#1753749 | [20231101][一般コミック][得能正太郎] ＮＥＷ ＧＡＭＥ！ -Ｃｏｍｐｌｅｔｅ Ｅｄｉｔｉｏｎ- １巻 [まんがタイムＫＲコミックス][AVIF][DL版] - MangaRoo | 68.3 MiB | Literature - Raw | 3e89ce3b22402025358ed8d422f67b3d13294fb8]]></summary>
+        <author>
+            <name>Nyaa - "ＮＥＷ ＧＡＭＥ！ [AVIF][DL版]" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
