@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-31T02:30:09.085Z</updated>
+    <updated>2023-12-31T03:18:37.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[231231][231222][nur]旬花蒐陶 ～生ダレ鬱メッセ～(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/4030032</id>
+        <link href="https://sukebei.nyaa.si/download/4030032.torrent"/>
+        <updated>2023-12-31T02:58:51.000Z</updated>
+        <summary type="html"><![CDATA[#4030032 | [231231][231222][nur]旬花蒐陶 ～生ダレ鬱メッセ～(No Watermark).mp4 | 125.6 MiB | Art - Anime | 5454e7142d3745ec4370ea6a4d4382bcce0ed687]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Livestream: Escape from Hotel Izanami]]></title>
         <id>https://otomi-games.com/?p=11217</id>
