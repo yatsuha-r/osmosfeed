@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T22:16:41.512Z</updated>
+    <updated>2024-01-02T23:17:30.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Sakusei Byoutou The Animation - 06-07 (搾精病棟 THE ANIMATION 第6-7巻 ～ヌマジリ編～ ～キリタニ編～ 前編) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4032078</id>
+        <link href="https://sukebei.nyaa.si/download/4032078.torrent"/>
+        <updated>2024-01-02T21:41:01.000Z</updated>
+        <summary type="html"><![CDATA[#4032078 | [SakuraCircle] Sakusei Byoutou The Animation - 06-07 (搾精病棟 THE ANIMATION 第6-7巻 ～ヌマジリ編～ ～キリタニ編～ 前編) - English Softsubs | 137.7 MiB | Art - Anime | 4e851f3efdcb19a2e23ea54170f66d14c1e5a927]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[240102][240101][ばにぃうぉ～か～]OVA初恋時間。 ＃4 セル版(No Watermark).mp4]]></title>
         <id>https://sukebei.nyaa.si/view/4032023</id>
