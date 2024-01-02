@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T18:22:47.226Z</updated>
+    <updated>2024-01-02T19:14:29.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[240102][240101][ばにぃうぉ～か～]OVA初恋時間。 ＃4 セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/4032023</id>
+        <link href="https://sukebei.nyaa.si/download/4032023.torrent"/>
+        <updated>2024-01-02T18:46:14.000Z</updated>
+        <summary type="html"><![CDATA[#4032023 | [240102][240101][ばにぃうぉ～か～]OVA初恋時間。 ＃4 セル版(No Watermark).mp4 | 90.4 MiB | Art - Anime | b2d8c9df6cbf75da9f946ead777861edba0fc8a5]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[240102][240101][ばにぃうぉ～か～]OVA初恋時間。 ＃3 セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/4032022</id>
+        <link href="https://sukebei.nyaa.si/download/4032022.torrent"/>
+        <updated>2024-01-02T18:45:53.000Z</updated>
+        <summary type="html"><![CDATA[#4032022 | [240102][240101][ばにぃうぉ～か～]OVA初恋時間。 ＃3 セル版(No Watermark).mp4 | 108.6 MiB | Art - Anime | b004a7dc38fa94126c4e2544309d24b87396eb69]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[極彩花夢] OVA 初恋時間。 ＃3 [720P][WEBRip][HEVC 10bit]]]></title>
+        <id>https://sukebei.nyaa.si/view/4032010</id>
+        <link href="https://sukebei.nyaa.si/download/4032010.torrent"/>
+        <updated>2024-01-02T17:49:13.000Z</updated>
+        <summary type="html"><![CDATA[#4032010 | [極彩花夢] OVA 初恋時間。 ＃3 [720P][WEBRip][HEVC 10bit] | 385.9 MiB | Art - Anime | 5c29f7191b85af4fe32cdab01542957e4f541fe8]]></summary>
+        <author>
+            <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(同人CG集) [満開開花] 母娘丼わからせ再教育]]></title>
         <id>https://sukebei.nyaa.si/view/4032006</id>
