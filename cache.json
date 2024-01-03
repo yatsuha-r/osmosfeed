@@ -1472,7 +1472,18 @@
       "title": "Sukebei - \"愛上陸\" - Torrent File RSS",
       "feedUrl": "https://sukebei.nyaa.si/?page=rss&q=%E6%84%9B%E4%B8%8A%E9%99%B8&c=1_0&f=0",
       "siteUrl": "https://sukebei.nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sukebei.nyaa.si/view/4032633",
+          "author": null,
+          "description": "#4032633 | (C103) [50on! (愛上陸)] 濁音 7 (会場限定本) | 212.7 MiB | Art - Doujinshi | d7af58a790bb6f88eee79446934b4c040b125275",
+          "link": "https://sukebei.nyaa.si/download/4032633.torrent",
+          "publishedOn": "2024-01-03T15:33:39.000Z",
+          "wordCount": null,
+          "title": "(C103) [50on! (愛上陸)] 濁音 7 (会場限定本)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sukebei - \"桂井よしあき\" - Torrent File RSS",
