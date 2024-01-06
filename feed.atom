@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T17:15:46.533Z</updated>
+    <updated>2024-01-06T18:21:26.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Hatsukoi Time. - 03-04 (OVA初恋時間。 ＃３-４) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4035465</id>
+        <link href="https://sukebei.nyaa.si/download/4035465.torrent"/>
+        <updated>2024-01-06T15:59:56.000Z</updated>
+        <summary type="html"><![CDATA[#4035465 | [SakuraCircle] Hatsukoi Time. - 03-04 (OVA初恋時間。 ＃３-４) - English Softsubs | 669.4 MiB | Art - Anime | ce1e19f85da62e5bc5af0bd8060b7974ad2fa497]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(C103) [じぇのばけーき (たかやKi)] アビドスの夏休み (前編) (ブルーアーカイブ)]]></title>
         <id>https://sukebei.nyaa.si/view/4032735</id>
