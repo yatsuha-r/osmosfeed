@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T10:20:00.062Z</updated>
+    <updated>2024-01-17T11:15:51.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[極彩花夢] 挣扎吧！亚当 / Adam's Sweet Agony [01][1080P][WEBRip][中日内封][UNC]]]></title>
+        <id>https://sukebei.nyaa.si/view/4042206</id>
+        <link href="https://sukebei.nyaa.si/download/4042206.torrent"/>
+        <updated>2024-01-17T11:11:36.000Z</updated>
+        <summary type="html"><![CDATA[#4042206 | [極彩花夢] 挣扎吧！亚当 / Adam's Sweet Agony [01][1080P][WEBRip][中日内封][UNC] | 279.2 MiB | Art - Anime | 13ac75eba4820a54e0b3f122207b9a66e8d265dd]]></summary>
+        <author>
+            <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] 写メ日記017『文化祭でメイド喫茶🎉新メニューのお披露目だよ🍰』]]></title>
+        <id>https://sukebei.nyaa.si/view/4042203</id>
+        <link href="https://sukebei.nyaa.si/download/4042203.torrent"/>
+        <updated>2024-01-17T10:47:20.000Z</updated>
+        <summary type="html"><![CDATA[#4042203 | (同人CG集) [満開開花] 写メ日記017『文化祭でメイド喫茶🎉新メニューのお披露目だよ🍰』 | 800.3 MiB | Art - Pictures | 9c9275b761fa195d5c196a500711f79ddf9d2291]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(同人誌) [アッパレ団 (大塚超太郎)] 月刊 (嘘)除籍王 (おジャ魔女どれみ)]]></title>
         <id>https://sukebei.nyaa.si/view/4041251</id>
