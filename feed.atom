@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-25T19:15:05.802Z</updated>
+    <updated>2024-01-25T20:17:39.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -2240,16 +2240,6 @@ The post [230929][CelLab/OTAKU Plan] Maumau and the Labyrinth Uncensored (Englis
         <summary type="html"><![CDATA[#1722281 | [20230227][一般コミック][みなみ] 豚のレバーは加熱しろ ４ [電撃コミックスNEXT][AVIF][DL版] - MangaRoo | 45.5 MiB | Literature - Raw | c63c907a776590f157d9277928426434ae65e3c4]]></summary>
         <author>
             <name>Nyaa - "豚のレバーは加熱しろ [AVIF][DL版]" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[VCB-Studio] 出包王女 / To LOVE-Ru / To LOVEる -とらぶる- 10-bit 1080p HEVC BDRip [S1 Reseed + S2-S4 Rev + OADs Fin]]]></title>
-        <id>https://nyaa.si/view/1722066</id>
-        <link href="https://nyaa.si/download/1722066.torrent"/>
-        <updated>2023-09-28T07:39:14.000Z</updated>
-        <summary type="html"><![CDATA[#1722066 | [VCB-Studio] 出包王女 / To LOVE-Ru / To LOVEる -とらぶる- 10-bit 1080p HEVC BDRip [S1 Reseed + S2-S4 Rev + OADs Fin] | 87.9 GiB | Anime - Raw | 1d7f09566e27b1c9f32d257d2cab6ed9a794341d]]></summary>
-        <author>
-            <name>Nyaa - "BD 1080 To Love-Ru" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
