@@ -2011,7 +2011,18 @@
       "title": "Nyaa - \"BD 1080 Kage no Jitsuryokusha\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=BD+1080+Kage+no+Jitsuryokusha&c=1_4&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1770749",
+          "author": null,
+          "description": "#1770749 | [ReinForce] Kage No Jitsuryokusha Ni Naritakute! S2 Vol 1 (BDRip 1920x1080 x264 FLAC) | 9.1 GiB | Anime - Raw | 133bd11ad5d568786a658b06a403638bd5f51a28",
+          "link": "https://nyaa.si/download/1770749.torrent",
+          "publishedOn": "2024-01-25T22:36:17.000Z",
+          "wordCount": null,
+          "title": "[ReinForce] Kage No Jitsuryokusha Ni Naritakute! S2 Vol 1 (BDRip 1920x1080 x264 FLAC)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"BD 1080 Isekai Ojisan\" - Torrent File RSS",
