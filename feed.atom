@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-28T13:18:48.819Z</updated>
+    <updated>2024-01-28T14:13:47.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[20240126][一般コミック][アズマサワヨシ] 愚かな天使は悪魔と踊る 18 [電撃コミックスNEXT][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1771658</id>
+        <link href="https://nyaa.si/download/1771658.torrent"/>
+        <updated>2024-01-28T00:00:27.000Z</updated>
+        <summary type="html"><![CDATA[#1771658 | [20240126][一般コミック][アズマサワヨシ] 愚かな天使は悪魔と踊る 18 [電撃コミックスNEXT][AVIF][DL版] - MangaRoo | 38.4 MiB | Literature - Raw | 923f0450ba784f495990053084a725c4cfef3e8e]]></summary>
+        <author>
+            <name>Nyaa - "愚かな天使は悪魔と踊る [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(COMIC1☆7) [偽MIDI泥の会 (石恵)] NISEMIDI OWABI (オリジナル)]]></title>
         <id>https://sukebei.nyaa.si/view/4048477</id>
