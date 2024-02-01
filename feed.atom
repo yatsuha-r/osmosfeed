@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T21:08:49.662Z</updated>
+    <updated>2024-02-01T21:34:12.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[IrizaRaws] Alice Gear Aegis Expansion (BDRip 1920x1080 x264 10bit FLAC)]]></title>
+        <id>https://nyaa.si/view/1773395</id>
+        <link href="https://nyaa.si/download/1773395.torrent"/>
+        <updated>2024-02-01T20:41:56.000Z</updated>
+        <summary type="html"><![CDATA[#1773395 | [IrizaRaws] Alice Gear Aegis Expansion (BDRip 1920x1080 x264 10bit FLAC) | 31.4 GiB | Anime - Raw | e648f5a629bb164a47fd3d00eada5771954ba709]]></summary>
+        <author>
+            <name>Nyaa - "BD 1080 Alice Gear Aegis" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Mahou Touki Lyristia - 02 (魔法闘姫リルスティア　第二話　立ちはだかる無数の敵！　リルスティアの大乱交) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/4051828</id>
