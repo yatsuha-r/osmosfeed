@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-01T11:08:56.070Z</updated>
+    <updated>2024-02-01T11:33:58.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Mahou Touki Lyristia - 02 (魔法闘姫リルスティア　第二話　立ちはだかる無数の敵！　リルスティアの大乱交) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4051828</id>
+        <link href="https://sukebei.nyaa.si/download/4051828.torrent"/>
+        <updated>2024-02-01T10:52:37.000Z</updated>
+        <summary type="html"><![CDATA[#4051828 | [SakuraCircle] Mahou Touki Lyristia - 02 (魔法闘姫リルスティア　第二話　立ちはだかる無数の敵！　リルスティアの大乱交) - English Softsubs | 95.4 MiB | Art - Anime | 46b3f5ea67b7c41b3bbd205d58a24188bdb455ae]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[7³ACG] Alice Gear Aegis アリス・ギア・アイギス Expansion S1 [BDRip 1080p x265 FLAC][Rev]]]></title>
         <id>https://nyaa.si/view/1772743</id>
