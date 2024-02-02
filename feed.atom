@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T15:10:31.192Z</updated>
+    <updated>2024-02-02T15:35:45.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] SiNiSistar - 01 (シニシスタ　第一話　樹海の魔) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4052761</id>
+        <link href="https://sukebei.nyaa.si/download/4052761.torrent"/>
+        <updated>2024-02-02T14:58:59.000Z</updated>
+        <summary type="html"><![CDATA[#4052761 | [SakuraCircle] SiNiSistar - 01 (シニシスタ　第一話　樹海の魔) - English Softsubs | 114.2 MiB | Art - Anime | b33a34ead6dfca605a7285cab434e516be4de7e8]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[240202][King Bee]同居する粘液 第2話 混ざり合う日常(No Watermark).mp4]]></title>
         <id>https://sukebei.nyaa.si/view/4052521</id>
