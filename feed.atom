@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-02T09:34:07.374Z</updated>
+    <updated>2024-02-02T10:11:03.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[240202][ばにぃうぉ～か～]OVAツンデロシリーズ ＃6 セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/4052489</id>
+        <link href="https://sukebei.nyaa.si/download/4052489.torrent"/>
+        <updated>2024-02-02T09:43:59.000Z</updated>
+        <summary type="html"><![CDATA[#4052489 | [240202][ばにぃうぉ～か～]OVAツンデロシリーズ ＃6 セル版(No Watermark).mp4 | 113.5 MiB | Art - Anime | 5d012e03c8b7d451d651edc0a4101400ca2a1d71]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[240202][ばにぃうぉ～か～]OVAツンデロシリーズ ＃5 セル版(No Watermark).mp4]]></title>
+        <id>https://sukebei.nyaa.si/view/4052487</id>
+        <link href="https://sukebei.nyaa.si/download/4052487.torrent"/>
+        <updated>2024-02-02T09:38:25.000Z</updated>
+        <summary type="html"><![CDATA[#4052487 | [240202][ばにぃうぉ～か～]OVAツンデロシリーズ ＃5 セル版(No Watermark).mp4 | 106.2 MiB | Art - Anime | 9cf66f60031421ecbfdb78858fb48c89db8546c9]]></summary>
+        <author>
+            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[IrizaRaws] Alice Gear Aegis Expansion (BDRip 1920x1080 x264 10bit FLAC)]]></title>
         <id>https://nyaa.si/view/1773395</id>
