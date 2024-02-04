@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-04T21:34:19.180Z</updated>
+    <updated>2024-02-04T22:08:57.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Tsundero Series - 05-06 (OVAツンデロシリーズ ＃５-６) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4054222</id>
+        <link href="https://sukebei.nyaa.si/download/4054222.torrent"/>
+        <updated>2024-02-04T20:01:16.000Z</updated>
+        <summary type="html"><![CDATA[#4054222 | [SakuraCircle] Tsundero Series - 05-06 (OVAツンデロシリーズ ＃５-６) - English Softsubs | 702.0 MiB | Art - Anime | 03e457d5d5bf3f74f8dc16ce20c5a5781ad74055]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] SiNiSistar - 01 (シニシスタ　第一話　樹海の魔) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/4052761</id>
