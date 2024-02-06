@@ -2399,7 +2399,18 @@
       "title": "Nyaa - \"異世界迷宮でハーレムを [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%A7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1775412",
+          "author": null,
+          "description": "#1775412 | [20240126][一般コミック][氷樹一世] 異世界迷宮でハーレムを(10) [角川コミックス・エース][AVIF][DL版] - MangaRoo | 45.7 MiB | Literature - Raw | 4472d2888d3ce33a705c6dffa01c71c8b7e7b536",
+          "link": "https://nyaa.si/download/1775412.torrent",
+          "publishedOn": "2024-02-06T20:34:47.000Z",
+          "wordCount": 277,
+          "title": "[20240126][一般コミック][氷樹一世] 異世界迷宮でハーレムを(10) [角川コミックス・エース][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"陰の実力者になりたくて [AVIF][DL版]\" - Torrent File RSS",
@@ -2757,7 +2768,18 @@
       "title": "Nyaa - \"ゾンビのあふれた世界で俺だけが襲われない [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1775413",
+          "author": null,
+          "description": "#1775413 | [20240205][一般コミック][増田ちひろ 裏地ろくろ] ゾンビのあふれた世界で俺だけが襲われない 3 [COMICらぐちゅう][AVIF][DL版] - MangaRoo | 36.0 MiB | Literature - Raw | a05676cc3bf279e38fd7047830c895f531c04609",
+          "link": "https://nyaa.si/download/1775413.torrent",
+          "publishedOn": "2024-02-06T20:34:48.000Z",
+          "wordCount": 425,
+          "title": "[20240205][一般コミック][増田ちひろ 裏地ろくろ] ゾンビのあふれた世界で俺だけが襲われない 3 [COMICらぐちゅう][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T23:09:42.281Z</updated>
+    <updated>2024-02-06T23:34:12.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[20240205][一般コミック][増田ちひろ 裏地ろくろ] ゾンビのあふれた世界で俺だけが襲われない 3 [COMICらぐちゅう][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1775413</id>
+        <link href="https://nyaa.si/download/1775413.torrent"/>
+        <updated>2024-02-06T20:34:48.000Z</updated>
+        <summary type="html"><![CDATA[#1775413 | [20240205][一般コミック][増田ちひろ 裏地ろくろ] ゾンビのあふれた世界で俺だけが襲われない 3 [COMICらぐちゅう][AVIF][DL版] - MangaRoo | 36.0 MiB | Literature - Raw | a05676cc3bf279e38fd7047830c895f531c04609]]></summary>
+        <author>
+            <name>Nyaa - "ゾンビのあふれた世界で俺だけが襲われない [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[20240126][一般コミック][氷樹一世] 異世界迷宮でハーレムを(10) [角川コミックス・エース][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1775412</id>
+        <link href="https://nyaa.si/download/1775412.torrent"/>
+        <updated>2024-02-06T20:34:47.000Z</updated>
+        <summary type="html"><![CDATA[#1775412 | [20240126][一般コミック][氷樹一世] 異世界迷宮でハーレムを(10) [角川コミックス・エース][AVIF][DL版] - MangaRoo | 45.7 MiB | Literature - Raw | 4472d2888d3ce33a705c6dffa01c71c8b7e7b536]]></summary>
+        <author>
+            <name>Nyaa - "異世界迷宮でハーレムを [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Fleur The Animation - 01 (フルール THE ANIMATION 第1巻) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/4055271</id>
