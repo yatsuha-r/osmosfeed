@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T13:34:30.729Z</updated>
+    <updated>2024-02-06T14:08:53.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Fleur The Animation - 01 (フルール THE ANIMATION 第1巻) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4055271</id>
+        <link href="https://sukebei.nyaa.si/download/4055271.torrent"/>
+        <updated>2024-02-06T13:30:08.000Z</updated>
+        <summary type="html"><![CDATA[#4055271 | [SakuraCircle] Fleur The Animation - 01 (フルール THE ANIMATION 第1巻) - English Softsubs | 87.7 MiB | Art - Anime | ffb0f31cfe959add1f755e819a414c660a59bfbc]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Tsundero Series - 05-06 (OVAツンデロシリーズ ＃５-６) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/4054222</id>
