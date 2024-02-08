@@ -1741,7 +1741,18 @@
       "title": "Sukebei - \"なかじまゆか\" - Torrent File RSS",
       "feedUrl": "https://sukebei.nyaa.si/?page=rss&q=%E3%81%AA%E3%81%8B%E3%81%98%E3%81%BE%E3%82%86%E3%81%8B&c=1_0&f=0",
       "siteUrl": "https://sukebei.nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://sukebei.nyaa.si/view/4056556",
+          "author": null,
+          "description": "#4056556 | (同人誌) [自由なせいかつ (じゆうに)] 猫系彼女とあまあまH (オリジナル) [DL版] | 122.6 MiB | Art - Doujinshi | 22e09f3b9d802b15dd2f360c271e0f7b6b33c346",
+          "link": "https://sukebei.nyaa.si/download/4056556.torrent",
+          "publishedOn": "2024-02-08T16:28:34.000Z",
+          "wordCount": null,
+          "title": "(同人誌) [自由なせいかつ (じゆうに)] 猫系彼女とあまあまH (オリジナル) [DL版]",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Sukebei - \"ひぐちいさみ\" - Torrent File RSS",
