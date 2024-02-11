@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T07:10:17.830Z</updated>
+    <updated>2024-02-11T07:34:06.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] ゆいと二杭 part1]]></title>
+        <id>https://sukebei.nyaa.si/view/4058332</id>
+        <link href="https://sukebei.nyaa.si/download/4058332.torrent"/>
+        <updated>2024-02-11T07:14:34.000Z</updated>
+        <summary type="html"><![CDATA[#4058332 | (同人CG集) [満開開花] ゆいと二杭 part1 | 277.0 MiB | Art - Pictures | 0d8a63d7e784f4bb7d3d9640d182c1d4d9208de5]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Doukyo Suru Neneki - 02 (同居する粘液 第2話 混ざり合う日常) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/4057508</id>
