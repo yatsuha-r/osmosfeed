@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-12T06:34:18.858Z</updated>
+    <updated>2024-02-12T07:09:32.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] ゆいと二杭 part1]]></title>
+        <id>https://sukebei.nyaa.si/view/4058824</id>
+        <link href="https://sukebei.nyaa.si/download/4058824.torrent"/>
+        <updated>2024-02-12T06:30:54.000Z</updated>
+        <summary type="html"><![CDATA[#4058824 | (同人CG集) [満開開花] ゆいと二杭 part1 | 618.5 MiB | Art - Pictures | 33727ab41cc4586912e7f5e2a1ca3e97a81ef024]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SakuraCircle] Mihitsu no Koi - 02 (未必の恋　〜カレシの彼女♥〜) - English Softsubs]]></title>
         <id>https://sukebei.nyaa.si/view/4058661</id>
