@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T03:11:55.780Z</updated>
+    <updated>2024-02-14T03:35:30.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(C103) [50on! (愛上陸)] 濁音 6 (よろず)]]></title>
+        <id>https://sukebei.nyaa.si/view/4059720</id>
+        <link href="https://sukebei.nyaa.si/download/4059720.torrent"/>
+        <updated>2024-02-14T03:26:20.000Z</updated>
+        <summary type="html"><![CDATA[#4059720 | (C103) [50on! (愛上陸)] 濁音 6 (よろず) | 54.1 MiB | Art - Doujinshi | 5367dc639b7603fba3b49b804e67f8c5290fbe7d]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(同人CG集) [満開開花] ゆいと二杭 part1]]></title>
         <id>https://sukebei.nyaa.si/view/4058824</id>
