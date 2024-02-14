@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T05:35:04.399Z</updated>
+    <updated>2024-02-14T06:13:22.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(C103) [50on! (愛上陸)] 濁音 7 (魔都精兵のスレイブ)]]></title>
+        <id>https://sukebei.nyaa.si/view/4059748</id>
+        <link href="https://sukebei.nyaa.si/download/4059748.torrent"/>
+        <updated>2024-02-14T03:59:43.000Z</updated>
+        <summary type="html"><![CDATA[#4059748 | (C103) [50on! (愛上陸)] 濁音 7 (魔都精兵のスレイブ) | 7.4 MiB | Art - Doujinshi | 3f3e65ba7466ba152bfc1b9acc7e2a5efd7d434b]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(C103) [50on! (愛上陸)] 濁音 6 (よろず)]]></title>
         <id>https://sukebei.nyaa.si/view/4059720</id>
