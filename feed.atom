@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T10:09:33.693Z</updated>
+    <updated>2024-02-17T10:33:43.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(成年コミック) [愛上陸] イジラレ [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/4061741</id>
+        <link href="https://sukebei.nyaa.si/download/4061741.torrent"/>
+        <updated>2024-02-17T09:09:25.000Z</updated>
+        <summary type="html"><![CDATA[#4061741 | (成年コミック) [愛上陸] イジラレ [DL版] | 248.4 MiB | Art - Manga | 9e4ea6f1a13616a4cebcc0df7e41a425b80b6412]]></summary>
+        <author>
+            <name>Sukebei - "愛上陸" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(成年コミック) [愛上陸] 夢見ル乙女Complete Edition [DL版]]]></title>
         <id>https://sukebei.nyaa.si/view/4061267</id>
