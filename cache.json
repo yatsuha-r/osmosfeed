@@ -2492,7 +2492,18 @@
       "title": "Nyaa - \"江戸前エルフ [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E6%B1%9F%E6%88%B8%E5%89%8D%E3%82%A8%E3%83%AB%E3%83%95+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1779970",
+          "author": null,
+          "description": "#1779970 | [20240216][一般コミック][樋口彰彦] 江戸前エルフ（９） [少年マガジンエッジコミックス][AVIF][DL版] - MangaRoo | 37.2 MiB | Literature - Raw | c44ce5f9ef072fcac0dc12726296e72f21c14b28",
+          "link": "https://nyaa.si/download/1779970.torrent",
+          "publishedOn": "2024-02-19T15:37:17.000Z",
+          "wordCount": null,
+          "title": "[20240216][一般コミック][樋口彰彦] 江戸前エルフ（９） [少年マガジンエッジコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"ジャイアントお嬢様 [AVIF][DL版]\" - Torrent File RSS",
