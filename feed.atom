@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T18:13:02.028Z</updated>
+    <updated>2024-02-19T18:33:56.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Doukyuusei Remake The Animation - 02 (同級生リメイク THE ANIMATION 第2巻) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4063067</id>
+        <link href="https://sukebei.nyaa.si/download/4063067.torrent"/>
+        <updated>2024-02-19T17:21:39.000Z</updated>
+        <summary type="html"><![CDATA[#4063067 | [SakuraCircle] Doukyuusei Remake The Animation - 02 (同級生リメイク THE ANIMATION 第2巻) - English Softsubs | 186.2 MiB | Art - Anime | ba13b307cffdefd3737ab09afd4fb2b225493fa0]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ReinForce] Ayakashi Triangle Vol 5 (BDRip 1920x1080 x264 FLAC)]]></title>
         <id>https://nyaa.si/view/1779522</id>
