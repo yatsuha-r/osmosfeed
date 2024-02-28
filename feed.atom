@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T13:10:20.689Z</updated>
+    <updated>2024-02-28T13:34:55.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[20240222][一般コミック][泉朝樹] 見える子ちゃん １０ [MFC][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1783321</id>
+        <link href="https://nyaa.si/download/1783321.torrent"/>
+        <updated>2024-02-28T12:12:08.000Z</updated>
+        <summary type="html"><![CDATA[#1783321 | [20240222][一般コミック][泉朝樹] 見える子ちゃん １０ [MFC][AVIF][DL版] - MangaRoo | 39.0 MiB | Literature - Raw | 03c4edd334b7ab70f6289c3726439e587f1355bc]]></summary>
+        <author>
+            <name>Nyaa - "見える子ちゃん [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(同人CG集) [満開開花] ゆいと二杭 part2]]></title>
         <id>https://sukebei.nyaa.si/view/4067574</id>
