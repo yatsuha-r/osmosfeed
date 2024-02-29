@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T07:33:56.495Z</updated>
+    <updated>2024-02-29T08:12:09.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[SakuraCircle] Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation - 03-04 (異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION 第3-4巻) - English Softsubs]]></title>
+        <id>https://sukebei.nyaa.si/view/4068944</id>
+        <link href="https://sukebei.nyaa.si/download/4068944.torrent"/>
+        <updated>2024-02-29T07:48:11.000Z</updated>
+        <summary type="html"><![CDATA[#4068944 | [SakuraCircle] Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou The Animation - 03-04 (異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION 第3-4巻) - English Softsubs | 233.8 MiB | Art - Anime | dfd70f91a1531dc4923fb7f96435b4049fc2956a]]></summary>
+        <author>
+            <name>Sukebei - "[SakuraCircle]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[20240222][一般コミック][泉朝樹] 見える子ちゃん １０ [MFC][AVIF][DL版] - MangaRoo]]></title>
         <id>https://nyaa.si/view/1783321</id>
