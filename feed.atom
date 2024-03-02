@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T22:09:31.825Z</updated>
+    <updated>2024-03-02T22:33:57.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -2411,16 +2411,6 @@ The post [231111][メフィスト☆] くのイチ忍法帳 第四幕 ～戦乱�
         <summary type="html"><![CDATA[#3992701 | (同人誌) [富士やま] 君が思うよりもっと (オリジナル) | 109.4 MiB | Art - Doujinshi | 2472a90d53c4b647691ff05f96ab076bcb2048a8]]></summary>
         <author>
             <name>Sukebei - "富士やま" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Fantia] NMD Ishikei 石恵 (2022.09~2023.11.04)  (500 yen plan)]]></title>
-        <id>https://sukebei.nyaa.si/view/3992622</id>
-        <link href="https://sukebei.nyaa.si/download/3992622.torrent"/>
-        <updated>2023-11-04T09:52:40.000Z</updated>
-        <summary type="html"><![CDATA[#3992622 | [Fantia] NMD Ishikei 石恵 (2022.09~2023.11.04)  (500 yen plan) | 715.6 MiB | Art - Pictures | 710f903d2e57760602dbd91879c0372bdef04583]]></summary>
-        <author>
-            <name>Sukebei - "石恵" - Torrent File RSS</name>
         </author>
     </entry>
     <entry>
