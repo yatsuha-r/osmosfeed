@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T16:11:29.229Z</updated>
+    <updated>2024-03-02T16:34:15.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(同人誌) [TOZAN：BU (富士やま)] 君が思うよりもっと (オリジナル) [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/4070630</id>
+        <link href="https://sukebei.nyaa.si/download/4070630.torrent"/>
+        <updated>2024-03-02T16:10:26.000Z</updated>
+        <summary type="html"><![CDATA[#4070630 | (同人誌) [TOZAN：BU (富士やま)] 君が思うよりもっと (オリジナル) [DL版] | 126.3 MiB | Art - Doujinshi | 0bb067abd8cdc0016952a9d040c3f82ca7ba71ed]]></summary>
+        <author>
+            <name>Sukebei - "富士やま" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[極彩花夢] OVA 初恋時間。 ＃6 [720P][WEBRip][HEVC 10bit]]]></title>
         <id>https://sukebei.nyaa.si/view/4070509</id>
