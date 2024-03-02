@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T11:08:39.675Z</updated>
+    <updated>2024-03-02T11:33:51.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[極彩花夢] OVA 初恋時間。 ＃6 [720P][WEBRip][HEVC 10bit]]]></title>
+        <id>https://sukebei.nyaa.si/view/4070509</id>
+        <link href="https://sukebei.nyaa.si/download/4070509.torrent"/>
+        <updated>2024-03-02T11:29:19.000Z</updated>
+        <summary type="html"><![CDATA[#4070509 | [極彩花夢] OVA 初恋時間。 ＃6 [720P][WEBRip][HEVC 10bit] | 287.1 MiB | Art - Anime | 4b1a9ab4d9a4b82275daf38e567f5a354c9bc1e8]]></summary>
+        <author>
+            <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[極彩花夢] OVA 初恋時間。 ＃5 [720P][WEBRip][HEVC 10bit]]]></title>
+        <id>https://sukebei.nyaa.si/view/4070505</id>
+        <link href="https://sukebei.nyaa.si/download/4070505.torrent"/>
+        <updated>2024-03-02T11:25:09.000Z</updated>
+        <summary type="html"><![CDATA[#4070505 | [極彩花夢] OVA 初恋時間。 ＃5 [720P][WEBRip][HEVC 10bit] | 294.0 MiB | Art - Anime | c96e7250e6a096a454027ff2646a82ae6fe99c13]]></summary>
+        <author>
+            <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ReinForce] Kage No Jitsuryokusha Ni Naritakute! S2 Vol 2 (BDRip 1920x1080 x264 FLAC)]]></title>
         <id>https://nyaa.si/view/1784493</id>
