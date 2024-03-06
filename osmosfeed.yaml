@@ -1,7 +1,7 @@
 cacheUrl: https://yatsuha-r.github.io/osmosfeed/cache.json
 siteTitle: "osmos::feed"
 timezone: Asia/Tokyo
-cacheMaxDays: 180
+cacheMaxDays: 365
 
 sources:
 # Hentai sharing | 先行
