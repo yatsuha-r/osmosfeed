@@ -3190,7 +3190,18 @@
       "title": "Nyaa - \"デキる猫は今日も憂鬱 [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E3%83%87%E3%82%AD%E3%82%8B%E7%8C%AB%E3%81%AF%E4%BB%8A%E6%97%A5%E3%82%82%E6%86%82%E9%AC%B1+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1788206",
+          "author": null,
+          "description": "#1788206 | [20240308][一般コミック][山田ヒツジ] デキる猫は今日も憂鬱（９） [シリウスコミックス][AVIF][DL版] - MangaRoo | 25.9 MiB | Literature - Raw | 7cbaaaf6404f1e6882fb967daba8d4067a79b932",
+          "link": "https://nyaa.si/download/1788206.torrent",
+          "publishedOn": "2024-03-10T18:09:04.000Z",
+          "wordCount": null,
+          "title": "[20240308][一般コミック][山田ヒツジ] デキる猫は今日も憂鬱（９） [シリウスコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"地雷なんですか？地原さん [AVIF][DL版]\" - Torrent File RSS",

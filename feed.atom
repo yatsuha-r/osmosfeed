@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T20:10:50.170Z</updated>
+    <updated>2024-03-10T20:34:33.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[20240308][一般コミック][山田ヒツジ] デキる猫は今日も憂鬱（９） [シリウスコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1788206</id>
+        <link href="https://nyaa.si/download/1788206.torrent"/>
+        <updated>2024-03-10T18:09:04.000Z</updated>
+        <summary type="html"><![CDATA[#1788206 | [20240308][一般コミック][山田ヒツジ] デキる猫は今日も憂鬱（９） [シリウスコミックス][AVIF][DL版] - MangaRoo | 25.9 MiB | Literature - Raw | 7cbaaaf6404f1e6882fb967daba8d4067a79b932]]></summary>
+        <author>
+            <name>Nyaa - "デキる猫は今日も憂鬱 [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ASW] Mato Seihei no Slave - 10 [1080p HEVC x265 10Bit][AAC]]]></title>
         <id>https://nyaa.si/view/1787246</id>
