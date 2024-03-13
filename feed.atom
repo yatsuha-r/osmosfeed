@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-13T14:34:03.376Z</updated>
+    <updated>2024-03-13T15:10:52.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[20240312][一般コミック][河添太一] 不徳のギルド 13巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1789064</id>
+        <link href="https://nyaa.si/download/1789064.torrent"/>
+        <updated>2024-03-13T14:23:09.000Z</updated>
+        <summary type="html"><![CDATA[#1789064 | [20240312][一般コミック][河添太一] 不徳のギルド 13巻 [デジタル版ガンガンコミックス][AVIF][DL版] - MangaRoo | 67.6 MiB | Literature - Raw | 5af7b639b0c5124995f236174fa9d1867b4e3f5c]]></summary>
+        <author>
+            <name>Nyaa - "不徳のギルド [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[20240312][一般コミック][あｆろ] ゆるキャン△ １６巻 [まんがタイムKRコミックス][AVIF][DL版] - MangaRoo]]></title>
         <id>https://nyaa.si/view/1789060</id>
