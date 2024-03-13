@@ -2943,7 +2943,18 @@
       "title": "Nyaa - \"ゆるキャン [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1789060",
+          "author": null,
+          "description": "#1789060 | [20240312][一般コミック][あｆろ] ゆるキャン△ １６巻 [まんがタイムKRコミックス][AVIF][DL版] - MangaRoo | 31.6 MiB | Literature - Raw | 4b61ad1d93885a5e2595715991422612bf37348f",
+          "link": "https://nyaa.si/download/1789060.torrent",
+          "publishedOn": "2024-03-13T14:23:05.000Z",
+          "wordCount": 366,
+          "title": "[20240312][一般コミック][あｆろ] ゆるキャン△ １６巻 [まんがタイムKRコミックス][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"ＲＰＧ不動産 [AVIF][DL版]\" - Torrent File RSS",
