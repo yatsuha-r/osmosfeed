@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T11:34:22.235Z</updated>
+    <updated>2024-03-14T12:18:16.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(同人CG集) [満開開花] デリバリーメイト最終回]]></title>
+        <id>https://sukebei.nyaa.si/view/4077466</id>
+        <link href="https://sukebei.nyaa.si/download/4077466.torrent"/>
+        <updated>2024-03-14T11:58:13.000Z</updated>
+        <summary type="html"><![CDATA[#4077466 | (同人CG集) [満開開花] デリバリーメイト最終回 | 1.1 GiB | Art - Pictures | 833df7ced04cfd7306ab7d414096a1b87305810b]]></summary>
+        <author>
+            <name>Sukebei - "満開開花" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ASW] Mahou Shoujo ni Akogarete - 11 [1080p HEVC x265 10Bit][AAC]]]></title>
         <id>https://nyaa.si/view/1789269</id>
