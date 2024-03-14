@@ -2562,6 +2562,43 @@
       ]
     },
     {
+      "title": "Nyaa - \"BD 1080 Kanojo Okarishimasu\" - Torrent File RSS",
+      "feedUrl": "https://nyaa.si/?page=rss&q=BD+1080+Kanojo+Okarishimasu&c=1_4&f=0",
+      "siteUrl": "https://nyaa.si/",
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1788548",
+          "author": null,
+          "description": "#1788548 | [7³ACG & Sakurato] Kanojo, Okarishimasu 3／彼女, お借りします 3rd Season [BDRip 1080p x265 FLAC] | 10.7 GiB | Anime - Raw | d0141e8bc4aa105c45bc7dec688366923ab929f6",
+          "link": "https://nyaa.si/download/1788548.torrent",
+          "publishedOn": "2024-03-11T17:56:16.000Z",
+          "wordCount": null,
+          "title": "[7³ACG & Sakurato] Kanojo, Okarishimasu 3／彼女, お借りします 3rd Season [BDRip 1080p x265 FLAC]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nyaa.si/view/1786674",
+          "author": null,
+          "description": "#1786674 | [IrizaRaws] Kanojo Okarishimasu S3 (BDRip 1920x1080 x264 10bit FLACx2) | 46.9 GiB | Anime - Raw | ecaec452a7eaf4f6bc0438ca1893f8fbbd6709d5",
+          "link": "https://nyaa.si/download/1786674.torrent",
+          "publishedOn": "2024-03-07T18:17:21.000Z",
+          "wordCount": 5028,
+          "title": "[IrizaRaws] Kanojo Okarishimasu S3 (BDRip 1920x1080 x264 10bit FLACx2)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nyaa.si/view/1782375",
+          "author": null,
+          "description": "#1782375 | [ReinForce] Kanojo Okarishimasu (BDRip 1920x1080 x264 FLAC) | 91.3 GiB | Anime - Raw | 5d8065113400c3fbcd3cffa8c1c1cea589ee438c",
+          "link": "https://nyaa.si/download/1782375.torrent",
+          "publishedOn": "2024-02-25T16:27:59.000Z",
+          "wordCount": null,
+          "title": "[ReinForce] Kanojo Okarishimasu (BDRip 1920x1080 x264 FLAC)",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "Nyaa - \"BD 1080 Alice Gear Aegis\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=BD+1080+Alice+Gear+Aegis&c=1_4&f=0",
       "siteUrl": "https://nyaa.si/",
