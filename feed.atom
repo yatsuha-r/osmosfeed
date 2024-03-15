@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T20:12:06.129Z</updated>
+    <updated>2024-03-15T20:34:18.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(同人誌) [しばどっぐハウス (いぬお)] みーちゃんがきた! (オリジナル)]]></title>
+        <id>https://sukebei.nyaa.si/view/4078474</id>
+        <link href="https://sukebei.nyaa.si/download/4078474.torrent"/>
+        <updated>2024-03-15T19:40:21.000Z</updated>
+        <summary type="html"><![CDATA[#4078474 | (同人誌) [しばどっぐハウス (いぬお)] みーちゃんがきた! (オリジナル) | 31.9 MiB | Art - Doujinshi | 56a012a0fc039a051a0a54bf08db7a3ec9173d28]]></summary>
+        <author>
+            <name>Sukebei - "みちきんぐ" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[極彩花夢] OVA 初恋時間。 ＃1 [1080P][WEBRip][HEVC 10bit]]]></title>
         <id>https://sukebei.nyaa.si/view/4078348</id>
