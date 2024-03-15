@@ -683,6 +683,18 @@
       ]
     },
     {
+      "title": "You searched for The Legend of Heroes « Install Guide Games",
+      "feedUrl": "https://igg-games.com/search/The+Legend+of+Heroes/feed/rss2/",
+      "siteUrl": "https://igg-games.com/",
+      "articles": []
+    },
+    {
+      "title": "You searched for The Legend of Heroes « PCGamesTorrents",
+      "feedUrl": "https://pcgamestorrents.com/search/The+Legend+of+Heroes/feed/rss2/",
+      "siteUrl": "https://pcgamestorrents.com/",
+      "articles": []
+    },
+    {
       "title": "You searched for Atelier Ryza « Install Guide Games",
       "feedUrl": "https://igg-games.com/search/Atelier+Ryza/feed/rss2/",
       "siteUrl": "https://igg-games.com/",
@@ -1790,6 +1802,16 @@
       "feedUrl": "https://sukebei.nyaa.si/?page=rss&q=%5B%E6%A5%B5%E5%BD%A9%E8%8A%B1%E5%A4%A2%5D+%5BWEBRip%5D&c=1_1&f=0",
       "siteUrl": "https://sukebei.nyaa.si/",
       "articles": [
+        {
+          "id": "https://sukebei.nyaa.si/view/4078348",
+          "author": null,
+          "description": "#4078348 | [極彩花夢] OVA 初恋時間。 ＃1 [1080P][WEBRip][HEVC 10bit] | 2.0 GiB | Art - Anime | 27261993344f9e455c247375b39439ac35b2dc28",
+          "link": "https://sukebei.nyaa.si/download/4078348.torrent",
+          "publishedOn": "2024-03-15T12:55:53.000Z",
+          "wordCount": null,
+          "title": "[極彩花夢] OVA 初恋時間。 ＃1 [1080P][WEBRip][HEVC 10bit]",
+          "imageUrl": null
+        },
         {
           "id": "https://sukebei.nyaa.si/view/4070509",
           "author": null,
