@@ -2351,18 +2351,7 @@
       "title": "Sukebei - \"kakao\" - Torrent File RSS",
       "feedUrl": "https://sukebei.nyaa.si/?page=rss&q=kakao&c=1_0&f=0",
       "siteUrl": "https://sukebei.nyaa.si/",
-      "articles": [
-        {
-          "id": "https://sukebei.nyaa.si/view/4002629",
-          "author": null,
-          "description": "#4002629 | (C102) [ちょこれーとらんど (kakao)] サキュバス・ワカバ (オリジナル) | 86.6 MiB | Art - Doujinshi | f86ee588406dfe875b198979e294bee2521dd21b",
-          "link": "https://sukebei.nyaa.si/download/4002629.torrent",
-          "publishedOn": "2023-11-20T12:42:57.000Z",
-          "wordCount": null,
-          "title": "(C102) [ちょこれーとらんど (kakao)] サキュバス・ワカバ (オリジナル)",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Sukebei - \"なかじまゆか\" - Torrent File RSS",
