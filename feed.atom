@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T23:11:09.093Z</updated>
+    <updated>2024-03-21T23:33:57.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
@@ -2777,26 +2777,6 @@ The post [しがのこ / しがのま] パラダイス・サキュバス_先行�
         <summary type="html"><![CDATA[#4005571 | [極彩花夢][ばにぃうぉ～か～]OVA 初恋時間。 ＃1[1080P][WEBRip][HEVC 10bit][中日内封] | 860.9 MiB | Art - Anime | b0e395a97eab4b0fd6965c3703c72f794d8278c2]]></summary>
         <author>
             <name>Sukebei - "[極彩花夢] [WEBRip]" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[231124][ばにぃうぉ～か～]OVA初恋時間。 ＃2 セル版(No Watermark).mp4]]></title>
-        <id>https://sukebei.nyaa.si/view/4004430</id>
-        <link href="https://sukebei.nyaa.si/download/4004430.torrent"/>
-        <updated>2023-11-23T11:18:55.000Z</updated>
-        <summary type="html"><![CDATA[#4004430 | [231124][ばにぃうぉ～か～]OVA初恋時間。 ＃2 セル版(No Watermark).mp4 | 102.4 MiB | Art - Anime | 8f6458ff48b7615b4ecbdd299ef254970f0a6fab]]></summary>
-        <author>
-            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[231124][ばにぃうぉ～か～]OVA初恋時間。 ＃1 セル版(No Watermark).mp4]]></title>
-        <id>https://sukebei.nyaa.si/view/4004429</id>
-        <link href="https://sukebei.nyaa.si/download/4004429.torrent"/>
-        <updated>2023-11-23T11:18:51.000Z</updated>
-        <summary type="html"><![CDATA[#4004429 | [231124][ばにぃうぉ～か～]OVA初恋時間。 ＃1 セル版(No Watermark).mp4 | 95.9 MiB | Art - Anime | 5700d72543299b319efd6635c05341ebf9a7bd2e]]></summary>
-        <author>
-            <name>Sukebei - "(No Watermark)" - Torrent File RSS</name>
         </author>
     </entry>
 </feed>
