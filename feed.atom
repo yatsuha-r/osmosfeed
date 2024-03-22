@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T13:34:12.213Z</updated>
+    <updated>2024-03-22T14:09:56.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(同人誌) [知恵の原石 (あずせ)] C95,C97,C100,C101,C102のコミケおまけ折本集 (アイドルマスター シンデレラガールズ) [DL版]]]></title>
+        <id>https://sukebei.nyaa.si/view/4081677</id>
+        <link href="https://sukebei.nyaa.si/download/4081677.torrent"/>
+        <updated>2024-03-22T03:13:57.000Z</updated>
+        <summary type="html"><![CDATA[#4081677 | (同人誌) [知恵の原石 (あずせ)] C95,C97,C100,C101,C102のコミケおまけ折本集 (アイドルマスター シンデレラガールズ) [DL版] | 8.3 MiB | Art - Doujinshi | ef0151529ae81dfbe64bbd0e71e6c6693fdc8b2f]]></summary>
+        <author>
+            <name>Sukebei - "石恵" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ASW] Yuuki Bakuhatsu Bang Bravern - 11 [1080p HEVC x265 10Bit][AAC]]]></title>
         <id>https://nyaa.si/view/1792749</id>
