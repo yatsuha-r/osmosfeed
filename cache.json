@@ -3006,7 +3006,18 @@
       "title": "Nyaa - \"殆ど死んでいる 異世界おじさん [AVIF][DL版]\" - Torrent File RSS",
       "feedUrl": "https://nyaa.si/?page=rss&q=%E6%AE%86%E3%81%A9%E6%AD%BB%E3%82%93%E3%81%A7%E3%81%84%E3%82%8B+%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%8A%E3%81%98%E3%81%95%E3%82%93+%5BAVIF%5D%5BDL%E7%89%88%5D&c=3_3&f=0",
       "siteUrl": "https://nyaa.si/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://nyaa.si/view/1793931",
+          "author": null,
+          "description": "#1793931 | [20240323][一般コミック][殆ど死んでいる] 異世界おじさん １１ [MFC][AVIF][DL版] - MangaRoo | 52.5 MiB | Literature - Raw | 79dadffa1a2ae136766bf75f62dcf0cfe70dfdaa",
+          "link": "https://nyaa.si/download/1793931.torrent",
+          "publishedOn": "2024-03-24T04:20:38.000Z",
+          "wordCount": null,
+          "title": "[20240323][一般コミック][殆ど死んでいる] 異世界おじさん １１ [MFC][AVIF][DL版] - MangaRoo",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Nyaa - \"その着せ替え人形は恋をする [AVIF][DL版]\" - Torrent File RSS",

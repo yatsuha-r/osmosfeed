@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yatsuha-r.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-24T05:34:11.807Z</updated>
+    <updated>2024-03-24T06:12:00.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yatsuha-r.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://yatsuha-r.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[20240323][一般コミック][殆ど死んでいる] 異世界おじさん １１ [MFC][AVIF][DL版] - MangaRoo]]></title>
+        <id>https://nyaa.si/view/1793931</id>
+        <link href="https://nyaa.si/download/1793931.torrent"/>
+        <updated>2024-03-24T04:20:38.000Z</updated>
+        <summary type="html"><![CDATA[#1793931 | [20240323][一般コミック][殆ど死んでいる] 異世界おじさん １１ [MFC][AVIF][DL版] - MangaRoo | 52.5 MiB | Literature - Raw | 79dadffa1a2ae136766bf75f62dcf0cfe70dfdaa]]></summary>
+        <author>
+            <name>Nyaa - "殆ど死んでいる 異世界おじさん [AVIF][DL版]" - Torrent File RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(同人CG集) [満開開花] デリバリーメイト外伝 ～part2～ 『バレー部の王子様がみんなの前でメス堕ちしちゃうコース』]]></title>
         <id>https://sukebei.nyaa.si/view/4082663</id>
